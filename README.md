@@ -28,3 +28,4 @@ Analysis conducted using Python version 3.11.13 using the following packages:
 - seaborn v0.13.2
 - networkx v3.5
  
+Typical install time < 1 minute
