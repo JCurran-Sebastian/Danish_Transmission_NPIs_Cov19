@@ -1,0 +1,4 @@
+,PERSON_ID,address,school,school_type,workplace,kommune,region,SampleDateTime,strain
+520,520,address_46,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-29,sequence_520
+36,36,address_243,nan,nan,nan,1,1,2021-01-29,sequence_36
+646,646,address_189,nan,nan,nan,1,1,2021-01-28,sequence_646

@@ -1,0 +1,1001 @@
+,strain,PERSON_ID,Age_at_testing,SampleDateTime,UNIQUE_ADDRESS_ID,KOMMUNE_NAME,KOM,Region,Regionskode,UDD_ID,school_type,ARB_NR,Days_since_complete_vaccination,Complete_vaccination_before_sampling,Days_since_first_vaccination,First_vaccination_before_sampling,Days_since_third_vaccination,Third_vaccination_before_sampling
+0,sequence_0,0,67,2021-01-06,address_303,1,1,1,1,nan,nan,workplace_B,5.0,1,27.0,1,9.0,1
+1,sequence_1,1,3,2021-01-28,address_211,1,1,1,1,school_C,Gymnasiale uddannelse,nan,,0,31.0,1,,0
+2,sequence_2,2,5,2021-01-16,address_294,1,1,1,1,nan,nan,workplace_A,21.0,1,48.0,1,22.0,1
+3,sequence_3,3,15,2021-01-27,address_53,1,1,1,1,nan,nan,nan,1.0,1,8.0,1,58.0,1
+4,sequence_4,4,31,2021-01-20,address_204,1,1,1,1,nan,nan,nan,,0,28.0,1,,0
+5,sequence_5,5,48,2021-01-03,address_152,1,1,1,1,nan,nan,nan,,0,51.0,1,,0
+6,sequence_6,6,29,2021-01-17,address_143,1,1,1,1,nan,nan,nan,,0,,0,,0
+7,sequence_7,7,26,2021-01-18,address_177,1,1,1,1,nan,nan,workplace_B,,0,,0,,0
+8,sequence_8,8,45,2021-01-03,address_279,1,1,1,1,nan,nan,nan,6.0,1,36.0,1,27.0,1
+9,sequence_9,9,46,2021-01-28,address_233,1,1,1,1,nan,nan,nan,,0,59.0,1,,0
+10,sequence_10,10,48,2021-01-22,address_154,1,1,1,1,nan,nan,workplace_A,27.0,1,43.0,1,,0
+11,sequence_11,11,18,2021-01-04,address_30,1,1,1,1,school_A,Grundskole,workplace_A,,0,18.0,1,,0
+12,sequence_12,12,12,2021-01-02,address_171,1,1,1,1,school_C,Gymnasiale uddannelse,nan,28.0,1,23.0,1,,0
+13,sequence_13,13,55,2021-01-21,address_158,1,1,1,1,nan,nan,workplace_A,,0,17.0,1,,0
+14,sequence_14,14,23,2021-01-23,address_236,1,1,1,1,nan,nan,nan,,0,,0,,0
+15,sequence_15,15,12,2021-01-14,address_282,1,1,1,1,nan,nan,nan,,0,40.0,1,,0
+16,sequence_16,16,7,2021-01-30,address_120,1,1,1,1,nan,nan,workplace_C,,0,11.0,1,,0
+17,sequence_17,17,6,2021-01-25,address_325,1,1,1,1,nan,nan,nan,0.0,1,9.0,1,39.0,1
+18,sequence_18,18,26,2021-01-13,address_246,1,1,1,1,nan,nan,nan,19.0,1,57.0,1,,0
+19,sequence_19,19,0,2021-01-29,address_50,1,1,1,1,nan,nan,workplace_A,,0,46.0,1,,0
+20,sequence_20,20,64,2021-01-09,address_240,1,1,1,1,nan,nan,nan,,0,,0,,0
+21,sequence_21,21,52,2021-01-14,address_251,1,1,1,1,nan,nan,nan,,0,,0,,0
+22,sequence_22,22,51,2021-01-18,address_76,1,1,1,1,nan,nan,nan,30.0,1,36.0,1,39.0,1
+23,sequence_23,23,47,2021-01-04,address_293,1,1,1,1,nan,nan,nan,,0,5.0,1,,0
+24,sequence_24,24,14,2021-01-22,address_290,1,1,1,1,nan,nan,nan,20.0,1,49.0,1,23.0,1
+25,sequence_25,25,68,2021-01-05,address_195,1,1,1,1,school_B,Gymnasiale uddannelse,nan,,0,,0,,0
+26,sequence_26,26,27,2021-01-11,address_231,1,1,1,1,nan,nan,nan,3.0,1,36.0,1,,0
+27,sequence_27,27,73,2021-01-19,address_139,1,1,1,1,school_A,Grundskole,nan,,0,,0,,0
+28,sequence_28,28,65,2021-01-12,address_128,1,1,1,1,nan,nan,nan,25.0,1,53.0,1,,0
+29,sequence_29,29,17,2021-01-31,address_233,1,1,1,1,nan,nan,nan,,0,,0,,0
+30,sequence_30,30,64,2021-01-30,address_331,1,1,1,1,nan,nan,workplace_B,31.0,1,33.0,1,43.0,1
+31,sequence_31,31,4,2021-01-02,address_3,1,1,1,1,nan,nan,nan,36.0,1,15.0,1,53.0,1
+32,sequence_32,32,34,2021-01-11,address_258,1,1,1,1,nan,nan,workplace_A,,0,13.0,1,,0
+33,sequence_33,33,35,2021-01-05,address_275,1,1,1,1,nan,nan,nan,,0,,0,,0
+34,sequence_34,34,20,2021-01-07,address_107,1,1,1,1,nan,nan,workplace_A,18.0,1,5.0,1,59.0,1
+35,sequence_35,35,79,2021-01-10,address_14,1,1,1,1,nan,nan,nan,,0,48.0,1,,0
+36,sequence_36,36,13,2021-01-29,address_243,1,1,1,1,nan,nan,nan,52.0,1,1.0,1,40.0,1
+37,sequence_37,37,34,2021-01-05,address_316,1,1,1,1,nan,nan,nan,,0,3.0,1,,0
+38,sequence_38,38,19,2021-01-29,address_107,1,1,1,1,nan,nan,nan,16.0,1,31.0,1,1.0,1
+39,sequence_39,39,30,2021-01-04,address_81,1,1,1,1,nan,nan,workplace_B,,0,35.0,1,,0
+40,sequence_40,40,23,2021-01-30,address_269,1,1,1,1,nan,nan,nan,,0,32.0,1,,0
+41,sequence_41,41,6,2021-01-06,address_116,1,1,1,1,nan,nan,nan,,0,,0,,0
+42,sequence_42,42,21,2021-01-03,address_96,1,1,1,1,nan,nan,nan,,0,,0,,0
+43,sequence_43,43,4,2021-01-30,address_197,1,1,1,1,nan,nan,workplace_C,51.0,1,38.0,1,18.0,1
+44,sequence_44,44,25,2021-01-25,address_113,1,1,1,1,nan,nan,workplace_C,,0,57.0,1,,0
+45,sequence_45,45,71,2021-01-14,address_159,1,1,1,1,nan,nan,nan,49.0,1,42.0,1,,0
+46,sequence_46,46,30,2021-01-27,address_249,1,1,1,1,nan,nan,workplace_A,54.0,1,55.0,1,10.0,1
+47,sequence_47,47,75,2021-01-21,address_89,1,1,1,1,school_B,Gymnasiale uddannelse,nan,14.0,1,30.0,1,31.0,1
+48,sequence_48,48,28,2021-01-14,address_84,1,1,1,1,nan,nan,nan,,0,13.0,1,,0
+49,sequence_49,49,10,2021-01-23,address_45,1,1,1,1,nan,nan,workplace_A,37.0,1,4.0,1,15.0,1
+50,sequence_50,50,28,2021-01-20,address_16,1,1,1,1,nan,nan,workplace_A,1.0,1,25.0,1,8.0,1
+51,sequence_51,51,68,2021-01-21,address_41,1,1,1,1,nan,nan,nan,3.0,1,47.0,1,20.0,1
+52,sequence_52,52,56,2021-01-06,address_328,1,1,1,1,nan,nan,workplace_C,42.0,1,42.0,1,22.0,1
+53,sequence_53,53,68,2021-01-14,address_236,1,1,1,1,nan,nan,nan,40.0,1,20.0,1,,0
+54,sequence_54,54,60,2021-01-07,address_326,1,1,1,1,nan,nan,nan,39.0,1,12.0,1,,0
+55,sequence_55,55,15,2021-01-07,address_86,1,1,1,1,nan,nan,nan,55.0,1,9.0,1,35.0,1
+56,sequence_56,56,18,2021-01-29,address_303,1,1,1,1,nan,nan,nan,43.0,1,50.0,1,24.0,1
+57,sequence_57,57,22,2021-01-17,address_177,1,1,1,1,nan,nan,nan,44.0,1,9.0,1,,0
+58,sequence_58,58,23,2021-01-13,address_18,1,1,1,1,school_C,Gymnasiale uddannelse,nan,39.0,1,42.0,1,50.0,1
+59,sequence_59,59,19,2021-01-02,address_85,1,1,1,1,nan,nan,nan,54.0,1,59.0,1,43.0,1
+60,sequence_60,60,19,2021-01-07,address_174,1,1,1,1,nan,nan,nan,43.0,1,43.0,1,,0
+61,sequence_61,61,37,2021-01-25,address_293,1,1,1,1,nan,nan,workplace_A,18.0,1,33.0,1,,0
+62,sequence_62,62,71,2021-01-07,address_294,1,1,1,1,school_B,Gymnasiale uddannelse,nan,,0,,0,,0
+63,sequence_63,63,36,2021-01-13,address_135,1,1,1,1,nan,nan,nan,56.0,1,53.0,1,,0
+64,sequence_64,64,6,2021-01-29,address_195,1,1,1,1,nan,nan,nan,32.0,1,17.0,1,21.0,1
+65,sequence_65,65,27,2021-01-19,address_238,1,1,1,1,nan,nan,nan,15.0,1,41.0,1,31.0,1
+66,sequence_66,66,20,2021-01-30,address_47,1,1,1,1,school_B,Gymnasiale uddannelse,nan,12.0,1,43.0,1,,0
+67,sequence_67,67,12,2021-01-12,address_244,1,1,1,1,nan,nan,workplace_B,,0,,0,,0
+68,sequence_68,68,1,2021-01-14,address_175,1,1,1,1,school_B,Gymnasiale uddannelse,nan,,0,,0,,0
+69,sequence_69,69,57,2021-01-28,address_34,1,1,1,1,nan,nan,nan,,0,,0,,0
+70,sequence_70,70,10,2021-01-30,address_10,1,1,1,1,nan,nan,nan,,0,51.0,1,,0
+71,sequence_71,71,23,2021-01-16,address_284,1,1,1,1,school_A,Grundskole,workplace_B,27.0,1,27.0,1,,0
+72,sequence_72,72,26,2021-01-18,address_4,1,1,1,1,school_C,Gymnasiale uddannelse,nan,,0,44.0,1,,0
+73,sequence_73,73,70,2021-01-15,address_82,1,1,1,1,school_C,Gymnasiale uddannelse,workplace_C,2.0,1,48.0,1,5.0,1
+74,sequence_74,74,57,2021-01-27,address_103,1,1,1,1,nan,nan,workplace_B,43.0,1,40.0,1,23.0,1
+75,sequence_75,75,38,2021-01-29,address_311,1,1,1,1,nan,nan,nan,12.0,1,44.0,1,41.0,1
+76,sequence_76,76,33,2021-01-01,address_235,1,1,1,1,nan,nan,workplace_B,5.0,1,30.0,1,11.0,1
+77,sequence_77,77,37,2021-01-07,address_151,1,1,1,1,nan,nan,workplace_C,,0,,0,,0
+78,sequence_78,78,26,2021-01-02,address_249,1,1,1,1,nan,nan,nan,38.0,1,15.0,1,45.0,1
+79,sequence_79,79,36,2021-01-06,address_62,1,1,1,1,nan,nan,nan,56.0,1,36.0,1,,0
+80,sequence_80,80,58,2021-01-21,address_183,1,1,1,1,nan,nan,workplace_A,,0,44.0,1,,0
+81,sequence_81,81,75,2021-01-09,address_105,1,1,1,1,nan,nan,workplace_C,46.0,1,20.0,1,6.0,1
+82,sequence_82,82,53,2021-01-28,address_256,1,1,1,1,nan,nan,nan,58.0,1,13.0,1,21.0,1
+83,sequence_83,83,60,2021-01-22,address_121,1,1,1,1,nan,nan,nan,13.0,1,16.0,1,56.0,1
+84,sequence_84,84,64,2021-01-15,address_249,1,1,1,1,nan,nan,nan,49.0,1,15.0,1,59.0,1
+85,sequence_85,85,10,2021-01-21,address_277,1,1,1,1,nan,nan,nan,,0,30.0,1,,0
+86,sequence_86,86,26,2021-01-15,address_196,1,1,1,1,nan,nan,workplace_B,7.0,1,4.0,1,55.0,1
+87,sequence_87,87,72,2021-01-19,address_119,1,1,1,1,nan,nan,nan,,0,26.0,1,,0
+88,sequence_88,88,62,2021-01-25,address_250,1,1,1,1,nan,nan,nan,35.0,1,46.0,1,26.0,1
+89,sequence_89,89,41,2021-01-17,address_114,1,1,1,1,nan,nan,nan,,0,,0,,0
+90,sequence_90,90,38,2021-01-16,address_1,1,1,1,1,nan,nan,nan,10.0,1,24.0,1,57.0,1
+91,sequence_91,91,45,2021-01-14,address_142,1,1,1,1,nan,nan,nan,,0,57.0,1,,0
+92,sequence_92,92,39,2021-01-30,address_259,1,1,1,1,nan,nan,workplace_C,,0,,0,,0
+93,sequence_93,93,31,2021-01-13,address_286,1,1,1,1,nan,nan,nan,34.0,1,8.0,1,,0
+94,sequence_94,94,72,2021-01-22,address_201,1,1,1,1,nan,nan,nan,19.0,1,17.0,1,43.0,1
+95,sequence_95,95,12,2021-01-03,address_275,1,1,1,1,nan,nan,nan,50.0,1,51.0,1,43.0,1
+96,sequence_96,96,54,2021-01-26,address_26,1,1,1,1,nan,nan,nan,0.0,1,6.0,1,20.0,1
+97,sequence_97,97,19,2021-01-06,address_68,1,1,1,1,nan,nan,nan,,0,,0,,0
+98,sequence_98,98,48,2021-01-30,address_320,1,1,1,1,nan,nan,nan,38.0,1,19.0,1,,0
+99,sequence_99,99,74,2021-01-17,address_150,1,1,1,1,nan,nan,nan,,0,,0,,0
+100,sequence_100,100,27,2021-01-27,address_136,1,1,1,1,school_C,Gymnasiale uddannelse,nan,,0,28.0,1,,0
+101,sequence_101,101,64,2021-01-13,address_172,1,1,1,1,nan,nan,nan,42.0,1,50.0,1,,0
+102,sequence_102,102,54,2021-01-19,address_241,1,1,1,1,nan,nan,workplace_A,,0,10.0,1,,0
+103,sequence_103,103,10,2021-01-01,address_233,1,1,1,1,nan,nan,nan,,0,,0,,0
+104,sequence_104,104,41,2021-01-07,address_15,1,1,1,1,nan,nan,workplace_C,10.0,1,49.0,1,51.0,1
+105,sequence_105,105,16,2021-01-08,address_328,1,1,1,1,nan,nan,workplace_B,58.0,1,35.0,1,46.0,1
+106,sequence_106,106,79,2021-01-09,address_107,1,1,1,1,nan,nan,nan,59.0,1,41.0,1,47.0,1
+107,sequence_107,107,28,2021-01-01,address_130,1,1,1,1,nan,nan,nan,39.0,1,55.0,1,,0
+108,sequence_108,108,23,2021-01-04,address_242,1,1,1,1,nan,nan,nan,34.0,1,17.0,1,,0
+109,sequence_109,109,31,2021-01-16,address_79,1,1,1,1,nan,nan,nan,,0,27.0,1,,0
+110,sequence_110,110,35,2021-01-26,address_195,1,1,1,1,school_A,Grundskole,workplace_A,56.0,1,29.0,1,39.0,1
+111,sequence_111,111,58,2021-01-16,address_46,1,1,1,1,nan,nan,nan,10.0,1,53.0,1,,0
+112,sequence_112,112,72,2021-01-19,address_313,1,1,1,1,nan,nan,workplace_B,,0,,0,,0
+113,sequence_113,113,30,2021-01-04,address_292,1,1,1,1,nan,nan,nan,31.0,1,57.0,1,44.0,1
+114,sequence_114,114,40,2021-01-12,address_88,1,1,1,1,nan,nan,workplace_B,18.0,1,57.0,1,49.0,1
+115,sequence_115,115,43,2021-01-25,address_161,1,1,1,1,nan,nan,nan,1.0,1,17.0,1,10.0,1
+116,sequence_116,116,51,2021-01-25,address_170,1,1,1,1,nan,nan,nan,11.0,1,50.0,1,25.0,1
+117,sequence_117,117,66,2021-01-10,address_2,1,1,1,1,nan,nan,nan,2.0,1,56.0,1,10.0,1
+118,sequence_118,118,37,2021-01-15,address_212,1,1,1,1,nan,nan,nan,0.0,1,8.0,1,47.0,1
+119,sequence_119,119,65,2021-01-31,address_291,1,1,1,1,nan,nan,nan,49.0,1,22.0,1,3.0,1
+120,sequence_120,120,79,2021-01-15,address_274,1,1,1,1,nan,nan,nan,55.0,1,57.0,1,,0
+121,sequence_121,121,37,2021-01-11,address_332,1,1,1,1,nan,nan,workplace_C,,0,32.0,1,,0
+122,sequence_122,122,14,2021-01-06,address_117,1,1,1,1,nan,nan,nan,49.0,1,30.0,1,8.0,1
+123,sequence_123,123,65,2021-01-09,address_81,1,1,1,1,nan,nan,workplace_B,,0,47.0,1,,0
+124,sequence_124,124,26,2021-01-13,address_208,1,1,1,1,school_C,Gymnasiale uddannelse,nan,7.0,1,50.0,1,,0
+125,sequence_125,125,4,2021-01-01,address_8,1,1,1,1,nan,nan,nan,,0,40.0,1,,0
+126,sequence_126,126,33,2021-01-31,address_75,1,1,1,1,nan,nan,nan,,0,,0,,0
+127,sequence_127,127,20,2021-01-16,address_15,1,1,1,1,nan,nan,workplace_C,,0,11.0,1,,0
+128,sequence_128,128,49,2021-01-28,address_276,1,1,1,1,nan,nan,nan,,0,,0,,0
+129,sequence_129,129,58,2021-01-16,address_272,1,1,1,1,nan,nan,nan,16.0,1,2.0,1,,0
+130,sequence_130,130,6,2021-01-27,address_61,1,1,1,1,school_A,Grundskole,nan,16.0,1,34.0,1,0.0,1
+131,sequence_131,131,75,2021-01-22,address_126,1,1,1,1,nan,nan,nan,,0,24.0,1,,0
+132,sequence_132,132,62,2021-01-04,address_211,1,1,1,1,nan,nan,nan,29.0,1,31.0,1,54.0,1
+133,sequence_133,133,55,2021-01-07,address_313,1,1,1,1,nan,nan,nan,,0,34.0,1,,0
+134,sequence_134,134,35,2021-01-26,address_49,1,1,1,1,nan,nan,workplace_B,57.0,1,42.0,1,,0
+135,sequence_135,135,78,2021-01-07,address_318,1,1,1,1,nan,nan,workplace_A,,0,,0,,0
+136,sequence_136,136,71,2021-01-19,address_211,1,1,1,1,nan,nan,nan,,0,,0,,0
+137,sequence_137,137,52,2021-01-06,address_155,1,1,1,1,nan,nan,workplace_B,28.0,1,27.0,1,,0
+138,sequence_138,138,37,2021-01-26,address_233,1,1,1,1,nan,nan,workplace_B,,0,53.0,1,,0
+139,sequence_139,139,17,2021-01-31,address_164,1,1,1,1,nan,nan,workplace_B,,0,43.0,1,,0
+140,sequence_140,140,66,2021-01-02,address_84,1,1,1,1,nan,nan,nan,25.0,1,10.0,1,4.0,1
+141,sequence_141,141,63,2021-01-10,address_317,1,1,1,1,nan,nan,nan,4.0,1,11.0,1,,0
+142,sequence_142,142,41,2021-01-26,address_28,1,1,1,1,nan,nan,nan,8.0,1,17.0,1,53.0,1
+143,sequence_143,143,56,2021-01-05,address_257,1,1,1,1,nan,nan,nan,,0,,0,,0
+144,sequence_144,144,13,2021-01-14,address_267,1,1,1,1,nan,nan,nan,,0,37.0,1,,0
+145,sequence_145,145,58,2021-01-10,address_190,1,1,1,1,nan,nan,workplace_B,7.0,1,18.0,1,5.0,1
+146,sequence_146,146,55,2021-01-12,address_145,1,1,1,1,school_A,Grundskole,nan,57.0,1,8.0,1,28.0,1
+147,sequence_147,147,34,2021-01-26,address_286,1,1,1,1,nan,nan,nan,17.0,1,52.0,1,11.0,1
+148,sequence_148,148,2,2021-01-22,address_294,1,1,1,1,nan,nan,workplace_A,53.0,1,35.0,1,45.0,1
+149,sequence_149,149,8,2021-01-22,address_98,1,1,1,1,school_A,Grundskole,nan,54.0,1,26.0,1,,0
+150,sequence_150,150,67,2021-01-15,address_56,1,1,1,1,nan,nan,nan,,0,,0,,0
+151,sequence_151,151,63,2021-01-28,address_12,1,1,1,1,nan,nan,nan,41.0,1,21.0,1,34.0,1
+152,sequence_152,152,3,2021-01-18,address_8,1,1,1,1,nan,nan,nan,49.0,1,22.0,1,42.0,1
+153,sequence_153,153,22,2021-01-11,address_303,1,1,1,1,nan,nan,nan,13.0,1,29.0,1,14.0,1
+154,sequence_154,154,2,2021-01-23,address_281,1,1,1,1,nan,nan,nan,,0,,0,,0
+155,sequence_155,155,66,2021-01-29,address_237,1,1,1,1,nan,nan,workplace_B,20.0,1,37.0,1,23.0,1
+156,sequence_156,156,11,2021-01-31,address_277,1,1,1,1,nan,nan,workplace_A,,0,,0,,0
+157,sequence_157,157,79,2021-01-24,address_150,1,1,1,1,nan,nan,workplace_C,,0,,0,,0
+158,sequence_158,158,47,2021-01-24,address_19,1,1,1,1,nan,nan,nan,28.0,1,19.0,1,51.0,1
+159,sequence_159,159,3,2021-01-31,address_41,1,1,1,1,nan,nan,nan,,0,58.0,1,,0
+160,sequence_160,160,29,2021-01-01,address_39,1,1,1,1,nan,nan,nan,,0,,0,,0
+161,sequence_161,161,52,2021-01-14,address_295,1,1,1,1,nan,nan,nan,40.0,1,22.0,1,,0
+162,sequence_162,162,12,2021-01-27,address_210,1,1,1,1,nan,nan,nan,,0,28.0,1,,0
+163,sequence_163,163,43,2021-01-18,address_165,1,1,1,1,nan,nan,nan,,0,,0,,0
+164,sequence_164,164,78,2021-01-22,address_98,1,1,1,1,nan,nan,nan,28.0,1,15.0,1,43.0,1
+165,sequence_165,165,28,2021-01-24,address_87,1,1,1,1,nan,nan,nan,13.0,1,53.0,1,,0
+166,sequence_166,166,4,2021-01-01,address_38,1,1,1,1,nan,nan,nan,,0,12.0,1,,0
+167,sequence_167,167,64,2021-01-09,address_182,1,1,1,1,nan,nan,nan,,0,4.0,1,,0
+168,sequence_168,168,19,2021-01-29,address_145,1,1,1,1,nan,nan,nan,,0,,0,,0
+169,sequence_169,169,14,2021-01-04,address_41,1,1,1,1,nan,nan,nan,18.0,1,1.0,1,10.0,1
+170,sequence_170,170,58,2021-01-30,address_303,1,1,1,1,nan,nan,nan,3.0,1,12.0,1,55.0,1
+171,sequence_171,171,0,2021-01-19,address_147,1,1,1,1,nan,nan,nan,22.0,1,32.0,1,2.0,1
+172,sequence_172,172,15,2021-01-25,address_35,1,1,1,1,school_B,Gymnasiale uddannelse,nan,11.0,1,20.0,1,11.0,1
+173,sequence_173,173,64,2021-01-13,address_282,1,1,1,1,school_B,Gymnasiale uddannelse,nan,,0,,0,,0
+174,sequence_174,174,16,2021-01-28,address_107,1,1,1,1,nan,nan,nan,22.0,1,36.0,1,,0
+175,sequence_175,175,63,2021-01-22,address_130,1,1,1,1,nan,nan,nan,33.0,1,22.0,1,,0
+176,sequence_176,176,34,2021-01-31,address_232,1,1,1,1,nan,nan,workplace_B,24.0,1,50.0,1,33.0,1
+177,sequence_177,177,64,2021-01-18,address_65,1,1,1,1,nan,nan,nan,,0,59.0,1,,0
+178,sequence_178,178,14,2021-01-23,address_217,1,1,1,1,school_A,Grundskole,nan,55.0,1,23.0,1,32.0,1
+179,sequence_179,179,42,2021-01-20,address_283,1,1,1,1,nan,nan,nan,,0,,0,,0
+180,sequence_180,180,52,2021-01-08,address_68,1,1,1,1,nan,nan,nan,51.0,1,49.0,1,34.0,1
+181,sequence_181,181,75,2021-01-17,address_316,1,1,1,1,school_A,Grundskole,nan,,0,,0,,0
+182,sequence_182,182,49,2021-01-16,address_259,1,1,1,1,nan,nan,workplace_A,52.0,1,40.0,1,28.0,1
+183,sequence_183,183,78,2021-01-09,address_209,1,1,1,1,nan,nan,nan,45.0,1,12.0,1,36.0,1
+184,sequence_184,184,79,2021-01-20,address_175,1,1,1,1,nan,nan,nan,,0,,0,,0
+185,sequence_185,185,58,2021-01-16,address_32,1,1,1,1,nan,nan,nan,,0,36.0,1,,0
+186,sequence_186,186,38,2021-01-16,address_312,1,1,1,1,nan,nan,nan,,0,52.0,1,,0
+187,sequence_187,187,46,2021-01-19,address_48,1,1,1,1,nan,nan,nan,,0,,0,,0
+188,sequence_188,188,33,2021-01-14,address_105,1,1,1,1,nan,nan,nan,,0,,0,,0
+189,sequence_189,189,44,2021-01-28,address_314,1,1,1,1,nan,nan,nan,58.0,1,36.0,1,,0
+190,sequence_190,190,31,2021-01-24,address_316,1,1,1,1,nan,nan,nan,42.0,1,21.0,1,12.0,1
+191,sequence_191,191,61,2021-01-28,address_83,1,1,1,1,school_B,Gymnasiale uddannelse,nan,,0,,0,,0
+192,sequence_192,192,39,2021-01-25,address_245,1,1,1,1,nan,nan,nan,54.0,1,4.0,1,39.0,1
+193,sequence_193,193,58,2021-01-24,address_137,1,1,1,1,nan,nan,nan,,0,18.0,1,,0
+194,sequence_194,194,16,2021-01-21,address_60,1,1,1,1,nan,nan,nan,14.0,1,18.0,1,29.0,1
+195,sequence_195,195,71,2021-01-02,address_178,1,1,1,1,nan,nan,nan,,0,35.0,1,,0
+196,sequence_196,196,72,2021-01-02,address_307,1,1,1,1,nan,nan,nan,,0,0.0,1,,0
+197,sequence_197,197,72,2021-01-04,address_106,1,1,1,1,nan,nan,nan,,0,25.0,1,,0
+198,sequence_198,198,70,2021-01-30,address_199,1,1,1,1,nan,nan,nan,,0,57.0,1,,0
+199,sequence_199,199,42,2021-01-01,address_209,1,1,1,1,nan,nan,workplace_B,,0,,0,,0
+200,sequence_200,200,45,2021-01-09,address_260,1,1,1,1,school_C,Gymnasiale uddannelse,workplace_C,,0,32.0,1,,0
+201,sequence_201,201,22,2021-01-27,address_3,1,1,1,1,nan,nan,nan,6.0,1,6.0,1,11.0,1
+202,sequence_202,202,19,2021-01-28,address_127,1,1,1,1,nan,nan,nan,30.0,1,55.0,1,9.0,1
+203,sequence_203,203,26,2021-01-08,address_88,1,1,1,1,nan,nan,nan,31.0,1,20.0,1,,0
+204,sequence_204,204,79,2021-01-18,address_46,1,1,1,1,nan,nan,nan,,0,,0,,0
+205,sequence_205,205,73,2021-01-04,address_94,1,1,1,1,nan,nan,nan,,0,59.0,1,,0
+206,sequence_206,206,73,2021-01-10,address_63,1,1,1,1,nan,nan,workplace_B,,0,,0,,0
+207,sequence_207,207,47,2021-01-24,address_84,1,1,1,1,nan,nan,nan,8.0,1,16.0,1,59.0,1
+208,sequence_208,208,5,2021-01-04,address_5,1,1,1,1,nan,nan,workplace_C,,0,50.0,1,,0
+209,sequence_209,209,0,2021-01-29,address_211,1,1,1,1,nan,nan,nan,51.0,1,14.0,1,46.0,1
+210,sequence_210,210,15,2021-01-02,address_72,1,1,1,1,nan,nan,nan,52.0,1,9.0,1,33.0,1
+211,sequence_211,211,18,2021-01-05,address_328,1,1,1,1,school_A,Grundskole,workplace_B,25.0,1,40.0,1,59.0,1
+212,sequence_212,212,55,2021-01-12,address_184,1,1,1,1,school_C,Gymnasiale uddannelse,nan,,0,,0,,0
+213,sequence_213,213,34,2021-01-07,address_14,1,1,1,1,nan,nan,nan,,0,41.0,1,,0
+214,sequence_214,214,8,2021-01-24,address_227,1,1,1,1,nan,nan,nan,17.0,1,36.0,1,20.0,1
+215,sequence_215,215,27,2021-01-24,address_316,1,1,1,1,nan,nan,workplace_C,41.0,1,57.0,1,33.0,1
+216,sequence_216,216,38,2021-01-23,address_264,1,1,1,1,nan,nan,nan,58.0,1,22.0,1,7.0,1
+217,sequence_217,217,6,2021-01-30,address_41,1,1,1,1,nan,nan,nan,46.0,1,33.0,1,,0
+218,sequence_218,218,79,2021-01-04,address_161,1,1,1,1,nan,nan,nan,1.0,1,51.0,1,,0
+219,sequence_219,219,62,2021-01-01,address_325,1,1,1,1,nan,nan,nan,,0,53.0,1,,0
+220,sequence_220,220,73,2021-01-03,address_216,1,1,1,1,nan,nan,nan,25.0,1,48.0,1,49.0,1
+221,sequence_221,221,68,2021-01-18,address_63,1,1,1,1,nan,nan,nan,4.0,1,4.0,1,,0
+222,sequence_222,222,67,2021-01-04,address_116,1,1,1,1,nan,nan,nan,31.0,1,40.0,1,34.0,1
+223,sequence_223,223,77,2021-01-24,address_273,1,1,1,1,nan,nan,nan,30.0,1,40.0,1,28.0,1
+224,sequence_224,224,56,2021-01-03,address_1,1,1,1,1,nan,nan,nan,,0,,0,,0
+225,sequence_225,225,43,2021-01-10,address_1,1,1,1,1,nan,nan,workplace_B,28.0,1,32.0,1,52.0,1
+226,sequence_226,226,19,2021-01-25,address_130,1,1,1,1,nan,nan,workplace_B,16.0,1,0.0,1,,0
+227,sequence_227,227,29,2021-01-31,address_179,1,1,1,1,nan,nan,nan,,0,6.0,1,,0
+228,sequence_228,228,57,2021-01-08,address_180,1,1,1,1,school_A,Grundskole,nan,,0,,0,,0
+229,sequence_229,229,21,2021-01-16,address_114,1,1,1,1,nan,nan,nan,58.0,1,54.0,1,48.0,1
+230,sequence_230,230,71,2021-01-26,address_142,1,1,1,1,nan,nan,workplace_A,21.0,1,3.0,1,3.0,1
+231,sequence_231,231,2,2021-01-14,address_237,1,1,1,1,school_B,Gymnasiale uddannelse,workplace_C,35.0,1,12.0,1,31.0,1
+232,sequence_232,232,25,2021-01-07,address_203,1,1,1,1,school_A,Grundskole,nan,,0,36.0,1,,0
+233,sequence_233,233,9,2021-01-03,address_193,1,1,1,1,nan,nan,nan,,0,,0,,0
+234,sequence_234,234,41,2021-01-06,address_157,1,1,1,1,nan,nan,workplace_A,13.0,1,32.0,1,3.0,1
+235,sequence_235,235,31,2021-01-10,address_9,1,1,1,1,nan,nan,nan,,0,,0,,0
+236,sequence_236,236,78,2021-01-06,address_96,1,1,1,1,nan,nan,nan,,0,,0,,0
+237,sequence_237,237,42,2021-01-03,address_273,1,1,1,1,school_C,Gymnasiale uddannelse,nan,,0,26.0,1,,0
+238,sequence_238,238,68,2021-01-27,address_31,1,1,1,1,nan,nan,nan,,0,,0,,0
+239,sequence_239,239,62,2021-01-16,address_53,1,1,1,1,nan,nan,nan,,0,21.0,1,,0
+240,sequence_240,240,44,2021-01-13,address_53,1,1,1,1,nan,nan,nan,,0,,0,,0
+241,sequence_241,241,17,2021-01-17,address_23,1,1,1,1,nan,nan,nan,29.0,1,22.0,1,22.0,1
+242,sequence_242,242,15,2021-01-01,address_186,1,1,1,1,nan,nan,nan,30.0,1,6.0,1,33.0,1
+243,sequence_243,243,78,2021-01-18,address_224,1,1,1,1,nan,nan,nan,38.0,1,39.0,1,0.0,1
+244,sequence_244,244,20,2021-01-07,address_272,1,1,1,1,nan,nan,workplace_C,,0,22.0,1,,0
+245,sequence_245,245,67,2021-01-12,address_246,1,1,1,1,nan,nan,nan,47.0,1,5.0,1,49.0,1
+246,sequence_246,246,27,2021-01-24,address_262,1,1,1,1,nan,nan,nan,9.0,1,21.0,1,,0
+247,sequence_247,247,47,2021-01-21,address_132,1,1,1,1,school_B,Gymnasiale uddannelse,workplace_C,,0,16.0,1,,0
+248,sequence_248,248,16,2021-01-03,address_302,1,1,1,1,nan,nan,workplace_A,39.0,1,0.0,1,,0
+249,sequence_249,249,57,2021-01-02,address_215,1,1,1,1,nan,nan,nan,,0,17.0,1,,0
+250,sequence_250,250,38,2021-01-22,address_144,1,1,1,1,nan,nan,nan,44.0,1,34.0,1,,0
+251,sequence_251,251,64,2021-01-11,address_72,1,1,1,1,nan,nan,nan,49.0,1,54.0,1,43.0,1
+252,sequence_252,252,16,2021-01-10,address_174,1,1,1,1,nan,nan,nan,,0,,0,,0
+253,sequence_253,253,31,2021-01-18,address_52,1,1,1,1,nan,nan,nan,,0,,0,,0
+254,sequence_254,254,37,2021-01-25,address_243,1,1,1,1,nan,nan,nan,39.0,1,23.0,1,,0
+255,sequence_255,255,53,2021-01-20,address_258,1,1,1,1,nan,nan,nan,,0,54.0,1,,0
+256,sequence_256,256,13,2021-01-14,address_188,1,1,1,1,nan,nan,nan,31.0,1,20.0,1,6.0,1
+257,sequence_257,257,32,2021-01-02,address_276,1,1,1,1,school_B,Gymnasiale uddannelse,workplace_A,,0,,0,,0
+258,sequence_258,258,18,2021-01-23,address_103,1,1,1,1,school_B,Gymnasiale uddannelse,nan,,0,,0,,0
+259,sequence_259,259,70,2021-01-08,address_332,1,1,1,1,school_A,Grundskole,nan,,0,52.0,1,,0
+260,sequence_260,260,32,2021-01-18,address_314,1,1,1,1,nan,nan,workplace_A,47.0,1,40.0,1,23.0,1
+261,sequence_261,261,4,2021-01-15,address_42,1,1,1,1,nan,nan,nan,,0,0.0,1,,0
+262,sequence_262,262,56,2021-01-13,address_177,1,1,1,1,nan,nan,nan,33.0,1,6.0,1,22.0,1
+263,sequence_263,263,72,2021-01-24,address_16,1,1,1,1,nan,nan,nan,,0,,0,,0
+264,sequence_264,264,75,2021-01-21,address_80,1,1,1,1,nan,nan,nan,,0,11.0,1,,0
+265,sequence_265,265,2,2021-01-30,address_191,1,1,1,1,nan,nan,nan,,0,51.0,1,,0
+266,sequence_266,266,11,2021-01-19,address_49,1,1,1,1,nan,nan,nan,18.0,1,15.0,1,54.0,1
+267,sequence_267,267,40,2021-01-06,address_15,1,1,1,1,nan,nan,workplace_B,,0,41.0,1,,0
+268,sequence_268,268,24,2021-01-18,address_153,1,1,1,1,nan,nan,workplace_C,9.0,1,59.0,1,,0
+269,sequence_269,269,55,2021-01-12,address_325,1,1,1,1,school_A,Grundskole,nan,55.0,1,9.0,1,45.0,1
+270,sequence_270,270,48,2021-01-08,address_306,1,1,1,1,nan,nan,nan,32.0,1,33.0,1,57.0,1
+271,sequence_271,271,62,2021-01-30,address_110,1,1,1,1,nan,nan,workplace_B,44.0,1,48.0,1,27.0,1
+272,sequence_272,272,10,2021-01-11,address_143,1,1,1,1,nan,nan,nan,1.0,1,39.0,1,,0
+273,sequence_273,273,12,2021-01-03,address_205,1,1,1,1,nan,nan,nan,,0,,0,,0
+274,sequence_274,274,7,2021-01-30,address_46,1,1,1,1,school_C,Gymnasiale uddannelse,nan,23.0,1,33.0,1,28.0,1
+275,sequence_275,275,1,2021-01-06,address_251,1,1,1,1,nan,nan,nan,,0,,0,,0
+276,sequence_276,276,72,2021-01-17,address_17,1,1,1,1,nan,nan,nan,18.0,1,39.0,1,7.0,1
+277,sequence_277,277,75,2021-01-17,address_195,1,1,1,1,school_C,Gymnasiale uddannelse,nan,,0,20.0,1,,0
+278,sequence_278,278,35,2021-01-22,address_165,1,1,1,1,school_B,Gymnasiale uddannelse,nan,40.0,1,33.0,1,48.0,1
+279,sequence_279,279,55,2021-01-05,address_82,1,1,1,1,school_B,Gymnasiale uddannelse,nan,24.0,1,37.0,1,44.0,1
+280,sequence_280,280,31,2021-01-18,address_30,1,1,1,1,school_B,Gymnasiale uddannelse,nan,43.0,1,48.0,1,,0
+281,sequence_281,281,33,2021-01-18,address_154,1,1,1,1,nan,nan,workplace_C,33.0,1,41.0,1,32.0,1
+282,sequence_282,282,62,2021-01-15,address_316,1,1,1,1,nan,nan,workplace_C,,0,,0,,0
+283,sequence_283,283,37,2021-01-12,address_37,1,1,1,1,nan,nan,nan,,0,47.0,1,,0
+284,sequence_284,284,54,2021-01-12,address_292,1,1,1,1,school_B,Gymnasiale uddannelse,nan,50.0,1,28.0,1,,0
+285,sequence_285,285,2,2021-01-12,address_80,1,1,1,1,nan,nan,nan,56.0,1,40.0,1,35.0,1
+286,sequence_286,286,68,2021-01-14,address_5,1,1,1,1,nan,nan,nan,9.0,1,27.0,1,13.0,1
+287,sequence_287,287,10,2021-01-08,address_310,1,1,1,1,nan,nan,nan,55.0,1,45.0,1,36.0,1
+288,sequence_288,288,21,2021-01-18,address_247,1,1,1,1,nan,nan,nan,2.0,1,54.0,1,2.0,1
+289,sequence_289,289,69,2021-01-11,address_218,1,1,1,1,nan,nan,workplace_B,,0,,0,,0
+290,sequence_290,290,31,2021-01-14,address_191,1,1,1,1,nan,nan,nan,,0,20.0,1,,0
+291,sequence_291,291,66,2021-01-19,address_211,1,1,1,1,nan,nan,nan,,0,12.0,1,,0
+292,sequence_292,292,33,2021-01-26,address_332,1,1,1,1,nan,nan,nan,12.0,1,12.0,1,,0
+293,sequence_293,293,61,2021-01-31,address_140,1,1,1,1,nan,nan,nan,,0,7.0,1,,0
+294,sequence_294,294,16,2021-01-13,address_33,1,1,1,1,nan,nan,nan,10.0,1,38.0,1,17.0,1
+295,sequence_295,295,3,2021-01-19,address_85,1,1,1,1,nan,nan,nan,,0,27.0,1,,0
+296,sequence_296,296,24,2021-01-21,address_101,1,1,1,1,nan,nan,nan,,0,5.0,1,,0
+297,sequence_297,297,45,2021-01-01,address_105,1,1,1,1,nan,nan,nan,26.0,1,30.0,1,42.0,1
+298,sequence_298,298,64,2021-01-10,address_302,1,1,1,1,nan,nan,nan,54.0,1,6.0,1,14.0,1
+299,sequence_299,299,27,2021-01-06,address_183,1,1,1,1,nan,nan,workplace_B,26.0,1,26.0,1,33.0,1
+300,sequence_300,300,13,2021-01-21,address_102,1,1,1,1,nan,nan,nan,10.0,1,18.0,1,52.0,1
+301,sequence_301,301,46,2021-01-21,address_99,1,1,1,1,nan,nan,nan,,0,9.0,1,,0
+302,sequence_302,302,28,2021-01-11,address_275,1,1,1,1,school_C,Gymnasiale uddannelse,nan,34.0,1,57.0,1,7.0,1
+303,sequence_303,303,35,2021-01-02,address_252,1,1,1,1,nan,nan,nan,,0,10.0,1,,0
+304,sequence_304,304,51,2021-01-15,address_298,1,1,1,1,nan,nan,nan,,0,53.0,1,,0
+305,sequence_305,305,55,2021-01-01,address_304,1,1,1,1,nan,nan,workplace_A,25.0,1,32.0,1,,0
+306,sequence_306,306,44,2021-01-17,address_251,1,1,1,1,nan,nan,nan,7.0,1,34.0,1,,0
+307,sequence_307,307,69,2021-01-17,address_90,1,1,1,1,school_B,Gymnasiale uddannelse,workplace_B,25.0,1,42.0,1,,0
+308,sequence_308,308,50,2021-01-29,address_2,1,1,1,1,nan,nan,nan,,0,58.0,1,,0
+309,sequence_309,309,0,2021-01-24,address_35,1,1,1,1,nan,nan,nan,,0,,0,,0
+310,sequence_310,310,39,2021-01-29,address_46,1,1,1,1,school_A,Grundskole,workplace_C,58.0,1,46.0,1,38.0,1
+311,sequence_311,311,46,2021-01-19,address_161,1,1,1,1,school_C,Gymnasiale uddannelse,nan,0.0,1,11.0,1,,0
+312,sequence_312,312,8,2021-01-03,address_38,1,1,1,1,nan,nan,workplace_A,47.0,1,43.0,1,48.0,1
+313,sequence_313,313,12,2021-01-22,address_225,1,1,1,1,school_C,Gymnasiale uddannelse,nan,,0,18.0,1,,0
+314,sequence_314,314,33,2021-01-01,address_195,1,1,1,1,nan,nan,nan,,0,1.0,1,,0
+315,sequence_315,315,50,2021-01-27,address_314,1,1,1,1,nan,nan,workplace_B,18.0,1,32.0,1,36.0,1
+316,sequence_316,316,3,2021-01-17,address_162,1,1,1,1,nan,nan,workplace_B,2.0,1,59.0,1,52.0,1
+317,sequence_317,317,36,2021-01-26,address_198,1,1,1,1,school_B,Gymnasiale uddannelse,nan,30.0,1,41.0,1,,0
+318,sequence_318,318,60,2021-01-25,address_297,1,1,1,1,nan,nan,nan,,0,2.0,1,,0
+319,sequence_319,319,8,2021-01-08,address_10,1,1,1,1,nan,nan,nan,,0,,0,,0
+320,sequence_320,320,1,2021-01-14,address_280,1,1,1,1,nan,nan,nan,59.0,1,58.0,1,21.0,1
+321,sequence_321,321,5,2021-01-26,address_12,1,1,1,1,nan,nan,nan,22.0,1,38.0,1,25.0,1
+322,sequence_322,322,19,2021-01-23,address_188,1,1,1,1,nan,nan,nan,,0,,0,,0
+323,sequence_323,323,25,2021-01-11,address_257,1,1,1,1,nan,nan,nan,,0,,0,,0
+324,sequence_324,324,49,2021-01-25,address_179,1,1,1,1,nan,nan,nan,36.0,1,59.0,1,,0
+325,sequence_325,325,8,2021-01-19,address_246,1,1,1,1,nan,nan,workplace_C,,0,20.0,1,,0
+326,sequence_326,326,48,2021-01-21,address_134,1,1,1,1,nan,nan,nan,,0,47.0,1,,0
+327,sequence_327,327,12,2021-01-01,address_18,1,1,1,1,school_C,Gymnasiale uddannelse,nan,42.0,1,54.0,1,34.0,1
+328,sequence_328,328,58,2021-01-06,address_36,1,1,1,1,nan,nan,nan,42.0,1,2.0,1,,0
+329,sequence_329,329,78,2021-01-30,address_122,1,1,1,1,nan,nan,nan,,0,,0,,0
+330,sequence_330,330,17,2021-01-27,address_115,1,1,1,1,nan,nan,nan,50.0,1,12.0,1,,0
+331,sequence_331,331,54,2021-01-31,address_302,1,1,1,1,nan,nan,workplace_B,,0,,0,,0
+332,sequence_332,332,14,2021-01-29,address_43,1,1,1,1,nan,nan,nan,,0,24.0,1,,0
+333,sequence_333,333,0,2021-01-03,address_232,1,1,1,1,nan,nan,nan,39.0,1,15.0,1,,0
+334,sequence_334,334,44,2021-01-04,address_55,1,1,1,1,nan,nan,nan,,0,4.0,1,,0
+335,sequence_335,335,69,2021-01-18,address_30,1,1,1,1,nan,nan,nan,7.0,1,30.0,1,,0
+336,sequence_336,336,11,2021-01-02,address_97,1,1,1,1,nan,nan,nan,,0,58.0,1,,0
+337,sequence_337,337,20,2021-01-18,address_186,1,1,1,1,school_C,Gymnasiale uddannelse,nan,55.0,1,49.0,1,,0
+338,sequence_338,338,52,2021-01-18,address_291,1,1,1,1,nan,nan,nan,59.0,1,54.0,1,49.0,1
+339,sequence_339,339,16,2021-01-13,address_51,1,1,1,1,nan,nan,nan,3.0,1,3.0,1,21.0,1
+340,sequence_340,340,40,2021-01-19,address_48,1,1,1,1,school_A,Grundskole,nan,17.0,1,16.0,1,25.0,1
+341,sequence_341,341,46,2021-01-19,address_222,1,1,1,1,nan,nan,nan,21.0,1,41.0,1,,0
+342,sequence_342,342,74,2021-01-05,address_63,1,1,1,1,nan,nan,nan,,0,,0,,0
+343,sequence_343,343,6,2021-01-12,address_0,1,1,1,1,nan,nan,nan,37.0,1,42.0,1,37.0,1
+344,sequence_344,344,28,2021-01-31,address_223,1,1,1,1,school_A,Grundskole,nan,59.0,1,1.0,1,45.0,1
+345,sequence_345,345,32,2021-01-11,address_19,1,1,1,1,nan,nan,nan,,0,51.0,1,,0
+346,sequence_346,346,33,2021-01-30,address_5,1,1,1,1,nan,nan,nan,55.0,1,56.0,1,43.0,1
+347,sequence_347,347,28,2021-01-08,address_162,1,1,1,1,school_B,Gymnasiale uddannelse,nan,10.0,1,45.0,1,34.0,1
+348,sequence_348,348,30,2021-01-25,address_134,1,1,1,1,nan,nan,nan,,0,,0,,0
+349,sequence_349,349,53,2021-01-24,address_63,1,1,1,1,nan,nan,nan,31.0,1,7.0,1,13.0,1
+350,sequence_350,350,15,2021-01-29,address_123,1,1,1,1,school_A,Grundskole,workplace_A,12.0,1,10.0,1,,0
+351,sequence_351,351,3,2021-01-22,address_102,1,1,1,1,nan,nan,nan,51.0,1,27.0,1,,0
+352,sequence_352,352,20,2021-01-25,address_145,1,1,1,1,school_B,Gymnasiale uddannelse,nan,49.0,1,27.0,1,12.0,1
+353,sequence_353,353,32,2021-01-23,address_212,1,1,1,1,nan,nan,workplace_C,52.0,1,19.0,1,33.0,1
+354,sequence_354,354,50,2021-01-01,address_298,1,1,1,1,nan,nan,nan,55.0,1,0.0,1,20.0,1
+355,sequence_355,355,79,2021-01-07,address_26,1,1,1,1,nan,nan,nan,6.0,1,49.0,1,48.0,1
+356,sequence_356,356,71,2021-01-08,address_219,1,1,1,1,school_B,Gymnasiale uddannelse,nan,1.0,1,36.0,1,,0
+357,sequence_357,357,22,2021-01-03,address_94,1,1,1,1,nan,nan,nan,4.0,1,17.0,1,2.0,1
+358,sequence_358,358,64,2021-01-12,address_213,1,1,1,1,nan,nan,nan,,0,,0,,0
+359,sequence_359,359,75,2021-01-04,address_238,1,1,1,1,nan,nan,workplace_C,,0,53.0,1,,0
+360,sequence_360,360,40,2021-01-01,address_25,1,1,1,1,nan,nan,nan,54.0,1,11.0,1,1.0,1
+361,sequence_361,361,72,2021-01-18,address_172,1,1,1,1,nan,nan,workplace_A,,0,,0,,0
+362,sequence_362,362,44,2021-01-12,address_141,1,1,1,1,nan,nan,nan,,0,11.0,1,,0
+363,sequence_363,363,54,2021-01-13,address_45,1,1,1,1,nan,nan,workplace_B,41.0,1,38.0,1,6.0,1
+364,sequence_364,364,72,2021-01-15,address_182,1,1,1,1,nan,nan,nan,,0,,0,,0
+365,sequence_365,365,45,2021-01-25,address_203,1,1,1,1,school_A,Grundskole,nan,30.0,1,22.0,1,19.0,1
+366,sequence_366,366,35,2021-01-28,address_306,1,1,1,1,nan,nan,nan,24.0,1,6.0,1,35.0,1
+367,sequence_367,367,77,2021-01-26,address_300,1,1,1,1,nan,nan,nan,,0,,0,,0
+368,sequence_368,368,28,2021-01-11,address_88,1,1,1,1,school_C,Gymnasiale uddannelse,workplace_C,,0,27.0,1,,0
+369,sequence_369,369,6,2021-01-25,address_74,1,1,1,1,nan,nan,workplace_C,,0,59.0,1,,0
+370,sequence_370,370,38,2021-01-06,address_332,1,1,1,1,school_A,Grundskole,workplace_B,46.0,1,11.0,1,53.0,1
+371,sequence_371,371,30,2021-01-22,address_105,1,1,1,1,nan,nan,nan,6.0,1,57.0,1,,0
+372,sequence_372,372,26,2021-01-15,address_138,1,1,1,1,nan,nan,workplace_A,47.0,1,41.0,1,36.0,1
+373,sequence_373,373,11,2021-01-20,address_87,1,1,1,1,nan,nan,nan,11.0,1,47.0,1,0.0,1
+374,sequence_374,374,52,2021-01-20,address_55,1,1,1,1,school_B,Gymnasiale uddannelse,nan,20.0,1,36.0,1,30.0,1
+375,sequence_375,375,52,2021-01-10,address_316,1,1,1,1,school_B,Gymnasiale uddannelse,nan,8.0,1,50.0,1,42.0,1
+376,sequence_376,376,31,2021-01-01,address_211,1,1,1,1,school_C,Gymnasiale uddannelse,nan,,0,21.0,1,,0
+377,sequence_377,377,17,2021-01-22,address_15,1,1,1,1,nan,nan,workplace_B,30.0,1,2.0,1,,0
+378,sequence_378,378,75,2021-01-29,address_198,1,1,1,1,nan,nan,workplace_A,53.0,1,59.0,1,,0
+379,sequence_379,379,14,2021-01-18,address_37,1,1,1,1,school_B,Gymnasiale uddannelse,nan,2.0,1,19.0,1,36.0,1
+380,sequence_380,380,23,2021-01-04,address_54,1,1,1,1,nan,nan,nan,,0,,0,,0
+381,sequence_381,381,68,2021-01-17,address_203,1,1,1,1,nan,nan,nan,,0,,0,,0
+382,sequence_382,382,4,2021-01-05,address_79,1,1,1,1,school_B,Gymnasiale uddannelse,workplace_A,59.0,1,21.0,1,16.0,1
+383,sequence_383,383,12,2021-01-25,address_56,1,1,1,1,nan,nan,nan,,0,,0,,0
+384,sequence_384,384,56,2021-01-18,address_6,1,1,1,1,nan,nan,nan,8.0,1,4.0,1,,0
+385,sequence_385,385,24,2021-01-08,address_309,1,1,1,1,nan,nan,nan,54.0,1,40.0,1,4.0,1
+386,sequence_386,386,2,2021-01-18,address_233,1,1,1,1,nan,nan,nan,6.0,1,13.0,1,55.0,1
+387,sequence_387,387,78,2021-01-15,address_74,1,1,1,1,nan,nan,workplace_C,,0,,0,,0
+388,sequence_388,388,56,2021-01-27,address_193,1,1,1,1,school_C,Gymnasiale uddannelse,nan,28.0,1,34.0,1,,0
+389,sequence_389,389,33,2021-01-15,address_302,1,1,1,1,nan,nan,nan,28.0,1,12.0,1,6.0,1
+390,sequence_390,390,25,2021-01-05,address_321,1,1,1,1,school_A,Grundskole,nan,49.0,1,26.0,1,,0
+391,sequence_391,391,36,2021-01-21,address_261,1,1,1,1,nan,nan,nan,,0,59.0,1,,0
+392,sequence_392,392,47,2021-01-09,address_130,1,1,1,1,nan,nan,nan,16.0,1,23.0,1,24.0,1
+393,sequence_393,393,5,2021-01-27,address_323,1,1,1,1,nan,nan,nan,57.0,1,56.0,1,,0
+394,sequence_394,394,76,2021-01-06,address_152,1,1,1,1,nan,nan,nan,16.0,1,2.0,1,21.0,1
+395,sequence_395,395,26,2021-01-11,address_129,1,1,1,1,nan,nan,workplace_C,,0,,0,,0
+396,sequence_396,396,18,2021-01-27,address_253,1,1,1,1,nan,nan,nan,58.0,1,50.0,1,59.0,1
+397,sequence_397,397,10,2021-01-30,address_231,1,1,1,1,nan,nan,nan,,0,52.0,1,,0
+398,sequence_398,398,16,2021-01-08,address_3,1,1,1,1,school_B,Gymnasiale uddannelse,workplace_A,28.0,1,36.0,1,,0
+399,sequence_399,399,33,2021-01-30,address_109,1,1,1,1,nan,nan,nan,46.0,1,52.0,1,12.0,1
+400,sequence_400,400,55,2021-01-02,address_229,1,1,1,1,nan,nan,nan,29.0,1,26.0,1,11.0,1
+401,sequence_401,401,76,2021-01-28,address_108,1,1,1,1,nan,nan,nan,21.0,1,11.0,1,11.0,1
+402,sequence_402,402,52,2021-01-18,address_22,1,1,1,1,school_C,Gymnasiale uddannelse,nan,18.0,1,7.0,1,27.0,1
+403,sequence_403,403,43,2021-01-23,address_251,1,1,1,1,nan,nan,nan,51.0,1,7.0,1,,0
+404,sequence_404,404,54,2021-01-23,address_269,1,1,1,1,nan,nan,nan,22.0,1,24.0,1,6.0,1
+405,sequence_405,405,62,2021-01-20,address_53,1,1,1,1,nan,nan,nan,49.0,1,41.0,1,,0
+406,sequence_406,406,27,2021-01-25,address_303,1,1,1,1,nan,nan,nan,,0,2.0,1,,0
+407,sequence_407,407,32,2021-01-23,address_268,1,1,1,1,nan,nan,nan,14.0,1,15.0,1,14.0,1
+408,sequence_408,408,60,2021-01-17,address_81,1,1,1,1,nan,nan,nan,47.0,1,35.0,1,50.0,1
+409,sequence_409,409,14,2021-01-16,address_19,1,1,1,1,nan,nan,nan,,0,1.0,1,,0
+410,sequence_410,410,68,2021-01-24,address_53,1,1,1,1,nan,nan,nan,44.0,1,28.0,1,6.0,1
+411,sequence_411,411,44,2021-01-07,address_41,1,1,1,1,nan,nan,nan,28.0,1,13.0,1,21.0,1
+412,sequence_412,412,29,2021-01-28,address_217,1,1,1,1,nan,nan,nan,,0,32.0,1,,0
+413,sequence_413,413,20,2021-01-31,address_215,1,1,1,1,nan,nan,workplace_B,43.0,1,21.0,1,52.0,1
+414,sequence_414,414,32,2021-01-21,address_184,1,1,1,1,school_A,Grundskole,nan,,0,33.0,1,,0
+415,sequence_415,415,64,2021-01-31,address_136,1,1,1,1,school_C,Gymnasiale uddannelse,nan,2.0,1,51.0,1,,0
+416,sequence_416,416,47,2021-01-22,address_249,1,1,1,1,nan,nan,nan,,0,,0,,0
+417,sequence_417,417,39,2021-01-01,address_14,1,1,1,1,nan,nan,nan,42.0,1,45.0,1,58.0,1
+418,sequence_418,418,26,2021-01-03,address_244,1,1,1,1,nan,nan,workplace_A,2.0,1,50.0,1,44.0,1
+419,sequence_419,419,68,2021-01-02,address_260,1,1,1,1,nan,nan,nan,,0,,0,,0
+420,sequence_420,420,65,2021-01-24,address_289,1,1,1,1,school_A,Grundskole,workplace_C,58.0,1,52.0,1,17.0,1
+421,sequence_421,421,79,2021-01-27,address_53,1,1,1,1,nan,nan,nan,37.0,1,10.0,1,,0
+422,sequence_422,422,30,2021-01-17,address_142,1,1,1,1,nan,nan,nan,,0,,0,,0
+423,sequence_423,423,66,2021-01-30,address_299,1,1,1,1,nan,nan,nan,47.0,1,50.0,1,,0
+424,sequence_424,424,71,2021-01-09,address_284,1,1,1,1,nan,nan,nan,11.0,1,16.0,1,38.0,1
+425,sequence_425,425,15,2021-01-12,address_68,1,1,1,1,nan,nan,workplace_A,,0,23.0,1,,0
+426,sequence_426,426,17,2021-01-16,address_198,1,1,1,1,nan,nan,nan,16.0,1,50.0,1,52.0,1
+427,sequence_427,427,61,2021-01-18,address_202,1,1,1,1,school_B,Gymnasiale uddannelse,nan,46.0,1,18.0,1,53.0,1
+428,sequence_428,428,75,2021-01-09,address_235,1,1,1,1,nan,nan,nan,35.0,1,45.0,1,23.0,1
+429,sequence_429,429,16,2021-01-30,address_263,1,1,1,1,nan,nan,nan,26.0,1,16.0,1,18.0,1
+430,sequence_430,430,29,2021-01-06,address_233,1,1,1,1,nan,nan,nan,,0,,0,,0
+431,sequence_431,431,77,2021-01-04,address_47,1,1,1,1,nan,nan,nan,,0,51.0,1,,0
+432,sequence_432,432,1,2021-01-01,address_84,1,1,1,1,nan,nan,nan,,0,,0,,0
+433,sequence_433,433,26,2021-01-26,address_284,1,1,1,1,nan,nan,nan,35.0,1,51.0,1,12.0,1
+434,sequence_434,434,16,2021-01-04,address_273,1,1,1,1,nan,nan,nan,,0,,0,,0
+435,sequence_435,435,51,2021-01-05,address_189,1,1,1,1,school_C,Gymnasiale uddannelse,nan,2.0,1,2.0,1,43.0,1
+436,sequence_436,436,35,2021-01-19,address_183,1,1,1,1,nan,nan,nan,11.0,1,42.0,1,26.0,1
+437,sequence_437,437,18,2021-01-09,address_239,1,1,1,1,nan,nan,nan,28.0,1,2.0,1,45.0,1
+438,sequence_438,438,54,2021-01-18,address_31,1,1,1,1,nan,nan,nan,28.0,1,39.0,1,39.0,1
+439,sequence_439,439,60,2021-01-23,address_186,1,1,1,1,nan,nan,nan,,0,,0,,0
+440,sequence_440,440,76,2021-01-01,address_49,1,1,1,1,nan,nan,nan,,0,50.0,1,,0
+441,sequence_441,441,30,2021-01-09,address_251,1,1,1,1,school_A,Grundskole,nan,,0,,0,,0
+442,sequence_442,442,20,2021-01-04,address_233,1,1,1,1,nan,nan,nan,14.0,1,33.0,1,,0
+443,sequence_443,443,75,2021-01-21,address_27,1,1,1,1,nan,nan,workplace_A,21.0,1,14.0,1,1.0,1
+444,sequence_444,444,73,2021-01-09,address_286,1,1,1,1,school_C,Gymnasiale uddannelse,nan,12.0,1,45.0,1,38.0,1
+445,sequence_445,445,64,2021-01-07,address_43,1,1,1,1,nan,nan,nan,25.0,1,35.0,1,5.0,1
+446,sequence_446,446,61,2021-01-12,address_217,1,1,1,1,nan,nan,nan,4.0,1,53.0,1,23.0,1
+447,sequence_447,447,17,2021-01-26,address_304,1,1,1,1,nan,nan,nan,,0,,0,,0
+448,sequence_448,448,69,2021-01-29,address_280,1,1,1,1,nan,nan,workplace_A,31.0,1,31.0,1,35.0,1
+449,sequence_449,449,26,2021-01-27,address_225,1,1,1,1,nan,nan,nan,1.0,1,50.0,1,58.0,1
+450,sequence_450,450,74,2021-01-12,address_15,1,1,1,1,nan,nan,nan,,0,7.0,1,,0
+451,sequence_451,451,27,2021-01-19,address_3,1,1,1,1,nan,nan,nan,,0,38.0,1,,0
+452,sequence_452,452,34,2021-01-16,address_26,1,1,1,1,nan,nan,nan,,0,32.0,1,,0
+453,sequence_453,453,37,2021-01-07,address_71,1,1,1,1,nan,nan,nan,23.0,1,34.0,1,,0
+454,sequence_454,454,32,2021-01-12,address_50,1,1,1,1,nan,nan,nan,,0,,0,,0
+455,sequence_455,455,34,2021-01-19,address_236,1,1,1,1,nan,nan,nan,,0,9.0,1,,0
+456,sequence_456,456,55,2021-01-09,address_179,1,1,1,1,nan,nan,nan,2.0,1,46.0,1,,0
+457,sequence_457,457,6,2021-01-20,address_180,1,1,1,1,nan,nan,workplace_B,45.0,1,56.0,1,27.0,1
+458,sequence_458,458,33,2021-01-14,address_177,1,1,1,1,nan,nan,workplace_C,33.0,1,31.0,1,42.0,1
+459,sequence_459,459,62,2021-01-29,address_43,1,1,1,1,nan,nan,workplace_B,,0,20.0,1,,0
+460,sequence_460,460,69,2021-01-02,address_195,1,1,1,1,nan,nan,nan,24.0,1,37.0,1,50.0,1
+461,sequence_461,461,0,2021-01-08,address_111,1,1,1,1,nan,nan,nan,33.0,1,42.0,1,,0
+462,sequence_462,462,44,2021-01-31,address_106,1,1,1,1,school_C,Gymnasiale uddannelse,workplace_B,,0,8.0,1,,0
+463,sequence_463,463,56,2021-01-09,address_261,1,1,1,1,nan,nan,nan,6.0,1,14.0,1,3.0,1
+464,sequence_464,464,10,2021-01-25,address_91,1,1,1,1,nan,nan,nan,,0,50.0,1,,0
+465,sequence_465,465,38,2021-01-30,address_254,1,1,1,1,nan,nan,nan,,0,,0,,0
+466,sequence_466,466,53,2021-01-03,address_34,1,1,1,1,nan,nan,workplace_C,6.0,1,6.0,1,57.0,1
+467,sequence_467,467,67,2021-01-09,address_332,1,1,1,1,nan,nan,nan,,0,28.0,1,,0
+468,sequence_468,468,35,2021-01-27,address_308,1,1,1,1,nan,nan,nan,24.0,1,14.0,1,,0
+469,sequence_469,469,15,2021-01-17,address_82,1,1,1,1,nan,nan,workplace_B,,0,20.0,1,,0
+470,sequence_470,470,39,2021-01-06,address_193,1,1,1,1,nan,nan,workplace_B,,0,17.0,1,,0
+471,sequence_471,471,44,2021-01-19,address_185,1,1,1,1,school_B,Gymnasiale uddannelse,nan,,0,46.0,1,,0
+472,sequence_472,472,43,2021-01-31,address_327,1,1,1,1,nan,nan,nan,48.0,1,33.0,1,56.0,1
+473,sequence_473,473,4,2021-01-07,address_313,1,1,1,1,nan,nan,nan,,0,25.0,1,,0
+474,sequence_474,474,38,2021-01-28,address_274,1,1,1,1,nan,nan,nan,45.0,1,48.0,1,27.0,1
+475,sequence_475,475,64,2021-01-23,address_261,1,1,1,1,nan,nan,workplace_A,43.0,1,19.0,1,17.0,1
+476,sequence_476,476,40,2021-01-25,address_151,1,1,1,1,nan,nan,nan,41.0,1,19.0,1,53.0,1
+477,sequence_477,477,2,2021-01-12,address_269,1,1,1,1,nan,nan,nan,41.0,1,16.0,1,8.0,1
+478,sequence_478,478,5,2021-01-04,address_59,1,1,1,1,nan,nan,workplace_B,55.0,1,19.0,1,0.0,1
+479,sequence_479,479,43,2021-01-04,address_154,1,1,1,1,nan,nan,nan,,0,3.0,1,,0
+480,sequence_480,480,13,2021-01-30,address_149,1,1,1,1,nan,nan,nan,3.0,1,14.0,1,46.0,1
+481,sequence_481,481,11,2021-01-20,address_296,1,1,1,1,nan,nan,nan,,0,55.0,1,,0
+482,sequence_482,482,73,2021-01-01,address_16,1,1,1,1,nan,nan,nan,,0,,0,,0
+483,sequence_483,483,59,2021-01-01,address_144,1,1,1,1,nan,nan,nan,54.0,1,2.0,1,,0
+484,sequence_484,484,75,2021-01-23,address_249,1,1,1,1,nan,nan,nan,,0,53.0,1,,0
+485,sequence_485,485,66,2021-01-20,address_323,1,1,1,1,nan,nan,nan,42.0,1,8.0,1,,0
+486,sequence_486,486,54,2021-01-09,address_97,1,1,1,1,school_A,Grundskole,nan,11.0,1,16.0,1,26.0,1
+487,sequence_487,487,72,2021-01-05,address_223,1,1,1,1,nan,nan,nan,25.0,1,49.0,1,,0
+488,sequence_488,488,72,2021-01-19,address_208,1,1,1,1,nan,nan,workplace_A,,0,,0,,0
+489,sequence_489,489,36,2021-01-09,address_144,1,1,1,1,nan,nan,nan,16.0,1,26.0,1,,0
+490,sequence_490,490,16,2021-01-03,address_92,1,1,1,1,nan,nan,nan,34.0,1,54.0,1,52.0,1
+491,sequence_491,491,74,2021-01-06,address_211,1,1,1,1,nan,nan,nan,,0,,0,,0
+492,sequence_492,492,61,2021-01-22,address_20,1,1,1,1,nan,nan,workplace_A,40.0,1,22.0,1,,0
+493,sequence_493,493,47,2021-01-21,address_123,1,1,1,1,nan,nan,nan,,0,,0,,0
+494,sequence_494,494,45,2021-01-16,address_239,1,1,1,1,nan,nan,nan,8.0,1,31.0,1,18.0,1
+495,sequence_495,495,11,2021-01-01,address_250,1,1,1,1,nan,nan,workplace_B,,0,16.0,1,,0
+496,sequence_496,496,47,2021-01-01,address_235,1,1,1,1,nan,nan,nan,3.0,1,12.0,1,,0
+497,sequence_497,497,38,2021-01-12,address_321,1,1,1,1,school_A,Grundskole,nan,34.0,1,20.0,1,50.0,1
+498,sequence_498,498,2,2021-01-12,address_184,1,1,1,1,nan,nan,nan,56.0,1,31.0,1,56.0,1
+499,sequence_499,499,48,2021-01-23,address_54,1,1,1,1,nan,nan,nan,,0,57.0,1,,0
+500,sequence_500,500,56,2021-01-12,address_168,1,1,1,1,nan,nan,nan,,0,,0,,0
+501,sequence_501,501,43,2021-01-27,address_135,1,1,1,1,school_B,Gymnasiale uddannelse,nan,9.0,1,26.0,1,,0
+502,sequence_502,502,32,2021-01-10,address_17,1,1,1,1,nan,nan,nan,20.0,1,38.0,1,50.0,1
+503,sequence_503,503,2,2021-01-07,address_79,1,1,1,1,nan,nan,workplace_B,45.0,1,22.0,1,42.0,1
+504,sequence_504,504,30,2021-01-16,address_117,1,1,1,1,nan,nan,nan,,0,36.0,1,,0
+505,sequence_505,505,74,2021-01-24,address_173,1,1,1,1,nan,nan,nan,13.0,1,45.0,1,,0
+506,sequence_506,506,17,2021-01-02,address_295,1,1,1,1,nan,nan,workplace_A,19.0,1,18.0,1,15.0,1
+507,sequence_507,507,43,2021-01-08,address_57,1,1,1,1,nan,nan,nan,,0,,0,,0
+508,sequence_508,508,61,2021-01-11,address_13,1,1,1,1,nan,nan,nan,,0,48.0,1,,0
+509,sequence_509,509,72,2021-01-09,address_79,1,1,1,1,nan,nan,nan,,0,15.0,1,,0
+510,sequence_510,510,53,2021-01-24,address_236,1,1,1,1,nan,nan,nan,,0,49.0,1,,0
+511,sequence_511,511,45,2021-01-29,address_117,1,1,1,1,nan,nan,nan,,0,34.0,1,,0
+512,sequence_512,512,58,2021-01-31,address_149,1,1,1,1,nan,nan,nan,24.0,1,2.0,1,,0
+513,sequence_513,513,77,2021-01-25,address_113,1,1,1,1,nan,nan,nan,,0,29.0,1,,0
+514,sequence_514,514,1,2021-01-14,address_249,1,1,1,1,nan,nan,nan,10.0,1,42.0,1,,0
+515,sequence_515,515,61,2021-01-05,address_242,1,1,1,1,school_B,Gymnasiale uddannelse,nan,8.0,1,59.0,1,30.0,1
+516,sequence_516,516,51,2021-01-21,address_220,1,1,1,1,school_B,Gymnasiale uddannelse,workplace_B,,0,35.0,1,,0
+517,sequence_517,517,64,2021-01-11,address_300,1,1,1,1,nan,nan,nan,15.0,1,46.0,1,16.0,1
+518,sequence_518,518,33,2021-01-22,address_113,1,1,1,1,nan,nan,nan,20.0,1,3.0,1,11.0,1
+519,sequence_519,519,66,2021-01-05,address_164,1,1,1,1,nan,nan,nan,57.0,1,59.0,1,1.0,1
+520,sequence_520,520,40,2021-01-29,address_46,1,1,1,1,school_B,Gymnasiale uddannelse,nan,14.0,1,53.0,1,,0
+521,sequence_521,521,43,2021-01-21,address_249,1,1,1,1,nan,nan,nan,54.0,1,31.0,1,3.0,1
+522,sequence_522,522,5,2021-01-30,address_182,1,1,1,1,school_A,Grundskole,nan,,0,44.0,1,,0
+523,sequence_523,523,11,2021-01-26,address_278,1,1,1,1,nan,nan,nan,44.0,1,14.0,1,25.0,1
+524,sequence_524,524,77,2021-01-06,address_98,1,1,1,1,nan,nan,nan,46.0,1,39.0,1,49.0,1
+525,sequence_525,525,52,2021-01-19,address_49,1,1,1,1,nan,nan,workplace_C,,0,,0,,0
+526,sequence_526,526,57,2021-01-03,address_101,1,1,1,1,nan,nan,nan,37.0,1,34.0,1,,0
+527,sequence_527,527,49,2021-01-06,address_236,1,1,1,1,nan,nan,nan,40.0,1,29.0,1,9.0,1
+528,sequence_528,528,41,2021-01-09,address_181,1,1,1,1,nan,nan,nan,42.0,1,50.0,1,19.0,1
+529,sequence_529,529,37,2021-01-20,address_261,1,1,1,1,nan,nan,workplace_A,56.0,1,19.0,1,,0
+530,sequence_530,530,70,2021-01-02,address_328,1,1,1,1,nan,nan,workplace_B,,0,38.0,1,,0
+531,sequence_531,531,30,2021-01-21,address_318,1,1,1,1,school_B,Gymnasiale uddannelse,nan,11.0,1,18.0,1,,0
+532,sequence_532,532,74,2021-01-30,address_182,1,1,1,1,nan,nan,nan,29.0,1,57.0,1,,0
+533,sequence_533,533,48,2021-01-28,address_151,1,1,1,1,nan,nan,nan,16.0,1,5.0,1,7.0,1
+534,sequence_534,534,25,2021-01-13,address_210,1,1,1,1,nan,nan,nan,6.0,1,19.0,1,,0
+535,sequence_535,535,51,2021-01-05,address_254,1,1,1,1,nan,nan,nan,,0,,0,,0
+536,sequence_536,536,4,2021-01-17,address_190,1,1,1,1,nan,nan,nan,,0,,0,,0
+537,sequence_537,537,55,2021-01-26,address_291,1,1,1,1,nan,nan,nan,35.0,1,52.0,1,11.0,1
+538,sequence_538,538,77,2021-01-22,address_329,1,1,1,1,nan,nan,nan,,0,29.0,1,,0
+539,sequence_539,539,0,2021-01-22,address_247,1,1,1,1,school_C,Gymnasiale uddannelse,nan,29.0,1,27.0,1,22.0,1
+540,sequence_540,540,5,2021-01-04,address_50,1,1,1,1,nan,nan,nan,52.0,1,2.0,1,57.0,1
+541,sequence_541,541,71,2021-01-07,address_81,1,1,1,1,nan,nan,workplace_B,,0,3.0,1,,0
+542,sequence_542,542,58,2021-01-05,address_305,1,1,1,1,nan,nan,nan,,0,34.0,1,,0
+543,sequence_543,543,20,2021-01-26,address_229,1,1,1,1,school_A,Grundskole,nan,37.0,1,42.0,1,58.0,1
+544,sequence_544,544,4,2021-01-04,address_139,1,1,1,1,nan,nan,nan,42.0,1,17.0,1,33.0,1
+545,sequence_545,545,76,2021-01-22,address_57,1,1,1,1,nan,nan,nan,57.0,1,1.0,1,,0
+546,sequence_546,546,13,2021-01-22,address_33,1,1,1,1,nan,nan,nan,,0,,0,,0
+547,sequence_547,547,46,2021-01-03,address_79,1,1,1,1,school_B,Gymnasiale uddannelse,nan,24.0,1,21.0,1,2.0,1
+548,sequence_548,548,0,2021-01-23,address_232,1,1,1,1,school_C,Gymnasiale uddannelse,workplace_B,,0,21.0,1,,0
+549,sequence_549,549,22,2021-01-12,address_91,1,1,1,1,school_A,Grundskole,workplace_B,,0,37.0,1,,0
+550,sequence_550,550,73,2021-01-27,address_115,1,1,1,1,nan,nan,nan,19.0,1,55.0,1,,0
+551,sequence_551,551,16,2021-01-28,address_264,1,1,1,1,nan,nan,workplace_B,,0,22.0,1,,0
+552,sequence_552,552,48,2021-01-14,address_87,1,1,1,1,nan,nan,nan,38.0,1,2.0,1,33.0,1
+553,sequence_553,553,43,2021-01-13,address_200,1,1,1,1,school_B,Gymnasiale uddannelse,nan,,0,,0,,0
+554,sequence_554,554,5,2021-01-09,address_48,1,1,1,1,school_B,Gymnasiale uddannelse,nan,28.0,1,52.0,1,,0
+555,sequence_555,555,8,2021-01-02,address_77,1,1,1,1,nan,nan,workplace_A,,0,15.0,1,,0
+556,sequence_556,556,41,2021-01-04,address_265,1,1,1,1,nan,nan,nan,26.0,1,45.0,1,,0
+557,sequence_557,557,35,2021-01-05,address_103,1,1,1,1,school_C,Gymnasiale uddannelse,nan,34.0,1,49.0,1,36.0,1
+558,sequence_558,558,26,2021-01-20,address_59,1,1,1,1,nan,nan,nan,35.0,1,1.0,1,29.0,1
+559,sequence_559,559,6,2021-01-22,address_52,1,1,1,1,nan,nan,workplace_B,,0,49.0,1,,0
+560,sequence_560,560,59,2021-01-31,address_13,1,1,1,1,nan,nan,workplace_A,50.0,1,3.0,1,34.0,1
+561,sequence_561,561,23,2021-01-21,address_5,1,1,1,1,nan,nan,nan,,0,,0,,0
+562,sequence_562,562,16,2021-01-03,address_86,1,1,1,1,nan,nan,nan,6.0,1,2.0,1,,0
+563,sequence_563,563,24,2021-01-04,address_142,1,1,1,1,nan,nan,workplace_C,2.0,1,13.0,1,4.0,1
+564,sequence_564,564,79,2021-01-29,address_56,1,1,1,1,school_B,Gymnasiale uddannelse,nan,,0,,0,,0
+565,sequence_565,565,58,2021-01-20,address_331,1,1,1,1,nan,nan,nan,20.0,1,30.0,1,28.0,1
+566,sequence_566,566,50,2021-01-24,address_167,1,1,1,1,nan,nan,workplace_A,39.0,1,51.0,1,10.0,1
+567,sequence_567,567,53,2021-01-31,address_196,1,1,1,1,nan,nan,nan,,0,37.0,1,,0
+568,sequence_568,568,16,2021-01-07,address_209,1,1,1,1,nan,nan,workplace_C,6.0,1,51.0,1,,0
+569,sequence_569,569,61,2021-01-26,address_221,1,1,1,1,nan,nan,nan,,0,,0,,0
+570,sequence_570,570,17,2021-01-01,address_14,1,1,1,1,school_C,Gymnasiale uddannelse,nan,,0,14.0,1,,0
+571,sequence_571,571,45,2021-01-15,address_236,1,1,1,1,school_A,Grundskole,nan,,0,,0,,0
+572,sequence_572,572,11,2021-01-27,address_153,1,1,1,1,nan,nan,nan,,0,56.0,1,,0
+573,sequence_573,573,4,2021-01-08,address_242,1,1,1,1,nan,nan,nan,,0,47.0,1,,0
+574,sequence_574,574,30,2021-01-02,address_95,1,1,1,1,nan,nan,nan,36.0,1,4.0,1,,0
+575,sequence_575,575,45,2021-01-10,address_84,1,1,1,1,school_A,Grundskole,nan,,0,28.0,1,,0
+576,sequence_576,576,0,2021-01-10,address_323,1,1,1,1,school_B,Gymnasiale uddannelse,nan,44.0,1,7.0,1,33.0,1
+577,sequence_577,577,77,2021-01-13,address_73,1,1,1,1,school_A,Grundskole,workplace_C,27.0,1,59.0,1,,0
+578,sequence_578,578,56,2021-01-17,address_107,1,1,1,1,nan,nan,nan,35.0,1,47.0,1,3.0,1
+579,sequence_579,579,53,2021-01-19,address_107,1,1,1,1,nan,nan,nan,50.0,1,30.0,1,28.0,1
+580,sequence_580,580,36,2021-01-23,address_28,1,1,1,1,nan,nan,nan,25.0,1,32.0,1,,0
+581,sequence_581,581,31,2021-01-11,address_331,1,1,1,1,nan,nan,nan,8.0,1,2.0,1,47.0,1
+582,sequence_582,582,29,2021-01-04,address_63,1,1,1,1,nan,nan,nan,,0,17.0,1,,0
+583,sequence_583,583,11,2021-01-28,address_127,1,1,1,1,nan,nan,workplace_B,,0,,0,,0
+584,sequence_584,584,73,2021-01-16,address_181,1,1,1,1,nan,nan,nan,4.0,1,1.0,1,52.0,1
+585,sequence_585,585,58,2021-01-10,address_75,1,1,1,1,nan,nan,workplace_A,15.0,1,34.0,1,,0
+586,sequence_586,586,57,2021-01-27,address_20,1,1,1,1,nan,nan,workplace_B,,0,,0,,0
+587,sequence_587,587,24,2021-01-07,address_22,1,1,1,1,school_B,Gymnasiale uddannelse,workplace_C,57.0,1,11.0,1,,0
+588,sequence_588,588,29,2021-01-15,address_102,1,1,1,1,nan,nan,nan,,0,,0,,0
+589,sequence_589,589,67,2021-01-03,address_182,1,1,1,1,nan,nan,nan,,0,,0,,0
+590,sequence_590,590,76,2021-01-16,address_195,1,1,1,1,nan,nan,nan,51.0,1,39.0,1,10.0,1
+591,sequence_591,591,66,2021-01-08,address_186,1,1,1,1,nan,nan,nan,,0,,0,,0
+592,sequence_592,592,38,2021-01-06,address_59,1,1,1,1,school_C,Gymnasiale uddannelse,nan,49.0,1,50.0,1,32.0,1
+593,sequence_593,593,63,2021-01-16,address_56,1,1,1,1,nan,nan,nan,,0,,0,,0
+594,sequence_594,594,46,2021-01-10,address_252,1,1,1,1,school_C,Gymnasiale uddannelse,nan,,0,8.0,1,,0
+595,sequence_595,595,79,2021-01-31,address_200,1,1,1,1,nan,nan,nan,29.0,1,26.0,1,11.0,1
+596,sequence_596,596,72,2021-01-27,address_269,1,1,1,1,school_A,Grundskole,nan,50.0,1,16.0,1,,0
+597,sequence_597,597,27,2021-01-15,address_37,1,1,1,1,nan,nan,nan,4.0,1,59.0,1,,0
+598,sequence_598,598,52,2021-01-08,address_201,1,1,1,1,nan,nan,nan,,0,,0,,0
+599,sequence_599,599,23,2021-01-14,address_64,1,1,1,1,nan,nan,nan,,0,26.0,1,,0
+600,sequence_600,600,11,2021-01-14,address_231,1,1,1,1,nan,nan,nan,,0,33.0,1,,0
+601,sequence_601,601,35,2021-01-05,address_36,1,1,1,1,nan,nan,nan,48.0,1,22.0,1,19.0,1
+602,sequence_602,602,45,2021-01-10,address_14,1,1,1,1,nan,nan,nan,26.0,1,24.0,1,8.0,1
+603,sequence_603,603,34,2021-01-09,address_325,1,1,1,1,nan,nan,nan,,0,,0,,0
+604,sequence_604,604,68,2021-01-26,address_247,1,1,1,1,nan,nan,nan,0.0,1,21.0,1,15.0,1
+605,sequence_605,605,3,2021-01-20,address_309,1,1,1,1,nan,nan,nan,40.0,1,3.0,1,,0
+606,sequence_606,606,19,2021-01-29,address_121,1,1,1,1,nan,nan,nan,8.0,1,44.0,1,,0
+607,sequence_607,607,23,2021-01-18,address_210,1,1,1,1,nan,nan,nan,35.0,1,31.0,1,9.0,1
+608,sequence_608,608,21,2021-01-05,address_318,1,1,1,1,nan,nan,nan,,0,16.0,1,,0
+609,sequence_609,609,50,2021-01-02,address_157,1,1,1,1,nan,nan,nan,58.0,1,20.0,1,22.0,1
+610,sequence_610,610,15,2021-01-05,address_70,1,1,1,1,nan,nan,nan,,0,15.0,1,,0
+611,sequence_611,611,59,2021-01-07,address_323,1,1,1,1,nan,nan,workplace_B,8.0,1,15.0,1,31.0,1
+612,sequence_612,612,19,2021-01-11,address_145,1,1,1,1,nan,nan,workplace_A,,0,10.0,1,,0
+613,sequence_613,613,31,2021-01-18,address_26,1,1,1,1,nan,nan,nan,,0,59.0,1,,0
+614,sequence_614,614,34,2021-01-28,address_158,1,1,1,1,nan,nan,nan,50.0,1,47.0,1,18.0,1
+615,sequence_615,615,11,2021-01-14,address_304,1,1,1,1,school_B,Gymnasiale uddannelse,workplace_A,26.0,1,44.0,1,,0
+616,sequence_616,616,71,2021-01-26,address_250,1,1,1,1,nan,nan,workplace_A,,0,31.0,1,,0
+617,sequence_617,617,3,2021-01-30,address_298,1,1,1,1,nan,nan,workplace_B,14.0,1,38.0,1,0.0,1
+618,sequence_618,618,59,2021-01-19,address_203,1,1,1,1,nan,nan,nan,4.0,1,26.0,1,46.0,1
+619,sequence_619,619,68,2021-01-08,address_170,1,1,1,1,nan,nan,workplace_C,52.0,1,35.0,1,,0
+620,sequence_620,620,39,2021-01-03,address_213,1,1,1,1,nan,nan,nan,,0,52.0,1,,0
+621,sequence_621,621,13,2021-01-17,address_218,1,1,1,1,nan,nan,nan,,0,,0,,0
+622,sequence_622,622,16,2021-01-07,address_12,1,1,1,1,nan,nan,nan,14.0,1,58.0,1,47.0,1
+623,sequence_623,623,51,2021-01-18,address_96,1,1,1,1,nan,nan,nan,18.0,1,20.0,1,34.0,1
+624,sequence_624,624,11,2021-01-29,address_153,1,1,1,1,nan,nan,nan,19.0,1,22.0,1,,0
+625,sequence_625,625,29,2021-01-05,address_216,1,1,1,1,nan,nan,nan,25.0,1,42.0,1,6.0,1
+626,sequence_626,626,26,2021-01-21,address_229,1,1,1,1,nan,nan,nan,,0,4.0,1,,0
+627,sequence_627,627,17,2021-01-10,address_187,1,1,1,1,nan,nan,workplace_B,,0,,0,,0
+628,sequence_628,628,12,2021-01-28,address_239,1,1,1,1,school_B,Gymnasiale uddannelse,workplace_A,,0,,0,,0
+629,sequence_629,629,75,2021-01-23,address_123,1,1,1,1,nan,nan,nan,31.0,1,0.0,1,3.0,1
+630,sequence_630,630,13,2021-01-16,address_44,1,1,1,1,nan,nan,nan,,0,54.0,1,,0
+631,sequence_631,631,40,2021-01-27,address_180,1,1,1,1,nan,nan,nan,,0,,0,,0
+632,sequence_632,632,29,2021-01-12,address_171,1,1,1,1,school_C,Gymnasiale uddannelse,nan,33.0,1,24.0,1,,0
+633,sequence_633,633,51,2021-01-29,address_238,1,1,1,1,school_A,Grundskole,nan,25.0,1,4.0,1,,0
+634,sequence_634,634,56,2021-01-25,address_194,1,1,1,1,nan,nan,nan,4.0,1,11.0,1,53.0,1
+635,sequence_635,635,26,2021-01-26,address_278,1,1,1,1,school_A,Grundskole,workplace_B,,0,7.0,1,,0
+636,sequence_636,636,57,2021-01-01,address_19,1,1,1,1,nan,nan,nan,3.0,1,59.0,1,,0
+637,sequence_637,637,58,2021-01-05,address_138,1,1,1,1,school_A,Grundskole,nan,,0,,0,,0
+638,sequence_638,638,28,2021-01-05,address_307,1,1,1,1,nan,nan,nan,,0,,0,,0
+639,sequence_639,639,37,2021-01-28,address_139,1,1,1,1,nan,nan,nan,50.0,1,12.0,1,,0
+640,sequence_640,640,7,2021-01-15,address_18,1,1,1,1,nan,nan,workplace_C,57.0,1,2.0,1,13.0,1
+641,sequence_641,641,23,2021-01-19,address_200,1,1,1,1,nan,nan,workplace_A,,0,,0,,0
+642,sequence_642,642,6,2021-01-24,address_85,1,1,1,1,nan,nan,nan,,0,6.0,1,,0
+643,sequence_643,643,71,2021-01-27,address_194,1,1,1,1,nan,nan,workplace_B,,0,,0,,0
+644,sequence_644,644,43,2021-01-10,address_276,1,1,1,1,school_A,Grundskole,nan,,0,,0,,0
+645,sequence_645,645,29,2021-01-15,address_10,1,1,1,1,nan,nan,nan,17.0,1,24.0,1,39.0,1
+646,sequence_646,646,16,2021-01-28,address_189,1,1,1,1,nan,nan,nan,,0,,0,,0
+647,sequence_647,647,56,2021-01-02,address_8,1,1,1,1,nan,nan,nan,,0,4.0,1,,0
+648,sequence_648,648,56,2021-01-29,address_240,1,1,1,1,nan,nan,workplace_A,41.0,1,19.0,1,11.0,1
+649,sequence_649,649,71,2021-01-18,address_322,1,1,1,1,nan,nan,workplace_C,,0,,0,,0
+650,sequence_650,650,13,2021-01-17,address_147,1,1,1,1,nan,nan,nan,,0,31.0,1,,0
+651,sequence_651,651,43,2021-01-09,address_47,1,1,1,1,nan,nan,nan,,0,2.0,1,,0
+652,sequence_652,652,77,2021-01-06,address_269,1,1,1,1,school_C,Gymnasiale uddannelse,nan,,0,2.0,1,,0
+653,sequence_653,653,58,2021-01-20,address_66,1,1,1,1,nan,nan,workplace_A,,0,22.0,1,,0
+654,sequence_654,654,27,2021-01-10,address_22,1,1,1,1,nan,nan,nan,,0,,0,,0
+655,sequence_655,655,72,2021-01-11,address_220,1,1,1,1,nan,nan,nan,16.0,1,47.0,1,31.0,1
+656,sequence_656,656,67,2021-01-09,address_2,1,1,1,1,school_B,Gymnasiale uddannelse,workplace_C,48.0,1,27.0,1,0.0,1
+657,sequence_657,657,25,2021-01-23,address_90,1,1,1,1,nan,nan,nan,,0,37.0,1,,0
+658,sequence_658,658,35,2021-01-21,address_157,1,1,1,1,nan,nan,nan,37.0,1,57.0,1,7.0,1
+659,sequence_659,659,48,2021-01-29,address_306,1,1,1,1,nan,nan,workplace_A,,0,17.0,1,,0
+660,sequence_660,660,38,2021-01-20,address_251,1,1,1,1,nan,nan,nan,52.0,1,11.0,1,54.0,1
+661,sequence_661,661,14,2021-01-28,address_101,1,1,1,1,nan,nan,nan,51.0,1,43.0,1,43.0,1
+662,sequence_662,662,5,2021-01-22,address_187,1,1,1,1,school_C,Gymnasiale uddannelse,nan,19.0,1,45.0,1,36.0,1
+663,sequence_663,663,20,2021-01-24,address_138,1,1,1,1,school_C,Gymnasiale uddannelse,nan,47.0,1,4.0,1,36.0,1
+664,sequence_664,664,14,2021-01-13,address_100,1,1,1,1,nan,nan,workplace_A,,0,,0,,0
+665,sequence_665,665,42,2021-01-23,address_307,1,1,1,1,nan,nan,nan,19.0,1,38.0,1,55.0,1
+666,sequence_666,666,57,2021-01-25,address_69,1,1,1,1,nan,nan,workplace_B,,0,,0,,0
+667,sequence_667,667,78,2021-01-09,address_152,1,1,1,1,nan,nan,nan,25.0,1,40.0,1,57.0,1
+668,sequence_668,668,33,2021-01-14,address_133,1,1,1,1,nan,nan,nan,,0,,0,,0
+669,sequence_669,669,17,2021-01-20,address_163,1,1,1,1,nan,nan,nan,40.0,1,12.0,1,30.0,1
+670,sequence_670,670,22,2021-01-22,address_301,1,1,1,1,nan,nan,workplace_C,,0,15.0,1,,0
+671,sequence_671,671,19,2021-01-09,address_310,1,1,1,1,nan,nan,nan,,0,,0,,0
+672,sequence_672,672,58,2021-01-01,address_97,1,1,1,1,nan,nan,nan,5.0,1,13.0,1,,0
+673,sequence_673,673,47,2021-01-10,address_225,1,1,1,1,nan,nan,nan,38.0,1,35.0,1,,0
+674,sequence_674,674,44,2021-01-28,address_314,1,1,1,1,nan,nan,nan,,0,,0,,0
+675,sequence_675,675,22,2021-01-01,address_126,1,1,1,1,nan,nan,workplace_A,,0,6.0,1,,0
+676,sequence_676,676,44,2021-01-06,address_154,1,1,1,1,nan,nan,nan,11.0,1,53.0,1,55.0,1
+677,sequence_677,677,39,2021-01-04,address_215,1,1,1,1,school_A,Grundskole,workplace_B,13.0,1,13.0,1,24.0,1
+678,sequence_678,678,48,2021-01-24,address_270,1,1,1,1,nan,nan,workplace_C,,0,34.0,1,,0
+679,sequence_679,679,41,2021-01-22,address_179,1,1,1,1,school_B,Gymnasiale uddannelse,nan,,0,,0,,0
+680,sequence_680,680,12,2021-01-08,address_84,1,1,1,1,nan,nan,workplace_B,,0,,0,,0
+681,sequence_681,681,46,2021-01-08,address_239,1,1,1,1,school_C,Gymnasiale uddannelse,nan,,0,,0,,0
+682,sequence_682,682,75,2021-01-08,address_17,1,1,1,1,nan,nan,nan,,0,,0,,0
+683,sequence_683,683,51,2021-01-29,address_295,1,1,1,1,nan,nan,nan,,0,,0,,0
+684,sequence_684,684,67,2021-01-29,address_176,1,1,1,1,nan,nan,nan,0.0,1,40.0,1,0.0,1
+685,sequence_685,685,32,2021-01-23,address_222,1,1,1,1,nan,nan,nan,19.0,1,42.0,1,8.0,1
+686,sequence_686,686,45,2021-01-21,address_280,1,1,1,1,nan,nan,nan,32.0,1,25.0,1,37.0,1
+687,sequence_687,687,44,2021-01-30,address_69,1,1,1,1,nan,nan,nan,,0,58.0,1,,0
+688,sequence_688,688,74,2021-01-17,address_138,1,1,1,1,school_B,Gymnasiale uddannelse,workplace_C,,0,,0,,0
+689,sequence_689,689,67,2021-01-07,address_313,1,1,1,1,nan,nan,nan,18.0,1,11.0,1,,0
+690,sequence_690,690,41,2021-01-01,address_163,1,1,1,1,nan,nan,nan,47.0,1,57.0,1,,0
+691,sequence_691,691,44,2021-01-16,address_280,1,1,1,1,nan,nan,workplace_C,37.0,1,4.0,1,,0
+692,sequence_692,692,66,2021-01-22,address_171,1,1,1,1,nan,nan,nan,20.0,1,55.0,1,20.0,1
+693,sequence_693,693,25,2021-01-20,address_3,1,1,1,1,school_A,Grundskole,workplace_C,51.0,1,55.0,1,5.0,1
+694,sequence_694,694,17,2021-01-09,address_0,1,1,1,1,nan,nan,nan,26.0,1,23.0,1,57.0,1
+695,sequence_695,695,42,2021-01-06,address_131,1,1,1,1,nan,nan,nan,44.0,1,14.0,1,35.0,1
+696,sequence_696,696,66,2021-01-07,address_149,1,1,1,1,nan,nan,nan,,0,42.0,1,,0
+697,sequence_697,697,45,2021-01-08,address_0,1,1,1,1,nan,nan,nan,55.0,1,56.0,1,10.0,1
+698,sequence_698,698,33,2021-01-18,address_167,1,1,1,1,nan,nan,nan,8.0,1,10.0,1,,0
+699,sequence_699,699,0,2021-01-28,address_322,1,1,1,1,nan,nan,nan,35.0,1,25.0,1,35.0,1
+700,sequence_700,700,24,2021-01-12,address_53,1,1,1,1,nan,nan,nan,,0,,0,,0
+701,sequence_701,701,11,2021-01-22,address_243,1,1,1,1,nan,nan,nan,,0,43.0,1,,0
+702,sequence_702,702,35,2021-01-25,address_239,1,1,1,1,nan,nan,workplace_A,20.0,1,8.0,1,42.0,1
+703,sequence_703,703,47,2021-01-23,address_47,1,1,1,1,nan,nan,nan,1.0,1,47.0,1,29.0,1
+704,sequence_704,704,21,2021-01-23,address_48,1,1,1,1,school_A,Grundskole,nan,,0,,0,,0
+705,sequence_705,705,48,2021-01-27,address_123,1,1,1,1,school_C,Gymnasiale uddannelse,nan,,0,31.0,1,,0
+706,sequence_706,706,62,2021-01-28,address_317,1,1,1,1,nan,nan,workplace_A,5.0,1,7.0,1,11.0,1
+707,sequence_707,707,18,2021-01-09,address_57,1,1,1,1,nan,nan,nan,,0,,0,,0
+708,sequence_708,708,43,2021-01-20,address_288,1,1,1,1,nan,nan,workplace_A,,0,46.0,1,,0
+709,sequence_709,709,69,2021-01-18,address_252,1,1,1,1,nan,nan,nan,24.0,1,46.0,1,37.0,1
+710,sequence_710,710,56,2021-01-19,address_318,1,1,1,1,nan,nan,workplace_C,30.0,1,38.0,1,,0
+711,sequence_711,711,57,2021-01-12,address_278,1,1,1,1,nan,nan,nan,,0,22.0,1,,0
+712,sequence_712,712,6,2021-01-07,address_263,1,1,1,1,nan,nan,workplace_C,,0,,0,,0
+713,sequence_713,713,28,2021-01-04,address_59,1,1,1,1,school_A,Grundskole,nan,,0,,0,,0
+714,sequence_714,714,72,2021-01-23,address_242,1,1,1,1,nan,nan,workplace_A,20.0,1,17.0,1,7.0,1
+715,sequence_715,715,38,2021-01-16,address_262,1,1,1,1,nan,nan,nan,,0,1.0,1,,0
+716,sequence_716,716,45,2021-01-22,address_246,1,1,1,1,school_B,Gymnasiale uddannelse,nan,58.0,1,59.0,1,,0
+717,sequence_717,717,35,2021-01-09,address_58,1,1,1,1,nan,nan,nan,,0,,0,,0
+718,sequence_718,718,44,2021-01-04,address_42,1,1,1,1,nan,nan,nan,0.0,1,43.0,1,27.0,1
+719,sequence_719,719,57,2021-01-30,address_98,1,1,1,1,nan,nan,nan,,0,25.0,1,,0
+720,sequence_720,720,21,2021-01-27,address_65,1,1,1,1,nan,nan,workplace_A,,0,52.0,1,,0
+721,sequence_721,721,32,2021-01-05,address_177,1,1,1,1,nan,nan,workplace_B,,0,48.0,1,,0
+722,sequence_722,722,28,2021-01-26,address_287,1,1,1,1,nan,nan,nan,50.0,1,21.0,1,41.0,1
+723,sequence_723,723,53,2021-01-08,address_115,1,1,1,1,nan,nan,nan,58.0,1,46.0,1,49.0,1
+724,sequence_724,724,7,2021-01-21,address_109,1,1,1,1,nan,nan,nan,49.0,1,23.0,1,8.0,1
+725,sequence_725,725,39,2021-01-04,address_24,1,1,1,1,school_C,Gymnasiale uddannelse,workplace_A,5.0,1,6.0,1,50.0,1
+726,sequence_726,726,37,2021-01-17,address_259,1,1,1,1,nan,nan,nan,20.0,1,14.0,1,,0
+727,sequence_727,727,7,2021-01-14,address_121,1,1,1,1,school_A,Grundskole,nan,,0,54.0,1,,0
+728,sequence_728,728,66,2021-01-19,address_69,1,1,1,1,nan,nan,workplace_B,,0,27.0,1,,0
+729,sequence_729,729,48,2021-01-07,address_100,1,1,1,1,nan,nan,nan,,0,,0,,0
+730,sequence_730,730,29,2021-01-03,address_303,1,1,1,1,nan,nan,nan,52.0,1,38.0,1,0.0,1
+731,sequence_731,731,52,2021-01-23,address_46,1,1,1,1,nan,nan,workplace_A,,0,42.0,1,,0
+732,sequence_732,732,36,2021-01-16,address_153,1,1,1,1,nan,nan,workplace_B,49.0,1,32.0,1,56.0,1
+733,sequence_733,733,14,2021-01-07,address_267,1,1,1,1,nan,nan,nan,,0,47.0,1,,0
+734,sequence_734,734,39,2021-01-02,address_85,1,1,1,1,school_B,Gymnasiale uddannelse,nan,13.0,1,35.0,1,44.0,1
+735,sequence_735,735,66,2021-01-28,address_297,1,1,1,1,nan,nan,nan,,0,48.0,1,,0
+736,sequence_736,736,51,2021-01-06,address_194,1,1,1,1,nan,nan,workplace_B,,0,49.0,1,,0
+737,sequence_737,737,77,2021-01-08,address_5,1,1,1,1,nan,nan,nan,58.0,1,39.0,1,24.0,1
+738,sequence_738,738,26,2021-01-16,address_245,1,1,1,1,nan,nan,nan,,0,,0,,0
+739,sequence_739,739,53,2021-01-08,address_37,1,1,1,1,nan,nan,nan,36.0,1,17.0,1,25.0,1
+740,sequence_740,740,33,2021-01-17,address_12,1,1,1,1,nan,nan,workplace_A,,0,45.0,1,,0
+741,sequence_741,741,50,2021-01-19,address_189,1,1,1,1,nan,nan,nan,,0,,0,,0
+742,sequence_742,742,64,2021-01-04,address_151,1,1,1,1,school_A,Grundskole,nan,42.0,1,47.0,1,,0
+743,sequence_743,743,76,2021-01-28,address_144,1,1,1,1,school_A,Grundskole,nan,2.0,1,5.0,1,38.0,1
+744,sequence_744,744,22,2021-01-23,address_157,1,1,1,1,nan,nan,nan,58.0,1,59.0,1,,0
+745,sequence_745,745,2,2021-01-31,address_274,1,1,1,1,nan,nan,nan,,0,,0,,0
+746,sequence_746,746,1,2021-01-14,address_127,1,1,1,1,nan,nan,nan,3.0,1,33.0,1,32.0,1
+747,sequence_747,747,76,2021-01-24,address_271,1,1,1,1,nan,nan,nan,,0,,0,,0
+748,sequence_748,748,39,2021-01-04,address_159,1,1,1,1,nan,nan,nan,57.0,1,14.0,1,53.0,1
+749,sequence_749,749,43,2021-01-20,address_79,1,1,1,1,school_A,Grundskole,nan,,0,,0,,0
+750,sequence_750,750,24,2021-01-08,address_131,1,1,1,1,nan,nan,nan,,0,,0,,0
+751,sequence_751,751,62,2021-01-16,address_186,1,1,1,1,nan,nan,workplace_B,38.0,1,30.0,1,,0
+752,sequence_752,752,73,2021-01-24,address_257,1,1,1,1,nan,nan,workplace_C,,0,48.0,1,,0
+753,sequence_753,753,22,2021-01-25,address_185,1,1,1,1,nan,nan,nan,,0,,0,,0
+754,sequence_754,754,1,2021-01-06,address_73,1,1,1,1,nan,nan,nan,39.0,1,53.0,1,6.0,1
+755,sequence_755,755,59,2021-01-27,address_328,1,1,1,1,school_C,Gymnasiale uddannelse,nan,26.0,1,7.0,1,49.0,1
+756,sequence_756,756,43,2021-01-26,address_48,1,1,1,1,nan,nan,nan,6.0,1,16.0,1,27.0,1
+757,sequence_757,757,36,2021-01-14,address_56,1,1,1,1,nan,nan,nan,,0,25.0,1,,0
+758,sequence_758,758,50,2021-01-31,address_300,1,1,1,1,school_B,Gymnasiale uddannelse,workplace_A,41.0,1,56.0,1,,0
+759,sequence_759,759,4,2021-01-05,address_79,1,1,1,1,nan,nan,nan,,0,51.0,1,,0
+760,sequence_760,760,7,2021-01-20,address_86,1,1,1,1,nan,nan,nan,13.0,1,54.0,1,11.0,1
+761,sequence_761,761,25,2021-01-09,address_116,1,1,1,1,nan,nan,nan,47.0,1,37.0,1,5.0,1
+762,sequence_762,762,32,2021-01-20,address_51,1,1,1,1,school_B,Gymnasiale uddannelse,nan,30.0,1,51.0,1,,0
+763,sequence_763,763,43,2021-01-21,address_5,1,1,1,1,nan,nan,nan,,0,,0,,0
+764,sequence_764,764,69,2021-01-09,address_220,1,1,1,1,nan,nan,nan,56.0,1,21.0,1,47.0,1
+765,sequence_765,765,12,2021-01-22,address_148,1,1,1,1,nan,nan,nan,44.0,1,42.0,1,34.0,1
+766,sequence_766,766,74,2021-01-06,address_137,1,1,1,1,nan,nan,nan,,0,9.0,1,,0
+767,sequence_767,767,45,2021-01-26,address_222,1,1,1,1,nan,nan,workplace_C,24.0,1,57.0,1,24.0,1
+768,sequence_768,768,48,2021-01-28,address_219,1,1,1,1,nan,nan,nan,,0,38.0,1,,0
+769,sequence_769,769,54,2021-01-09,address_67,1,1,1,1,nan,nan,nan,10.0,1,23.0,1,,0
+770,sequence_770,770,61,2021-01-02,address_286,1,1,1,1,school_B,Gymnasiale uddannelse,nan,9.0,1,21.0,1,14.0,1
+771,sequence_771,771,67,2021-01-18,address_8,1,1,1,1,school_A,Grundskole,nan,,0,,0,,0
+772,sequence_772,772,7,2021-01-27,address_115,1,1,1,1,nan,nan,nan,,0,,0,,0
+773,sequence_773,773,47,2021-01-21,address_304,1,1,1,1,nan,nan,nan,,0,,0,,0
+774,sequence_774,774,19,2021-01-11,address_218,1,1,1,1,school_B,Gymnasiale uddannelse,nan,,0,,0,,0
+775,sequence_775,775,15,2021-01-04,address_51,1,1,1,1,nan,nan,nan,,0,,0,,0
+776,sequence_776,776,16,2021-01-05,address_115,1,1,1,1,school_C,Gymnasiale uddannelse,nan,,0,18.0,1,,0
+777,sequence_777,777,16,2021-01-06,address_214,1,1,1,1,nan,nan,workplace_C,55.0,1,26.0,1,,0
+778,sequence_778,778,13,2021-01-15,address_59,1,1,1,1,nan,nan,nan,,0,23.0,1,,0
+779,sequence_779,779,50,2021-01-19,address_75,1,1,1,1,nan,nan,nan,,0,,0,,0
+780,sequence_780,780,33,2021-01-22,address_16,1,1,1,1,nan,nan,nan,,0,45.0,1,,0
+781,sequence_781,781,79,2021-01-02,address_115,1,1,1,1,nan,nan,nan,39.0,1,11.0,1,,0
+782,sequence_782,782,34,2021-01-27,address_239,1,1,1,1,nan,nan,workplace_A,,0,,0,,0
+783,sequence_783,783,44,2021-01-08,address_240,1,1,1,1,nan,nan,nan,,0,31.0,1,,0
+784,sequence_784,784,54,2021-01-22,address_332,1,1,1,1,school_C,Gymnasiale uddannelse,workplace_B,,0,16.0,1,,0
+785,sequence_785,785,14,2021-01-13,address_9,1,1,1,1,nan,nan,workplace_A,55.0,1,32.0,1,42.0,1
+786,sequence_786,786,66,2021-01-21,address_320,1,1,1,1,school_A,Grundskole,workplace_C,21.0,1,26.0,1,21.0,1
+787,sequence_787,787,8,2021-01-30,address_148,1,1,1,1,nan,nan,nan,,0,,0,,0
+788,sequence_788,788,70,2021-01-02,address_162,1,1,1,1,nan,nan,workplace_C,32.0,1,59.0,1,,0
+789,sequence_789,789,65,2021-01-01,address_154,1,1,1,1,nan,nan,nan,18.0,1,28.0,1,,0
+790,sequence_790,790,63,2021-01-30,address_126,1,1,1,1,nan,nan,workplace_B,17.0,1,44.0,1,44.0,1
+791,sequence_791,791,73,2021-01-28,address_199,1,1,1,1,nan,nan,nan,6.0,1,36.0,1,31.0,1
+792,sequence_792,792,6,2021-01-25,address_49,1,1,1,1,nan,nan,nan,,0,,0,,0
+793,sequence_793,793,44,2021-01-18,address_94,1,1,1,1,nan,nan,workplace_A,41.0,1,16.0,1,0.0,1
+794,sequence_794,794,47,2021-01-10,address_226,1,1,1,1,nan,nan,nan,,0,58.0,1,,0
+795,sequence_795,795,11,2021-01-18,address_92,1,1,1,1,nan,nan,workplace_C,38.0,1,56.0,1,11.0,1
+796,sequence_796,796,5,2021-01-22,address_205,1,1,1,1,nan,nan,nan,22.0,1,48.0,1,55.0,1
+797,sequence_797,797,52,2021-01-23,address_204,1,1,1,1,nan,nan,workplace_A,17.0,1,6.0,1,0.0,1
+798,sequence_798,798,13,2021-01-23,address_82,1,1,1,1,nan,nan,nan,,0,,0,,0
+799,sequence_799,799,39,2021-01-05,address_178,1,1,1,1,nan,nan,workplace_B,,0,,0,,0
+800,sequence_800,800,10,2021-01-03,address_43,1,1,1,1,nan,nan,nan,,0,24.0,1,,0
+801,sequence_801,801,36,2021-01-12,address_97,1,1,1,1,nan,nan,nan,,0,,0,,0
+802,sequence_802,802,28,2021-01-04,address_223,1,1,1,1,nan,nan,nan,,0,11.0,1,,0
+803,sequence_803,803,15,2021-01-23,address_141,1,1,1,1,nan,nan,workplace_A,42.0,1,10.0,1,46.0,1
+804,sequence_804,804,44,2021-01-07,address_313,1,1,1,1,nan,nan,nan,39.0,1,9.0,1,,0
+805,sequence_805,805,27,2021-01-01,address_101,1,1,1,1,nan,nan,nan,,0,,0,,0
+806,sequence_806,806,60,2021-01-28,address_45,1,1,1,1,school_B,Gymnasiale uddannelse,workplace_C,28.0,1,17.0,1,21.0,1
+807,sequence_807,807,39,2021-01-04,address_143,1,1,1,1,school_A,Grundskole,nan,14.0,1,41.0,1,,0
+808,sequence_808,808,51,2021-01-11,address_7,1,1,1,1,nan,nan,nan,,0,57.0,1,,0
+809,sequence_809,809,53,2021-01-24,address_176,1,1,1,1,nan,nan,nan,,0,,0,,0
+810,sequence_810,810,20,2021-01-29,address_321,1,1,1,1,nan,nan,workplace_A,21.0,1,24.0,1,52.0,1
+811,sequence_811,811,37,2021-01-20,address_289,1,1,1,1,nan,nan,workplace_C,,0,,0,,0
+812,sequence_812,812,23,2021-01-26,address_158,1,1,1,1,school_C,Gymnasiale uddannelse,nan,,0,40.0,1,,0
+813,sequence_813,813,19,2021-01-06,address_147,1,1,1,1,nan,nan,workplace_A,17.0,1,15.0,1,48.0,1
+814,sequence_814,814,76,2021-01-01,address_21,1,1,1,1,nan,nan,nan,,0,57.0,1,,0
+815,sequence_815,815,11,2021-01-04,address_164,1,1,1,1,nan,nan,workplace_A,,0,21.0,1,,0
+816,sequence_816,816,44,2021-01-19,address_27,1,1,1,1,nan,nan,nan,,0,,0,,0
+817,sequence_817,817,43,2021-01-05,address_52,1,1,1,1,school_C,Gymnasiale uddannelse,nan,18.0,1,58.0,1,20.0,1
+818,sequence_818,818,39,2021-01-11,address_287,1,1,1,1,nan,nan,nan,,0,,0,,0
+819,sequence_819,819,55,2021-01-19,address_44,1,1,1,1,nan,nan,nan,46.0,1,21.0,1,15.0,1
+820,sequence_820,820,15,2021-01-04,address_258,1,1,1,1,school_A,Grundskole,nan,24.0,1,21.0,1,35.0,1
+821,sequence_821,821,53,2021-01-16,address_100,1,1,1,1,nan,nan,nan,42.0,1,53.0,1,,0
+822,sequence_822,822,71,2021-01-20,address_1,1,1,1,1,nan,nan,nan,4.0,1,44.0,1,22.0,1
+823,sequence_823,823,16,2021-01-01,address_263,1,1,1,1,school_B,Gymnasiale uddannelse,nan,51.0,1,5.0,1,,0
+824,sequence_824,824,58,2021-01-30,address_150,1,1,1,1,nan,nan,nan,,0,6.0,1,,0
+825,sequence_825,825,16,2021-01-24,address_314,1,1,1,1,school_C,Gymnasiale uddannelse,nan,52.0,1,28.0,1,30.0,1
+826,sequence_826,826,29,2021-01-26,address_66,1,1,1,1,nan,nan,nan,0.0,1,38.0,1,50.0,1
+827,sequence_827,827,17,2021-01-02,address_131,1,1,1,1,nan,nan,nan,,0,,0,,0
+828,sequence_828,828,12,2021-01-26,address_283,1,1,1,1,nan,nan,nan,11.0,1,37.0,1,13.0,1
+829,sequence_829,829,68,2021-01-26,address_153,1,1,1,1,nan,nan,workplace_B,56.0,1,38.0,1,14.0,1
+830,sequence_830,830,1,2021-01-26,address_244,1,1,1,1,nan,nan,workplace_A,39.0,1,18.0,1,,0
+831,sequence_831,831,12,2021-01-24,address_241,1,1,1,1,nan,nan,nan,59.0,1,47.0,1,11.0,1
+832,sequence_832,832,17,2021-01-26,address_116,1,1,1,1,nan,nan,workplace_B,,0,18.0,1,,0
+833,sequence_833,833,45,2021-01-31,address_273,1,1,1,1,nan,nan,nan,4.0,1,35.0,1,52.0,1
+834,sequence_834,834,78,2021-01-06,address_109,1,1,1,1,nan,nan,nan,,0,,0,,0
+835,sequence_835,835,14,2021-01-18,address_235,1,1,1,1,nan,nan,nan,35.0,1,14.0,1,,0
+836,sequence_836,836,36,2021-01-19,address_244,1,1,1,1,nan,nan,workplace_B,30.0,1,35.0,1,,0
+837,sequence_837,837,44,2021-01-29,address_144,1,1,1,1,nan,nan,workplace_C,20.0,1,52.0,1,45.0,1
+838,sequence_838,838,57,2021-01-14,address_200,1,1,1,1,school_C,Gymnasiale uddannelse,nan,,0,27.0,1,,0
+839,sequence_839,839,44,2021-01-29,address_322,1,1,1,1,school_B,Gymnasiale uddannelse,nan,26.0,1,48.0,1,,0
+840,sequence_840,840,20,2021-01-21,address_50,1,1,1,1,school_B,Gymnasiale uddannelse,nan,,0,,0,,0
+841,sequence_841,841,69,2021-01-06,address_94,1,1,1,1,nan,nan,nan,58.0,1,8.0,1,,0
+842,sequence_842,842,78,2021-01-07,address_293,1,1,1,1,nan,nan,nan,51.0,1,41.0,1,27.0,1
+843,sequence_843,843,60,2021-01-29,address_180,1,1,1,1,nan,nan,workplace_C,52.0,1,36.0,1,39.0,1
+844,sequence_844,844,74,2021-01-31,address_282,1,1,1,1,nan,nan,nan,48.0,1,14.0,1,,0
+845,sequence_845,845,36,2021-01-31,address_137,1,1,1,1,nan,nan,nan,,0,40.0,1,,0
+846,sequence_846,846,39,2021-01-13,address_133,1,1,1,1,nan,nan,nan,14.0,1,4.0,1,33.0,1
+847,sequence_847,847,40,2021-01-19,address_307,1,1,1,1,nan,nan,nan,,0,36.0,1,,0
+848,sequence_848,848,23,2021-01-28,address_307,1,1,1,1,nan,nan,nan,34.0,1,10.0,1,9.0,1
+849,sequence_849,849,57,2021-01-28,address_292,1,1,1,1,nan,nan,nan,,0,,0,,0
+850,sequence_850,850,63,2021-01-02,address_158,1,1,1,1,nan,nan,workplace_C,,0,,0,,0
+851,sequence_851,851,78,2021-01-21,address_44,1,1,1,1,school_B,Gymnasiale uddannelse,nan,39.0,1,1.0,1,12.0,1
+852,sequence_852,852,74,2021-01-27,address_304,1,1,1,1,nan,nan,nan,,0,1.0,1,,0
+853,sequence_853,853,62,2021-01-27,address_26,1,1,1,1,nan,nan,nan,33.0,1,11.0,1,20.0,1
+854,sequence_854,854,46,2021-01-17,address_6,1,1,1,1,nan,nan,nan,,0,,0,,0
+855,sequence_855,855,36,2021-01-20,address_171,1,1,1,1,nan,nan,nan,,0,7.0,1,,0
+856,sequence_856,856,63,2021-01-22,address_30,1,1,1,1,school_B,Gymnasiale uddannelse,workplace_A,57.0,1,14.0,1,44.0,1
+857,sequence_857,857,61,2021-01-07,address_114,1,1,1,1,nan,nan,workplace_C,54.0,1,19.0,1,14.0,1
+858,sequence_858,858,51,2021-01-09,address_4,1,1,1,1,nan,nan,nan,39.0,1,33.0,1,,0
+859,sequence_859,859,70,2021-01-31,address_244,1,1,1,1,nan,nan,workplace_C,,0,3.0,1,,0
+860,sequence_860,860,27,2021-01-19,address_16,1,1,1,1,nan,nan,workplace_B,38.0,1,48.0,1,15.0,1
+861,sequence_861,861,43,2021-01-21,address_163,1,1,1,1,nan,nan,nan,41.0,1,17.0,1,4.0,1
+862,sequence_862,862,22,2021-01-19,address_331,1,1,1,1,nan,nan,nan,,0,14.0,1,,0
+863,sequence_863,863,48,2021-01-20,address_82,1,1,1,1,school_C,Gymnasiale uddannelse,nan,,0,58.0,1,,0
+864,sequence_864,864,3,2021-01-24,address_155,1,1,1,1,nan,nan,nan,,0,45.0,1,,0
+865,sequence_865,865,66,2021-01-05,address_267,1,1,1,1,nan,nan,nan,52.0,1,5.0,1,13.0,1
+866,sequence_866,866,35,2021-01-02,address_136,1,1,1,1,school_C,Gymnasiale uddannelse,nan,57.0,1,11.0,1,17.0,1
+867,sequence_867,867,59,2021-01-31,address_0,1,1,1,1,nan,nan,nan,,0,,0,,0
+868,sequence_868,868,30,2021-01-03,address_310,1,1,1,1,nan,nan,nan,45.0,1,1.0,1,3.0,1
+869,sequence_869,869,63,2021-01-10,address_223,1,1,1,1,nan,nan,nan,29.0,1,32.0,1,,0
+870,sequence_870,870,74,2021-01-17,address_326,1,1,1,1,nan,nan,nan,55.0,1,19.0,1,19.0,1
+871,sequence_871,871,3,2021-01-16,address_252,1,1,1,1,nan,nan,nan,,0,50.0,1,,0
+872,sequence_872,872,26,2021-01-02,address_247,1,1,1,1,school_B,Gymnasiale uddannelse,nan,,0,5.0,1,,0
+873,sequence_873,873,51,2021-01-18,address_86,1,1,1,1,nan,nan,nan,,0,,0,,0
+874,sequence_874,874,36,2021-01-27,address_39,1,1,1,1,nan,nan,nan,,0,49.0,1,,0
+875,sequence_875,875,76,2021-01-24,address_187,1,1,1,1,nan,nan,nan,,0,,0,,0
+876,sequence_876,876,65,2021-01-28,address_211,1,1,1,1,nan,nan,nan,,0,31.0,1,,0
+877,sequence_877,877,25,2021-01-10,address_172,1,1,1,1,nan,nan,workplace_A,18.0,1,52.0,1,46.0,1
+878,sequence_878,878,48,2021-01-09,address_98,1,1,1,1,nan,nan,nan,48.0,1,40.0,1,20.0,1
+879,sequence_879,879,36,2021-01-10,address_193,1,1,1,1,nan,nan,nan,46.0,1,44.0,1,,0
+880,sequence_880,880,43,2021-01-25,address_252,1,1,1,1,nan,nan,nan,25.0,1,23.0,1,14.0,1
+881,sequence_881,881,32,2021-01-10,address_236,1,1,1,1,nan,nan,nan,,0,,0,,0
+882,sequence_882,882,9,2021-01-08,address_80,1,1,1,1,nan,nan,nan,15.0,1,43.0,1,,0
+883,sequence_883,883,42,2021-01-29,address_102,1,1,1,1,nan,nan,nan,32.0,1,13.0,1,56.0,1
+884,sequence_884,884,52,2021-01-16,address_211,1,1,1,1,nan,nan,nan,,0,0.0,1,,0
+885,sequence_885,885,27,2021-01-12,address_104,1,1,1,1,nan,nan,nan,,0,7.0,1,,0
+886,sequence_886,886,49,2021-01-30,address_267,1,1,1,1,nan,nan,nan,,0,45.0,1,,0
+887,sequence_887,887,23,2021-01-13,address_308,1,1,1,1,nan,nan,nan,9.0,1,19.0,1,5.0,1
+888,sequence_888,888,45,2021-01-04,address_185,1,1,1,1,nan,nan,nan,,0,,0,,0
+889,sequence_889,889,16,2021-01-18,address_118,1,1,1,1,nan,nan,workplace_B,11.0,1,2.0,1,42.0,1
+890,sequence_890,890,30,2021-01-24,address_39,1,1,1,1,nan,nan,workplace_C,,0,0.0,1,,0
+891,sequence_891,891,12,2021-01-03,address_270,1,1,1,1,school_C,Gymnasiale uddannelse,nan,6.0,1,1.0,1,34.0,1
+892,sequence_892,892,56,2021-01-09,address_34,1,1,1,1,school_B,Gymnasiale uddannelse,nan,58.0,1,49.0,1,13.0,1
+893,sequence_893,893,18,2021-01-17,address_107,1,1,1,1,nan,nan,nan,33.0,1,40.0,1,36.0,1
+894,sequence_894,894,62,2021-01-24,address_218,1,1,1,1,nan,nan,nan,,0,46.0,1,,0
+895,sequence_895,895,19,2021-01-23,address_141,1,1,1,1,nan,nan,nan,5.0,1,38.0,1,7.0,1
+896,sequence_896,896,53,2021-01-22,address_70,1,1,1,1,nan,nan,nan,,0,,0,,0
+897,sequence_897,897,23,2021-01-02,address_330,1,1,1,1,nan,nan,workplace_C,45.0,1,24.0,1,23.0,1
+898,sequence_898,898,74,2021-01-14,address_164,1,1,1,1,nan,nan,nan,48.0,1,51.0,1,38.0,1
+899,sequence_899,899,21,2021-01-16,address_5,1,1,1,1,school_C,Gymnasiale uddannelse,workplace_B,,0,52.0,1,,0
+900,sequence_900,900,64,2021-01-24,address_317,1,1,1,1,school_A,Grundskole,workplace_A,6.0,1,55.0,1,,0
+901,sequence_901,901,69,2021-01-27,address_88,1,1,1,1,nan,nan,nan,34.0,1,37.0,1,30.0,1
+902,sequence_902,902,62,2021-01-22,address_157,1,1,1,1,school_C,Gymnasiale uddannelse,nan,,0,4.0,1,,0
+903,sequence_903,903,47,2021-01-22,address_89,1,1,1,1,nan,nan,nan,13.0,1,27.0,1,0.0,1
+904,sequence_904,904,73,2021-01-13,address_46,1,1,1,1,nan,nan,nan,,0,,0,,0
+905,sequence_905,905,30,2021-01-24,address_297,1,1,1,1,school_A,Grundskole,nan,58.0,1,46.0,1,,0
+906,sequence_906,906,30,2021-01-09,address_239,1,1,1,1,nan,nan,nan,37.0,1,9.0,1,5.0,1
+907,sequence_907,907,52,2021-01-23,address_271,1,1,1,1,nan,nan,nan,,0,38.0,1,,0
+908,sequence_908,908,32,2021-01-16,address_224,1,1,1,1,nan,nan,nan,4.0,1,25.0,1,34.0,1
+909,sequence_909,909,21,2021-01-22,address_115,1,1,1,1,school_A,Grundskole,nan,10.0,1,13.0,1,53.0,1
+910,sequence_910,910,47,2021-01-03,address_218,1,1,1,1,nan,nan,nan,,0,31.0,1,,0
+911,sequence_911,911,39,2021-01-02,address_317,1,1,1,1,nan,nan,workplace_C,32.0,1,44.0,1,5.0,1
+912,sequence_912,912,11,2021-01-30,address_56,1,1,1,1,nan,nan,workplace_B,12.0,1,46.0,1,44.0,1
+913,sequence_913,913,47,2021-01-31,address_15,1,1,1,1,nan,nan,nan,56.0,1,4.0,1,,0
+914,sequence_914,914,40,2021-01-05,address_230,1,1,1,1,nan,nan,nan,,0,,0,,0
+915,sequence_915,915,71,2021-01-16,address_38,1,1,1,1,nan,nan,nan,,0,,0,,0
+916,sequence_916,916,14,2021-01-02,address_263,1,1,1,1,nan,nan,nan,41.0,1,20.0,1,21.0,1
+917,sequence_917,917,50,2021-01-03,address_63,1,1,1,1,nan,nan,nan,35.0,1,27.0,1,,0
+918,sequence_918,918,32,2021-01-17,address_313,1,1,1,1,nan,nan,nan,,0,46.0,1,,0
+919,sequence_919,919,72,2021-01-16,address_114,1,1,1,1,nan,nan,nan,,0,,0,,0
+920,sequence_920,920,5,2021-01-21,address_11,1,1,1,1,nan,nan,workplace_B,,0,,0,,0
+921,sequence_921,921,52,2021-01-19,address_64,1,1,1,1,nan,nan,nan,8.0,1,42.0,1,,0
+922,sequence_922,922,11,2021-01-10,address_155,1,1,1,1,nan,nan,nan,29.0,1,12.0,1,,0
+923,sequence_923,923,69,2021-01-02,address_9,1,1,1,1,nan,nan,nan,13.0,1,8.0,1,49.0,1
+924,sequence_924,924,51,2021-01-24,address_29,1,1,1,1,nan,nan,workplace_C,,0,,0,,0
+925,sequence_925,925,68,2021-01-21,address_213,1,1,1,1,nan,nan,nan,37.0,1,29.0,1,,0
+926,sequence_926,926,42,2021-01-20,address_331,1,1,1,1,nan,nan,nan,33.0,1,51.0,1,25.0,1
+927,sequence_927,927,72,2021-01-13,address_282,1,1,1,1,nan,nan,nan,48.0,1,58.0,1,47.0,1
+928,sequence_928,928,51,2021-01-24,address_206,1,1,1,1,nan,nan,nan,,0,,0,,0
+929,sequence_929,929,59,2021-01-21,address_105,1,1,1,1,nan,nan,nan,22.0,1,19.0,1,,0
+930,sequence_930,930,76,2021-01-07,address_61,1,1,1,1,nan,nan,workplace_A,34.0,1,48.0,1,,0
+931,sequence_931,931,58,2021-01-26,address_213,1,1,1,1,nan,nan,nan,,0,57.0,1,,0
+932,sequence_932,932,69,2021-01-18,address_291,1,1,1,1,nan,nan,nan,,0,,0,,0
+933,sequence_933,933,36,2021-01-06,address_63,1,1,1,1,nan,nan,workplace_B,,0,0.0,1,,0
+934,sequence_934,934,56,2021-01-10,address_18,1,1,1,1,nan,nan,nan,,0,56.0,1,,0
+935,sequence_935,935,46,2021-01-01,address_38,1,1,1,1,nan,nan,nan,34.0,1,4.0,1,14.0,1
+936,sequence_936,936,56,2021-01-18,address_308,1,1,1,1,nan,nan,nan,19.0,1,34.0,1,18.0,1
+937,sequence_937,937,18,2021-01-25,address_91,1,1,1,1,nan,nan,nan,13.0,1,48.0,1,,0
+938,sequence_938,938,10,2021-01-11,address_38,1,1,1,1,nan,nan,nan,54.0,1,31.0,1,23.0,1
+939,sequence_939,939,6,2021-01-17,address_111,1,1,1,1,nan,nan,nan,39.0,1,39.0,1,26.0,1
+940,sequence_940,940,46,2021-01-08,address_93,1,1,1,1,nan,nan,nan,,0,44.0,1,,0
+941,sequence_941,941,5,2021-01-23,address_22,1,1,1,1,school_A,Grundskole,nan,,0,23.0,1,,0
+942,sequence_942,942,22,2021-01-22,address_67,1,1,1,1,school_B,Gymnasiale uddannelse,workplace_C,53.0,1,38.0,1,56.0,1
+943,sequence_943,943,1,2021-01-01,address_128,1,1,1,1,school_C,Gymnasiale uddannelse,nan,,0,48.0,1,,0
+944,sequence_944,944,8,2021-01-05,address_276,1,1,1,1,nan,nan,nan,50.0,1,52.0,1,52.0,1
+945,sequence_945,945,6,2021-01-21,address_137,1,1,1,1,nan,nan,nan,31.0,1,54.0,1,29.0,1
+946,sequence_946,946,74,2021-01-23,address_78,1,1,1,1,nan,nan,nan,43.0,1,2.0,1,13.0,1
+947,sequence_947,947,41,2021-01-06,address_37,1,1,1,1,nan,nan,nan,18.0,1,0.0,1,,0
+948,sequence_948,948,43,2021-01-26,address_81,1,1,1,1,nan,nan,nan,,0,,0,,0
+949,sequence_949,949,47,2021-01-18,address_224,1,1,1,1,nan,nan,nan,29.0,1,31.0,1,19.0,1
+950,sequence_950,950,32,2021-01-13,address_71,1,1,1,1,nan,nan,nan,,0,23.0,1,,0
+951,sequence_951,951,41,2021-01-20,address_319,1,1,1,1,nan,nan,workplace_C,38.0,1,46.0,1,5.0,1
+952,sequence_952,952,46,2021-01-02,address_261,1,1,1,1,school_A,Grundskole,nan,9.0,1,19.0,1,10.0,1
+953,sequence_953,953,32,2021-01-25,address_291,1,1,1,1,nan,nan,nan,,0,37.0,1,,0
+954,sequence_954,954,53,2021-01-23,address_248,1,1,1,1,school_B,Gymnasiale uddannelse,nan,10.0,1,5.0,1,,0
+955,sequence_955,955,37,2021-01-19,address_121,1,1,1,1,nan,nan,nan,36.0,1,1.0,1,0.0,1
+956,sequence_956,956,38,2021-01-14,address_321,1,1,1,1,nan,nan,workplace_B,,0,40.0,1,,0
+957,sequence_957,957,44,2021-01-30,address_311,1,1,1,1,school_B,Gymnasiale uddannelse,nan,31.0,1,37.0,1,9.0,1
+958,sequence_958,958,20,2021-01-18,address_144,1,1,1,1,nan,nan,nan,,0,,0,,0
+959,sequence_959,959,76,2021-01-22,address_86,1,1,1,1,nan,nan,workplace_A,,0,,0,,0
+960,sequence_960,960,50,2021-01-15,address_271,1,1,1,1,nan,nan,nan,38.0,1,31.0,1,44.0,1
+961,sequence_961,961,4,2021-01-13,address_312,1,1,1,1,nan,nan,nan,17.0,1,30.0,1,13.0,1
+962,sequence_962,962,73,2021-01-14,address_191,1,1,1,1,nan,nan,nan,,0,,0,,0
+963,sequence_963,963,55,2021-01-26,address_252,1,1,1,1,nan,nan,workplace_B,18.0,1,31.0,1,,0
+964,sequence_964,964,78,2021-01-09,address_330,1,1,1,1,school_C,Gymnasiale uddannelse,nan,48.0,1,18.0,1,8.0,1
+965,sequence_965,965,76,2021-01-30,address_250,1,1,1,1,nan,nan,workplace_C,2.0,1,34.0,1,0.0,1
+966,sequence_966,966,67,2021-01-07,address_135,1,1,1,1,nan,nan,nan,,0,40.0,1,,0
+967,sequence_967,967,39,2021-01-14,address_293,1,1,1,1,nan,nan,nan,0.0,1,58.0,1,,0
+968,sequence_968,968,9,2021-01-09,address_138,1,1,1,1,school_B,Gymnasiale uddannelse,nan,28.0,1,30.0,1,38.0,1
+969,sequence_969,969,61,2021-01-03,address_225,1,1,1,1,nan,nan,nan,43.0,1,13.0,1,,0
+970,sequence_970,970,57,2021-01-22,address_321,1,1,1,1,nan,nan,nan,27.0,1,51.0,1,6.0,1
+971,sequence_971,971,22,2021-01-14,address_279,1,1,1,1,nan,nan,nan,13.0,1,28.0,1,17.0,1
+972,sequence_972,972,51,2021-01-28,address_40,1,1,1,1,nan,nan,nan,23.0,1,9.0,1,,0
+973,sequence_973,973,31,2021-01-19,address_10,1,1,1,1,school_C,Gymnasiale uddannelse,nan,13.0,1,8.0,1,55.0,1
+974,sequence_974,974,55,2021-01-05,address_2,1,1,1,1,school_C,Gymnasiale uddannelse,nan,,0,26.0,1,,0
+975,sequence_975,975,59,2021-01-31,address_231,1,1,1,1,school_A,Grundskole,nan,14.0,1,51.0,1,,0
+976,sequence_976,976,33,2021-01-23,address_45,1,1,1,1,nan,nan,nan,,0,58.0,1,,0
+977,sequence_977,977,68,2021-01-24,address_270,1,1,1,1,nan,nan,workplace_C,,0,22.0,1,,0
+978,sequence_978,978,55,2021-01-02,address_297,1,1,1,1,nan,nan,nan,,0,,0,,0
+979,sequence_979,979,20,2021-01-23,address_206,1,1,1,1,nan,nan,nan,7.0,1,31.0,1,23.0,1
+980,sequence_980,980,2,2021-01-21,address_241,1,1,1,1,nan,nan,nan,29.0,1,0.0,1,,0
+981,sequence_981,981,74,2021-01-01,address_271,1,1,1,1,nan,nan,nan,,0,,0,,0
+982,sequence_982,982,59,2021-01-03,address_136,1,1,1,1,nan,nan,nan,,0,3.0,1,,0
+983,sequence_983,983,40,2021-01-01,address_236,1,1,1,1,school_B,Gymnasiale uddannelse,nan,14.0,1,33.0,1,17.0,1
+984,sequence_984,984,39,2021-01-28,address_80,1,1,1,1,school_C,Gymnasiale uddannelse,nan,49.0,1,4.0,1,0.0,1
+985,sequence_985,985,35,2021-01-23,address_199,1,1,1,1,school_C,Gymnasiale uddannelse,nan,32.0,1,41.0,1,6.0,1
+986,sequence_986,986,71,2021-01-01,address_189,1,1,1,1,nan,nan,workplace_B,43.0,1,33.0,1,46.0,1
+987,sequence_987,987,31,2021-01-26,address_178,1,1,1,1,school_C,Gymnasiale uddannelse,nan,,0,48.0,1,,0
+988,sequence_988,988,34,2021-01-22,address_155,1,1,1,1,nan,nan,nan,,0,33.0,1,,0
+989,sequence_989,989,70,2021-01-29,address_267,1,1,1,1,nan,nan,nan,,0,,0,,0
+990,sequence_990,990,49,2021-01-05,address_93,1,1,1,1,nan,nan,workplace_B,38.0,1,12.0,1,50.0,1
+991,sequence_991,991,62,2021-01-29,address_84,1,1,1,1,nan,nan,nan,59.0,1,45.0,1,,0
+992,sequence_992,992,49,2021-01-24,address_155,1,1,1,1,nan,nan,nan,9.0,1,54.0,1,44.0,1
+993,sequence_993,993,16,2021-01-06,address_258,1,1,1,1,nan,nan,nan,29.0,1,48.0,1,29.0,1
+994,sequence_994,994,6,2021-01-09,address_233,1,1,1,1,nan,nan,nan,,0,,0,,0
+995,sequence_995,995,60,2021-01-18,address_104,1,1,1,1,nan,nan,workplace_C,,0,47.0,1,,0
+996,sequence_996,996,48,2021-01-08,address_64,1,1,1,1,nan,nan,nan,,0,48.0,1,,0
+997,sequence_997,997,4,2021-01-02,address_100,1,1,1,1,school_A,Grundskole,nan,57.0,1,29.0,1,44.0,1
+998,sequence_998,998,8,2021-01-14,address_142,1,1,1,1,nan,nan,nan,56.0,1,16.0,1,,0
+999,sequence_999,999,79,2021-01-05,address_308,1,1,1,1,school_A,Grundskole,nan,,0,,0,,0

@@ -1,0 +1,4 @@
+,PERSON_ID,address,school,school_type,workplace,kommune,region,SampleDateTime,strain
+56,56,address_303,nan,nan,nan,1,1,2021-01-29,sequence_56
+406,406,address_303,nan,nan,nan,1,1,2021-01-25,sequence_406
+118,118,address_212,nan,nan,nan,1,1,2021-01-15,sequence_118

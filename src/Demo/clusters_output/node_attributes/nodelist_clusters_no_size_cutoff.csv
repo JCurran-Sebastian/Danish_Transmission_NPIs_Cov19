@@ -1,0 +1,492 @@
+,PERSON_ID,address,school,school_type,workplace,kommune,region,SampleDateTime,strain,cluster_number
+0,0,address_303,nan,nan,workplace_B,1,1,2021-01-06,sequence_0,0
+2,2,address_294,nan,nan,workplace_A,1,1,2021-01-16,sequence_2,0
+5,5,address_152,nan,nan,nan,1,1,2021-01-03,sequence_5,0
+7,7,address_177,nan,nan,workplace_B,1,1,2021-01-18,sequence_7,0
+10,10,address_154,nan,nan,workplace_A,1,1,2021-01-22,sequence_10,0
+11,11,address_30,school_A,Grundskole,workplace_A,1,1,2021-01-04,sequence_11,0
+13,13,address_158,nan,nan,workplace_A,1,1,2021-01-21,sequence_13,0
+16,16,address_120,nan,nan,workplace_C,1,1,2021-01-30,sequence_16,0
+19,19,address_50,nan,nan,workplace_A,1,1,2021-01-29,sequence_19,0
+21,21,address_251,nan,nan,nan,1,1,2021-01-14,sequence_21,0
+23,23,address_293,nan,nan,nan,1,1,2021-01-04,sequence_23,0
+27,27,address_139,school_A,Grundskole,nan,1,1,2021-01-19,sequence_27,0
+30,30,address_331,nan,nan,workplace_B,1,1,2021-01-30,sequence_30,0
+32,32,address_258,nan,nan,workplace_A,1,1,2021-01-11,sequence_32,0
+34,34,address_107,nan,nan,workplace_A,1,1,2021-01-07,sequence_34,0
+38,38,address_107,nan,nan,nan,1,1,2021-01-29,sequence_38,0
+39,39,address_81,nan,nan,workplace_B,1,1,2021-01-04,sequence_39,0
+44,44,address_113,nan,nan,workplace_C,1,1,2021-01-25,sequence_44,0
+46,46,address_249,nan,nan,workplace_A,1,1,2021-01-27,sequence_46,0
+49,49,address_45,nan,nan,workplace_A,1,1,2021-01-23,sequence_49,0
+50,50,address_16,nan,nan,workplace_A,1,1,2021-01-20,sequence_50,0
+52,52,address_328,nan,nan,workplace_C,1,1,2021-01-06,sequence_52,0
+61,61,address_293,nan,nan,workplace_A,1,1,2021-01-25,sequence_61,0
+63,63,address_135,nan,nan,nan,1,1,2021-01-13,sequence_63,0
+67,67,address_244,nan,nan,workplace_B,1,1,2021-01-12,sequence_67,0
+71,71,address_284,school_A,Grundskole,workplace_B,1,1,2021-01-16,sequence_71,0
+73,73,address_82,school_C,Gymnasiale uddannelse,workplace_C,1,1,2021-01-15,sequence_73,0
+74,74,address_103,nan,nan,workplace_B,1,1,2021-01-27,sequence_74,0
+76,76,address_235,nan,nan,workplace_B,1,1,2021-01-01,sequence_76,0
+77,77,address_151,nan,nan,workplace_C,1,1,2021-01-07,sequence_77,0
+80,80,address_183,nan,nan,workplace_A,1,1,2021-01-21,sequence_80,0
+81,81,address_105,nan,nan,workplace_C,1,1,2021-01-09,sequence_81,0
+83,83,address_121,nan,nan,nan,1,1,2021-01-22,sequence_83,0
+86,86,address_196,nan,nan,workplace_B,1,1,2021-01-15,sequence_86,0
+101,101,address_172,nan,nan,nan,1,1,2021-01-13,sequence_101,0
+102,102,address_241,nan,nan,workplace_A,1,1,2021-01-19,sequence_102,0
+104,104,address_15,nan,nan,workplace_C,1,1,2021-01-07,sequence_104,0
+105,105,address_328,nan,nan,workplace_B,1,1,2021-01-08,sequence_105,0
+110,110,address_195,school_A,Grundskole,workplace_A,1,1,2021-01-26,sequence_110,0
+112,112,address_313,nan,nan,workplace_B,1,1,2021-01-19,sequence_112,0
+114,114,address_88,nan,nan,workplace_B,1,1,2021-01-12,sequence_114,0
+121,121,address_332,nan,nan,workplace_C,1,1,2021-01-11,sequence_121,0
+123,123,address_81,nan,nan,workplace_B,1,1,2021-01-09,sequence_123,0
+127,127,address_15,nan,nan,workplace_C,1,1,2021-01-16,sequence_127,0
+130,130,address_61,school_A,Grundskole,nan,1,1,2021-01-27,sequence_130,0
+134,134,address_49,nan,nan,workplace_B,1,1,2021-01-26,sequence_134,0
+135,135,address_318,nan,nan,workplace_A,1,1,2021-01-07,sequence_135,0
+137,137,address_155,nan,nan,workplace_B,1,1,2021-01-06,sequence_137,0
+138,138,address_233,nan,nan,workplace_B,1,1,2021-01-26,sequence_138,0
+139,139,address_164,nan,nan,workplace_B,1,1,2021-01-31,sequence_139,0
+145,145,address_190,nan,nan,workplace_B,1,1,2021-01-10,sequence_145,0
+146,146,address_145,school_A,Grundskole,nan,1,1,2021-01-12,sequence_146,0
+148,148,address_294,nan,nan,workplace_A,1,1,2021-01-22,sequence_148,0
+149,149,address_98,school_A,Grundskole,nan,1,1,2021-01-22,sequence_149,0
+150,150,address_56,nan,nan,nan,1,1,2021-01-15,sequence_150,0
+155,155,address_237,nan,nan,workplace_B,1,1,2021-01-29,sequence_155,0
+156,156,address_277,nan,nan,workplace_A,1,1,2021-01-31,sequence_156,0
+157,157,address_150,nan,nan,workplace_C,1,1,2021-01-24,sequence_157,0
+158,158,address_19,nan,nan,nan,1,1,2021-01-24,sequence_158,0
+176,176,address_232,nan,nan,workplace_B,1,1,2021-01-31,sequence_176,0
+177,177,address_65,nan,nan,nan,1,1,2021-01-18,sequence_177,0
+178,178,address_217,school_A,Grundskole,nan,1,1,2021-01-23,sequence_178,0
+181,181,address_316,school_A,Grundskole,nan,1,1,2021-01-17,sequence_181,0
+182,182,address_259,nan,nan,workplace_A,1,1,2021-01-16,sequence_182,0
+185,185,address_32,nan,nan,nan,1,1,2021-01-16,sequence_185,0
+192,192,address_245,nan,nan,nan,1,1,2021-01-25,sequence_192,0
+194,194,address_60,nan,nan,nan,1,1,2021-01-21,sequence_194,0
+199,199,address_209,nan,nan,workplace_B,1,1,2021-01-01,sequence_199,0
+200,200,address_260,school_C,Gymnasiale uddannelse,workplace_C,1,1,2021-01-09,sequence_200,0
+201,201,address_3,nan,nan,nan,1,1,2021-01-27,sequence_201,0
+206,206,address_63,nan,nan,workplace_B,1,1,2021-01-10,sequence_206,0
+208,208,address_5,nan,nan,workplace_C,1,1,2021-01-04,sequence_208,0
+211,211,address_328,school_A,Grundskole,workplace_B,1,1,2021-01-05,sequence_211,0
+213,213,address_14,nan,nan,nan,1,1,2021-01-07,sequence_213,0
+215,215,address_316,nan,nan,workplace_C,1,1,2021-01-24,sequence_215,0
+221,221,address_63,nan,nan,nan,1,1,2021-01-18,sequence_221,0
+225,225,address_1,nan,nan,workplace_B,1,1,2021-01-10,sequence_225,0
+226,226,address_130,nan,nan,workplace_B,1,1,2021-01-25,sequence_226,0
+228,228,address_180,school_A,Grundskole,nan,1,1,2021-01-08,sequence_228,0
+230,230,address_142,nan,nan,workplace_A,1,1,2021-01-26,sequence_230,0
+231,231,address_237,school_B,Gymnasiale uddannelse,workplace_C,1,1,2021-01-14,sequence_231,0
+232,232,address_203,school_A,Grundskole,nan,1,1,2021-01-07,sequence_232,0
+233,233,address_193,nan,nan,nan,1,1,2021-01-03,sequence_233,0
+234,234,address_157,nan,nan,workplace_A,1,1,2021-01-06,sequence_234,0
+240,240,address_53,nan,nan,nan,1,1,2021-01-13,sequence_240,0
+247,247,address_132,school_B,Gymnasiale uddannelse,workplace_C,1,1,2021-01-21,sequence_247,0
+256,256,address_188,nan,nan,nan,1,1,2021-01-14,sequence_256,0
+257,257,address_276,school_B,Gymnasiale uddannelse,workplace_A,1,1,2021-01-02,sequence_257,0
+259,259,address_332,school_A,Grundskole,nan,1,1,2021-01-08,sequence_259,0
+260,260,address_314,nan,nan,workplace_A,1,1,2021-01-18,sequence_260,0
+262,262,address_177,nan,nan,nan,1,1,2021-01-13,sequence_262,0
+266,266,address_49,nan,nan,nan,1,1,2021-01-19,sequence_266,0
+267,267,address_15,nan,nan,workplace_B,1,1,2021-01-06,sequence_267,0
+268,268,address_153,nan,nan,workplace_C,1,1,2021-01-18,sequence_268,0
+269,269,address_325,school_A,Grundskole,nan,1,1,2021-01-12,sequence_269,0
+271,271,address_110,nan,nan,workplace_B,1,1,2021-01-30,sequence_271,0
+272,272,address_143,nan,nan,nan,1,1,2021-01-11,sequence_272,0
+281,281,address_154,nan,nan,workplace_C,1,1,2021-01-18,sequence_281,0
+282,282,address_316,nan,nan,workplace_C,1,1,2021-01-15,sequence_282,0
+286,286,address_5,nan,nan,nan,1,1,2021-01-14,sequence_286,0
+289,289,address_218,nan,nan,workplace_B,1,1,2021-01-11,sequence_289,0
+291,291,address_211,nan,nan,nan,1,1,2021-01-19,sequence_291,0
+299,299,address_183,nan,nan,workplace_B,1,1,2021-01-06,sequence_299,0
+305,305,address_304,nan,nan,workplace_A,1,1,2021-01-01,sequence_305,0
+307,307,address_90,school_B,Gymnasiale uddannelse,workplace_B,1,1,2021-01-17,sequence_307,0
+309,309,address_35,nan,nan,nan,1,1,2021-01-24,sequence_309,0
+310,310,address_46,school_A,Grundskole,workplace_C,1,1,2021-01-29,sequence_310,0
+312,312,address_38,nan,nan,workplace_A,1,1,2021-01-03,sequence_312,0
+315,315,address_314,nan,nan,workplace_B,1,1,2021-01-27,sequence_315,0
+316,316,address_162,nan,nan,workplace_B,1,1,2021-01-17,sequence_316,0
+320,320,address_280,nan,nan,nan,1,1,2021-01-14,sequence_320,0
+325,325,address_246,nan,nan,workplace_C,1,1,2021-01-19,sequence_325,0
+331,331,address_302,nan,nan,workplace_B,1,1,2021-01-31,sequence_331,0
+337,337,address_186,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-18,sequence_337,0
+339,339,address_51,nan,nan,nan,1,1,2021-01-13,sequence_339,0
+340,340,address_48,school_A,Grundskole,nan,1,1,2021-01-19,sequence_340,0
+342,342,address_63,nan,nan,nan,1,1,2021-01-05,sequence_342,0
+344,344,address_223,school_A,Grundskole,nan,1,1,2021-01-31,sequence_344,0
+348,348,address_134,nan,nan,nan,1,1,2021-01-25,sequence_348,0
+349,349,address_63,nan,nan,nan,1,1,2021-01-24,sequence_349,0
+350,350,address_123,school_A,Grundskole,workplace_A,1,1,2021-01-29,sequence_350,0
+351,351,address_102,nan,nan,nan,1,1,2021-01-22,sequence_351,0
+353,353,address_212,nan,nan,workplace_C,1,1,2021-01-23,sequence_353,0
+359,359,address_238,nan,nan,workplace_C,1,1,2021-01-04,sequence_359,0
+361,361,address_172,nan,nan,workplace_A,1,1,2021-01-18,sequence_361,0
+362,362,address_141,nan,nan,nan,1,1,2021-01-12,sequence_362,0
+363,363,address_45,nan,nan,workplace_B,1,1,2021-01-13,sequence_363,0
+365,365,address_203,school_A,Grundskole,nan,1,1,2021-01-25,sequence_365,0
+368,368,address_88,school_C,Gymnasiale uddannelse,workplace_C,1,1,2021-01-11,sequence_368,0
+369,369,address_74,nan,nan,workplace_C,1,1,2021-01-25,sequence_369,0
+370,370,address_332,school_A,Grundskole,workplace_B,1,1,2021-01-06,sequence_370,0
+372,372,address_138,nan,nan,workplace_A,1,1,2021-01-15,sequence_372,0
+377,377,address_15,nan,nan,workplace_B,1,1,2021-01-22,sequence_377,0
+378,378,address_198,nan,nan,workplace_A,1,1,2021-01-29,sequence_378,0
+382,382,address_79,school_B,Gymnasiale uddannelse,workplace_A,1,1,2021-01-05,sequence_382,0
+383,383,address_56,nan,nan,nan,1,1,2021-01-25,sequence_383,0
+386,386,address_233,nan,nan,nan,1,1,2021-01-18,sequence_386,0
+387,387,address_74,nan,nan,workplace_C,1,1,2021-01-15,sequence_387,0
+388,388,address_193,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-27,sequence_388,0
+390,390,address_321,school_A,Grundskole,nan,1,1,2021-01-05,sequence_390,0
+395,395,address_129,nan,nan,workplace_C,1,1,2021-01-11,sequence_395,0
+398,398,address_3,school_B,Gymnasiale uddannelse,workplace_A,1,1,2021-01-08,sequence_398,0
+402,402,address_22,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-18,sequence_402,0
+412,412,address_217,nan,nan,nan,1,1,2021-01-28,sequence_412,0
+413,413,address_215,nan,nan,workplace_B,1,1,2021-01-31,sequence_413,0
+414,414,address_184,school_A,Grundskole,nan,1,1,2021-01-21,sequence_414,0
+416,416,address_249,nan,nan,nan,1,1,2021-01-22,sequence_416,0
+417,417,address_14,nan,nan,nan,1,1,2021-01-01,sequence_417,0
+418,418,address_244,nan,nan,workplace_A,1,1,2021-01-03,sequence_418,0
+420,420,address_289,school_A,Grundskole,workplace_C,1,1,2021-01-24,sequence_420,0
+425,425,address_68,nan,nan,workplace_A,1,1,2021-01-12,sequence_425,0
+427,427,address_202,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-18,sequence_427,0
+437,437,address_239,nan,nan,nan,1,1,2021-01-09,sequence_437,0
+441,441,address_251,school_A,Grundskole,nan,1,1,2021-01-09,sequence_441,0
+443,443,address_27,nan,nan,workplace_A,1,1,2021-01-21,sequence_443,0
+448,448,address_280,nan,nan,workplace_A,1,1,2021-01-29,sequence_448,0
+450,450,address_15,nan,nan,nan,1,1,2021-01-12,sequence_450,0
+455,455,address_236,nan,nan,nan,1,1,2021-01-19,sequence_455,0
+457,457,address_180,nan,nan,workplace_B,1,1,2021-01-20,sequence_457,0
+458,458,address_177,nan,nan,workplace_C,1,1,2021-01-14,sequence_458,0
+459,459,address_43,nan,nan,workplace_B,1,1,2021-01-29,sequence_459,0
+462,462,address_106,school_C,Gymnasiale uddannelse,workplace_B,1,1,2021-01-31,sequence_462,0
+466,466,address_34,nan,nan,workplace_C,1,1,2021-01-03,sequence_466,0
+467,467,address_332,nan,nan,nan,1,1,2021-01-09,sequence_467,0
+469,469,address_82,nan,nan,workplace_B,1,1,2021-01-17,sequence_469,0
+470,470,address_193,nan,nan,workplace_B,1,1,2021-01-06,sequence_470,0
+475,475,address_261,nan,nan,workplace_A,1,1,2021-01-23,sequence_475,0
+478,478,address_59,nan,nan,workplace_B,1,1,2021-01-04,sequence_478,0
+485,485,address_323,nan,nan,nan,1,1,2021-01-20,sequence_485,0
+486,486,address_97,school_A,Grundskole,nan,1,1,2021-01-09,sequence_486,0
+488,488,address_208,nan,nan,workplace_A,1,1,2021-01-19,sequence_488,0
+492,492,address_20,nan,nan,workplace_A,1,1,2021-01-22,sequence_492,0
+495,495,address_250,nan,nan,workplace_B,1,1,2021-01-01,sequence_495,0
+497,497,address_321,school_A,Grundskole,nan,1,1,2021-01-12,sequence_497,0
+503,503,address_79,nan,nan,workplace_B,1,1,2021-01-07,sequence_503,0
+505,505,address_173,nan,nan,nan,1,1,2021-01-24,sequence_505,0
+506,506,address_295,nan,nan,workplace_A,1,1,2021-01-02,sequence_506,0
+508,508,address_13,nan,nan,nan,1,1,2021-01-11,sequence_508,0
+516,516,address_220,school_B,Gymnasiale uddannelse,workplace_B,1,1,2021-01-21,sequence_516,0
+521,521,address_249,nan,nan,nan,1,1,2021-01-21,sequence_521,0
+522,522,address_182,school_A,Grundskole,nan,1,1,2021-01-30,sequence_522,0
+525,525,address_49,nan,nan,workplace_C,1,1,2021-01-19,sequence_525,0
+527,527,address_236,nan,nan,nan,1,1,2021-01-06,sequence_527,0
+529,529,address_261,nan,nan,workplace_A,1,1,2021-01-20,sequence_529,0
+530,530,address_328,nan,nan,workplace_B,1,1,2021-01-02,sequence_530,0
+536,536,address_190,nan,nan,nan,1,1,2021-01-17,sequence_536,0
+541,541,address_81,nan,nan,workplace_B,1,1,2021-01-07,sequence_541,0
+543,543,address_229,school_A,Grundskole,nan,1,1,2021-01-26,sequence_543,0
+548,548,address_232,school_C,Gymnasiale uddannelse,workplace_B,1,1,2021-01-23,sequence_548,0
+549,549,address_91,school_A,Grundskole,workplace_B,1,1,2021-01-12,sequence_549,0
+551,551,address_264,nan,nan,workplace_B,1,1,2021-01-28,sequence_551,0
+555,555,address_77,nan,nan,workplace_A,1,1,2021-01-02,sequence_555,0
+559,559,address_52,nan,nan,workplace_B,1,1,2021-01-22,sequence_559,0
+560,560,address_13,nan,nan,workplace_A,1,1,2021-01-31,sequence_560,0
+563,563,address_142,nan,nan,workplace_C,1,1,2021-01-04,sequence_563,0
+566,566,address_167,nan,nan,workplace_A,1,1,2021-01-24,sequence_566,0
+568,568,address_209,nan,nan,workplace_C,1,1,2021-01-07,sequence_568,0
+571,571,address_236,school_A,Grundskole,nan,1,1,2021-01-15,sequence_571,0
+575,575,address_84,school_A,Grundskole,nan,1,1,2021-01-10,sequence_575,0
+576,576,address_323,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-10,sequence_576,0
+577,577,address_73,school_A,Grundskole,workplace_C,1,1,2021-01-13,sequence_577,0
+578,578,address_107,nan,nan,nan,1,1,2021-01-17,sequence_578,0
+579,579,address_107,nan,nan,nan,1,1,2021-01-19,sequence_579,0
+582,582,address_63,nan,nan,nan,1,1,2021-01-04,sequence_582,0
+583,583,address_127,nan,nan,workplace_B,1,1,2021-01-28,sequence_583,0
+585,585,address_75,nan,nan,workplace_A,1,1,2021-01-10,sequence_585,0
+586,586,address_20,nan,nan,workplace_B,1,1,2021-01-27,sequence_586,0
+587,587,address_22,school_B,Gymnasiale uddannelse,workplace_C,1,1,2021-01-07,sequence_587,0
+596,596,address_269,school_A,Grundskole,nan,1,1,2021-01-27,sequence_596,0
+603,603,address_325,nan,nan,nan,1,1,2021-01-09,sequence_603,0
+606,606,address_121,nan,nan,nan,1,1,2021-01-29,sequence_606,0
+611,611,address_323,nan,nan,workplace_B,1,1,2021-01-07,sequence_611,0
+612,612,address_145,nan,nan,workplace_A,1,1,2021-01-11,sequence_612,0
+615,615,address_304,school_B,Gymnasiale uddannelse,workplace_A,1,1,2021-01-14,sequence_615,0
+616,616,address_250,nan,nan,workplace_A,1,1,2021-01-26,sequence_616,0
+617,617,address_298,nan,nan,workplace_B,1,1,2021-01-30,sequence_617,0
+619,619,address_170,nan,nan,workplace_C,1,1,2021-01-08,sequence_619,0
+627,627,address_187,nan,nan,workplace_B,1,1,2021-01-10,sequence_627,0
+628,628,address_239,school_B,Gymnasiale uddannelse,workplace_A,1,1,2021-01-28,sequence_628,0
+633,633,address_238,school_A,Grundskole,nan,1,1,2021-01-29,sequence_633,0
+635,635,address_278,school_A,Grundskole,workplace_B,1,1,2021-01-26,sequence_635,0
+637,637,address_138,school_A,Grundskole,nan,1,1,2021-01-05,sequence_637,0
+640,640,address_18,nan,nan,workplace_C,1,1,2021-01-15,sequence_640,0
+641,641,address_200,nan,nan,workplace_A,1,1,2021-01-19,sequence_641,0
+643,643,address_194,nan,nan,workplace_B,1,1,2021-01-27,sequence_643,0
+644,644,address_276,school_A,Grundskole,nan,1,1,2021-01-10,sequence_644,0
+648,648,address_240,nan,nan,workplace_A,1,1,2021-01-29,sequence_648,0
+649,649,address_322,nan,nan,workplace_C,1,1,2021-01-18,sequence_649,0
+653,653,address_66,nan,nan,workplace_A,1,1,2021-01-20,sequence_653,0
+655,655,address_220,nan,nan,nan,1,1,2021-01-11,sequence_655,0
+656,656,address_2,school_B,Gymnasiale uddannelse,workplace_C,1,1,2021-01-09,sequence_656,0
+657,657,address_90,nan,nan,nan,1,1,2021-01-23,sequence_657,0
+659,659,address_306,nan,nan,workplace_A,1,1,2021-01-29,sequence_659,0
+660,660,address_251,nan,nan,nan,1,1,2021-01-20,sequence_660,0
+663,663,address_138,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-24,sequence_663,0
+664,664,address_100,nan,nan,workplace_A,1,1,2021-01-13,sequence_664,0
+666,666,address_69,nan,nan,workplace_B,1,1,2021-01-25,sequence_666,0
+670,670,address_301,nan,nan,workplace_C,1,1,2021-01-22,sequence_670,0
+674,674,address_314,nan,nan,nan,1,1,2021-01-28,sequence_674,0
+675,675,address_126,nan,nan,workplace_A,1,1,2021-01-01,sequence_675,0
+677,677,address_215,school_A,Grundskole,workplace_B,1,1,2021-01-04,sequence_677,0
+678,678,address_270,nan,nan,workplace_C,1,1,2021-01-24,sequence_678,0
+680,680,address_84,nan,nan,workplace_B,1,1,2021-01-08,sequence_680,0
+686,686,address_280,nan,nan,nan,1,1,2021-01-21,sequence_686,0
+687,687,address_69,nan,nan,nan,1,1,2021-01-30,sequence_687,0
+688,688,address_138,school_B,Gymnasiale uddannelse,workplace_C,1,1,2021-01-17,sequence_688,0
+691,691,address_280,nan,nan,workplace_C,1,1,2021-01-16,sequence_691,0
+693,693,address_3,school_A,Grundskole,workplace_C,1,1,2021-01-20,sequence_693,0
+702,702,address_239,nan,nan,workplace_A,1,1,2021-01-25,sequence_702,0
+704,704,address_48,school_A,Grundskole,nan,1,1,2021-01-23,sequence_704,0
+706,706,address_317,nan,nan,workplace_A,1,1,2021-01-28,sequence_706,0
+708,708,address_288,nan,nan,workplace_A,1,1,2021-01-20,sequence_708,0
+709,709,address_252,nan,nan,nan,1,1,2021-01-18,sequence_709,0
+710,710,address_318,nan,nan,workplace_C,1,1,2021-01-19,sequence_710,0
+712,712,address_263,nan,nan,workplace_C,1,1,2021-01-07,sequence_712,0
+713,713,address_59,school_A,Grundskole,nan,1,1,2021-01-04,sequence_713,0
+714,714,address_242,nan,nan,workplace_A,1,1,2021-01-23,sequence_714,0
+720,720,address_65,nan,nan,workplace_A,1,1,2021-01-27,sequence_720,0
+721,721,address_177,nan,nan,workplace_B,1,1,2021-01-05,sequence_721,0
+725,725,address_24,school_C,Gymnasiale uddannelse,workplace_A,1,1,2021-01-04,sequence_725,0
+727,727,address_121,school_A,Grundskole,nan,1,1,2021-01-14,sequence_727,0
+728,728,address_69,nan,nan,workplace_B,1,1,2021-01-19,sequence_728,0
+731,731,address_46,nan,nan,workplace_A,1,1,2021-01-23,sequence_731,0
+732,732,address_153,nan,nan,workplace_B,1,1,2021-01-16,sequence_732,0
+736,736,address_194,nan,nan,workplace_B,1,1,2021-01-06,sequence_736,0
+737,737,address_5,nan,nan,nan,1,1,2021-01-08,sequence_737,0
+739,739,address_37,nan,nan,nan,1,1,2021-01-08,sequence_739,0
+740,740,address_12,nan,nan,workplace_A,1,1,2021-01-17,sequence_740,0
+742,742,address_151,school_A,Grundskole,nan,1,1,2021-01-04,sequence_742,0
+743,743,address_144,school_A,Grundskole,nan,1,1,2021-01-28,sequence_743,0
+749,749,address_79,school_A,Grundskole,nan,1,1,2021-01-20,sequence_749,0
+751,751,address_186,nan,nan,workplace_B,1,1,2021-01-16,sequence_751,0
+752,752,address_257,nan,nan,workplace_C,1,1,2021-01-24,sequence_752,0
+756,756,address_48,nan,nan,nan,1,1,2021-01-26,sequence_756,0
+758,758,address_300,school_B,Gymnasiale uddannelse,workplace_A,1,1,2021-01-31,sequence_758,0
+767,767,address_222,nan,nan,workplace_C,1,1,2021-01-26,sequence_767,0
+771,771,address_8,school_A,Grundskole,nan,1,1,2021-01-18,sequence_771,0
+773,773,address_304,nan,nan,nan,1,1,2021-01-21,sequence_773,0
+775,775,address_51,nan,nan,nan,1,1,2021-01-04,sequence_775,0
+777,777,address_214,nan,nan,workplace_C,1,1,2021-01-06,sequence_777,0
+782,782,address_239,nan,nan,workplace_A,1,1,2021-01-27,sequence_782,0
+783,783,address_240,nan,nan,nan,1,1,2021-01-08,sequence_783,0
+784,784,address_332,school_C,Gymnasiale uddannelse,workplace_B,1,1,2021-01-22,sequence_784,0
+785,785,address_9,nan,nan,workplace_A,1,1,2021-01-13,sequence_785,0
+786,786,address_320,school_A,Grundskole,workplace_C,1,1,2021-01-21,sequence_786,0
+788,788,address_162,nan,nan,workplace_C,1,1,2021-01-02,sequence_788,0
+790,790,address_126,nan,nan,workplace_B,1,1,2021-01-30,sequence_790,0
+792,792,address_49,nan,nan,nan,1,1,2021-01-25,sequence_792,0
+793,793,address_94,nan,nan,workplace_A,1,1,2021-01-18,sequence_793,0
+795,795,address_92,nan,nan,workplace_C,1,1,2021-01-18,sequence_795,0
+796,796,address_205,nan,nan,nan,1,1,2021-01-22,sequence_796,0
+797,797,address_204,nan,nan,workplace_A,1,1,2021-01-23,sequence_797,0
+799,799,address_178,nan,nan,workplace_B,1,1,2021-01-05,sequence_799,0
+803,803,address_141,nan,nan,workplace_A,1,1,2021-01-23,sequence_803,0
+804,804,address_313,nan,nan,nan,1,1,2021-01-07,sequence_804,0
+806,806,address_45,school_B,Gymnasiale uddannelse,workplace_C,1,1,2021-01-28,sequence_806,0
+807,807,address_143,school_A,Grundskole,nan,1,1,2021-01-04,sequence_807,0
+810,810,address_321,nan,nan,workplace_A,1,1,2021-01-29,sequence_810,0
+811,811,address_289,nan,nan,workplace_C,1,1,2021-01-20,sequence_811,0
+812,812,address_158,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-26,sequence_812,0
+813,813,address_147,nan,nan,workplace_A,1,1,2021-01-06,sequence_813,0
+814,814,address_21,nan,nan,nan,1,1,2021-01-01,sequence_814,0
+815,815,address_164,nan,nan,workplace_A,1,1,2021-01-04,sequence_815,0
+820,820,address_258,school_A,Grundskole,nan,1,1,2021-01-04,sequence_820,0
+825,825,address_314,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-24,sequence_825,0
+829,829,address_153,nan,nan,workplace_B,1,1,2021-01-26,sequence_829,0
+830,830,address_244,nan,nan,workplace_A,1,1,2021-01-26,sequence_830,0
+832,832,address_116,nan,nan,workplace_B,1,1,2021-01-26,sequence_832,0
+833,833,address_273,nan,nan,nan,1,1,2021-01-31,sequence_833,0
+836,836,address_244,nan,nan,workplace_B,1,1,2021-01-19,sequence_836,0
+837,837,address_144,nan,nan,workplace_C,1,1,2021-01-29,sequence_837,0
+838,838,address_200,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-14,sequence_838,0
+843,843,address_180,nan,nan,workplace_C,1,1,2021-01-29,sequence_843,0
+847,847,address_307,nan,nan,nan,1,1,2021-01-19,sequence_847,0
+850,850,address_158,nan,nan,workplace_C,1,1,2021-01-02,sequence_850,0
+856,856,address_30,school_B,Gymnasiale uddannelse,workplace_A,1,1,2021-01-22,sequence_856,0
+857,857,address_114,nan,nan,workplace_C,1,1,2021-01-07,sequence_857,0
+859,859,address_244,nan,nan,workplace_C,1,1,2021-01-31,sequence_859,0
+860,860,address_16,nan,nan,workplace_B,1,1,2021-01-19,sequence_860,0
+869,869,address_223,nan,nan,nan,1,1,2021-01-10,sequence_869,0
+874,874,address_39,nan,nan,nan,1,1,2021-01-27,sequence_874,0
+877,877,address_172,nan,nan,workplace_A,1,1,2021-01-10,sequence_877,0
+880,880,address_252,nan,nan,nan,1,1,2021-01-25,sequence_880,0
+881,881,address_236,nan,nan,nan,1,1,2021-01-10,sequence_881,0
+889,889,address_118,nan,nan,workplace_B,1,1,2021-01-18,sequence_889,0
+890,890,address_39,nan,nan,workplace_C,1,1,2021-01-24,sequence_890,0
+893,893,address_107,nan,nan,nan,1,1,2021-01-17,sequence_893,0
+897,897,address_330,nan,nan,workplace_C,1,1,2021-01-02,sequence_897,0
+898,898,address_164,nan,nan,nan,1,1,2021-01-14,sequence_898,0
+899,899,address_5,school_C,Gymnasiale uddannelse,workplace_B,1,1,2021-01-16,sequence_899,0
+900,900,address_317,school_A,Grundskole,workplace_A,1,1,2021-01-24,sequence_900,0
+905,905,address_297,school_A,Grundskole,nan,1,1,2021-01-24,sequence_905,0
+909,909,address_115,school_A,Grundskole,nan,1,1,2021-01-22,sequence_909,0
+911,911,address_317,nan,nan,workplace_C,1,1,2021-01-02,sequence_911,0
+912,912,address_56,nan,nan,workplace_B,1,1,2021-01-30,sequence_912,0
+913,913,address_15,nan,nan,nan,1,1,2021-01-31,sequence_913,0
+916,916,address_263,nan,nan,nan,1,1,2021-01-02,sequence_916,0
+918,918,address_313,nan,nan,nan,1,1,2021-01-17,sequence_918,0
+920,920,address_11,nan,nan,workplace_B,1,1,2021-01-21,sequence_920,0
+922,922,address_155,nan,nan,nan,1,1,2021-01-10,sequence_922,0
+924,924,address_29,nan,nan,workplace_C,1,1,2021-01-24,sequence_924,0
+925,925,address_213,nan,nan,nan,1,1,2021-01-21,sequence_925,0
+930,930,address_61,nan,nan,workplace_A,1,1,2021-01-07,sequence_930,0
+931,931,address_213,nan,nan,nan,1,1,2021-01-26,sequence_931,0
+933,933,address_63,nan,nan,workplace_B,1,1,2021-01-06,sequence_933,0
+935,935,address_38,nan,nan,nan,1,1,2021-01-01,sequence_935,0
+941,941,address_22,school_A,Grundskole,nan,1,1,2021-01-23,sequence_941,0
+942,942,address_67,school_B,Gymnasiale uddannelse,workplace_C,1,1,2021-01-22,sequence_942,0
+950,950,address_71,nan,nan,nan,1,1,2021-01-13,sequence_950,0
+951,951,address_319,nan,nan,workplace_C,1,1,2021-01-20,sequence_951,0
+956,956,address_321,nan,nan,workplace_B,1,1,2021-01-14,sequence_956,0
+957,957,address_311,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-30,sequence_957,0
+959,959,address_86,nan,nan,workplace_A,1,1,2021-01-22,sequence_959,0
+963,963,address_252,nan,nan,workplace_B,1,1,2021-01-26,sequence_963,0
+964,964,address_330,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-09,sequence_964,0
+965,965,address_250,nan,nan,workplace_C,1,1,2021-01-30,sequence_965,0
+966,966,address_135,nan,nan,nan,1,1,2021-01-07,sequence_966,0
+975,975,address_231,school_A,Grundskole,nan,1,1,2021-01-31,sequence_975,0
+976,976,address_45,nan,nan,nan,1,1,2021-01-23,sequence_976,0
+977,977,address_270,nan,nan,workplace_C,1,1,2021-01-24,sequence_977,0
+978,978,address_297,nan,nan,nan,1,1,2021-01-02,sequence_978,0
+990,990,address_93,nan,nan,workplace_B,1,1,2021-01-05,sequence_990,0
+992,992,address_155,nan,nan,nan,1,1,2021-01-24,sequence_992,0
+995,995,address_104,nan,nan,workplace_C,1,1,2021-01-18,sequence_995,0
+997,997,address_100,school_A,Grundskole,nan,1,1,2021-01-02,sequence_997,0
+998,998,address_142,nan,nan,nan,1,1,2021-01-14,sequence_998,0
+999,999,address_308,school_A,Grundskole,nan,1,1,2021-01-05,sequence_999,0
+3,3,address_53,nan,nan,nan,1,1,2021-01-27,sequence_3,1
+239,239,address_53,nan,nan,nan,1,1,2021-01-16,sequence_239,1
+996,996,address_64,nan,nan,nan,1,1,2021-01-08,sequence_996,2
+6,6,address_143,nan,nan,nan,1,1,2021-01-17,sequence_6,2
+24,24,address_290,nan,nan,nan,1,1,2021-01-22,sequence_24,3
+979,979,address_206,nan,nan,nan,1,1,2021-01-23,sequence_979,3
+928,928,address_206,nan,nan,nan,1,1,2021-01-24,sequence_928,3
+520,520,address_46,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-29,sequence_520,4
+36,36,address_243,nan,nan,nan,1,1,2021-01-29,sequence_36,4
+646,646,address_189,nan,nan,nan,1,1,2021-01-28,sequence_646,4
+748,748,address_159,nan,nan,nan,1,1,2021-01-04,sequence_748,5
+45,45,address_159,nan,nan,nan,1,1,2021-01-14,sequence_45,5
+47,47,address_89,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-21,sequence_47,6
+903,903,address_89,nan,nan,nan,1,1,2021-01-22,sequence_903,6
+54,54,address_326,nan,nan,nan,1,1,2021-01-07,sequence_54,7
+870,870,address_326,nan,nan,nan,1,1,2021-01-17,sequence_870,7
+562,562,address_86,nan,nan,nan,1,1,2021-01-03,sequence_562,8
+55,55,address_86,nan,nan,nan,1,1,2021-01-07,sequence_55,8
+56,56,address_303,nan,nan,nan,1,1,2021-01-29,sequence_56,9
+406,406,address_303,nan,nan,nan,1,1,2021-01-25,sequence_406,9
+118,118,address_212,nan,nan,nan,1,1,2021-01-15,sequence_118,9
+58,58,address_18,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-13,sequence_58,10
+724,724,address_109,nan,nan,nan,1,1,2021-01-21,sequence_724,10
+60,60,address_174,nan,nan,nan,1,1,2021-01-07,sequence_60,11
+252,252,address_174,nan,nan,nan,1,1,2021-01-10,sequence_252,11
+97,97,address_68,nan,nan,nan,1,1,2021-01-06,sequence_97,12
+580,580,address_28,nan,nan,nan,1,1,2021-01-23,sequence_580,12
+140,140,address_84,nan,nan,nan,1,1,2021-01-02,sequence_140,12
+432,432,address_84,nan,nan,nan,1,1,2021-01-01,sequence_432,12
+89,89,address_114,nan,nan,nan,1,1,2021-01-17,sequence_89,12
+91,91,address_142,nan,nan,nan,1,1,2021-01-14,sequence_91,13
+422,422,address_142,nan,nan,nan,1,1,2021-01-17,sequence_422,13
+106,106,address_107,nan,nan,nan,1,1,2021-01-09,sequence_106,14
+613,613,address_26,nan,nan,nan,1,1,2021-01-18,sequence_613,14
+109,109,address_79,nan,nan,nan,1,1,2021-01-16,sequence_109,15
+565,565,address_331,nan,nan,nan,1,1,2021-01-20,sequence_565,15
+759,759,address_79,nan,nan,nan,1,1,2021-01-05,sequence_759,15
+113,113,address_292,nan,nan,nan,1,1,2021-01-04,sequence_113,16
+284,284,address_292,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-12,sequence_284,16
+116,116,address_170,nan,nan,nan,1,1,2021-01-25,sequence_116,17
+949,949,address_224,nan,nan,nan,1,1,2021-01-18,sequence_949,17
+537,537,address_291,nan,nan,nan,1,1,2021-01-26,sequence_537,18
+119,119,address_291,nan,nan,nan,1,1,2021-01-31,sequence_119,18
+131,131,address_126,nan,nan,nan,1,1,2021-01-22,sequence_131,19
+885,885,address_104,nan,nan,nan,1,1,2021-01-12,sequence_885,19
+162,162,address_210,nan,nan,nan,1,1,2021-01-27,sequence_162,20
+227,227,address_179,nan,nan,nan,1,1,2021-01-31,sequence_227,20
+607,607,address_210,nan,nan,nan,1,1,2021-01-18,sequence_607,20
+169,169,address_41,nan,nan,nan,1,1,2021-01-04,sequence_169,21
+411,411,address_41,nan,nan,nan,1,1,2021-01-07,sequence_411,21
+667,667,address_152,nan,nan,nan,1,1,2021-01-09,sequence_667,21
+844,844,address_282,nan,nan,nan,1,1,2021-01-31,sequence_844,22
+174,174,address_107,nan,nan,nan,1,1,2021-01-28,sequence_174,22
+841,841,address_94,nan,nan,nan,1,1,2021-01-06,sequence_841,23
+188,188,address_105,nan,nan,nan,1,1,2021-01-14,sequence_188,23
+654,654,address_22,nan,nan,nan,1,1,2021-01-10,sequence_654,23
+236,236,address_96,nan,nan,nan,1,1,2021-01-06,sequence_236,24
+343,343,address_0,nan,nan,nan,1,1,2021-01-12,sequence_343,24
+483,483,address_144,nan,nan,nan,1,1,2021-01-01,sequence_483,25
+389,389,address_302,nan,nan,nan,1,1,2021-01-15,sequence_389,25
+489,489,address_144,nan,nan,nan,1,1,2021-01-09,sequence_489,25
+250,250,address_144,nan,nan,nan,1,1,2021-01-22,sequence_250,25
+958,958,address_144,nan,nan,nan,1,1,2021-01-18,sequence_958,25
+264,264,address_80,nan,nan,nan,1,1,2021-01-21,sequence_264,26
+984,984,address_80,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-28,sequence_984,26
+277,277,address_195,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-17,sequence_277,27
+590,590,address_195,nan,nan,nan,1,1,2021-01-16,sequence_590,27
+570,570,address_14,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-01,sequence_570,28
+602,602,address_14,nan,nan,nan,1,1,2021-01-10,sequence_602,28
+279,279,address_82,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-05,sequence_279,28
+283,283,address_37,nan,nan,nan,1,1,2021-01-12,sequence_283,29
+379,379,address_37,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-18,sequence_379,29
+882,882,address_80,nan,nan,nan,1,1,2021-01-08,sequence_882,30
+285,285,address_80,nan,nan,nan,1,1,2021-01-12,sequence_285,30
+504,504,address_117,nan,nan,nan,1,1,2021-01-16,sequence_504,31
+546,546,address_33,nan,nan,nan,1,1,2021-01-22,sequence_546,31
+452,452,address_26,nan,nan,nan,1,1,2021-01-16,sequence_452,31
+294,294,address_33,nan,nan,nan,1,1,2021-01-13,sequence_294,31
+449,449,address_225,nan,nan,nan,1,1,2021-01-27,sequence_449,32
+311,311,address_161,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-19,sequence_311,32
+313,313,address_225,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-22,sequence_313,33
+722,722,address_287,nan,nan,nan,1,1,2021-01-26,sequence_722,33
+808,808,address_7,nan,nan,nan,1,1,2021-01-11,sequence_808,34
+973,973,address_10,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-19,sequence_973,34
+319,319,address_10,nan,nan,nan,1,1,2021-01-08,sequence_319,34
+330,330,address_115,nan,nan,nan,1,1,2021-01-27,sequence_330,35
+862,862,address_331,nan,nan,nan,1,1,2021-01-19,sequence_862,35
+835,835,address_235,nan,nan,nan,1,1,2021-01-18,sequence_835,36
+341,341,address_222,nan,nan,nan,1,1,2021-01-19,sequence_341,36
+561,561,address_5,nan,nan,nan,1,1,2021-01-21,sequence_561,37
+346,346,address_5,nan,nan,nan,1,1,2021-01-30,sequence_346,37
+794,794,address_226,nan,nan,nan,1,1,2021-01-10,sequence_794,38
+355,355,address_26,nan,nan,nan,1,1,2021-01-07,sequence_355,38
+493,493,address_123,nan,nan,nan,1,1,2021-01-21,sequence_493,39
+374,374,address_55,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-20,sequence_374,39
+381,381,address_203,nan,nan,nan,1,1,2021-01-17,sequence_381,40
+831,831,address_241,nan,nan,nan,1,1,2021-01-24,sequence_831,40
+404,404,address_269,nan,nan,nan,1,1,2021-01-23,sequence_404,41
+477,477,address_269,nan,nan,nan,1,1,2021-01-12,sequence_477,41
+426,426,address_198,nan,nan,nan,1,1,2021-01-16,sequence_426,42
+438,438,address_31,nan,nan,nan,1,1,2021-01-18,sequence_438,42
+496,496,address_235,nan,nan,nan,1,1,2021-01-01,sequence_496,43
+428,428,address_235,nan,nan,nan,1,1,2021-01-09,sequence_428,43
+943,943,address_128,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-01,sequence_943,43
+676,676,address_154,nan,nan,nan,1,1,2021-01-06,sequence_676,44
+479,479,address_154,nan,nan,nan,1,1,2021-01-04,sequence_479,44
+681,681,address_239,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-08,sequence_681,45
+494,494,address_239,nan,nan,nan,1,1,2021-01-16,sequence_494,45
+685,685,address_222,nan,nan,nan,1,1,2021-01-23,sequence_685,46
+510,510,address_236,nan,nan,nan,1,1,2021-01-24,sequence_510,46
+513,513,address_113,nan,nan,nan,1,1,2021-01-25,sequence_513,47
+518,518,address_113,nan,nan,nan,1,1,2021-01-22,sequence_518,47
+621,621,address_218,nan,nan,nan,1,1,2021-01-17,sequence_621,48
+774,774,address_218,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-11,sequence_774,48
+866,866,address_136,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-02,sequence_866,49
+750,750,address_131,nan,nan,nan,1,1,2021-01-08,sequence_750,49
+819,819,address_44,nan,nan,nan,1,1,2021-01-19,sequence_819,50
+851,851,address_44,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-21,sequence_851,50
+883,883,address_102,nan,nan,nan,1,1,2021-01-29,sequence_883,51
+822,822,address_1,nan,nan,nan,1,1,2021-01-20,sequence_822,51
+938,938,address_38,nan,nan,nan,1,1,2021-01-11,sequence_938,52
+915,915,address_38,nan,nan,nan,1,1,2021-01-16,sequence_915,52
+953,953,address_291,nan,nan,nan,1,1,2021-01-25,sequence_953,53
+932,932,address_291,nan,nan,nan,1,1,2021-01-18,sequence_932,53

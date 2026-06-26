@@ -1,0 +1,1001 @@
+,index,PERSON_ID,address,school,school_type,workplace,kommune,region,SampleDate,out_degree,Age_at_testing,Regionskode,Kommunekode,strain,days_since_second_vacc,second_vacc_complete,days_since_first_vacc,first_vacc_complete,days_since_third_vacc,third_vacc_complete,Infector_ID,Infector_PERSON_ID,Infector_share_address,Infector_share_workplace,Infector_share_school,Infector_family_relation,serial_interval_infector,out_degree_school,out_degree_address,out_degree_workplace,out_degree_family
+0,0.0,0,address_303,nan,nan,workplace_B,1,1,2021-01-06,2,67,1,1,sequence_0,5.0,1,27.0,1,9.0,1,211.0,211.0,False,True,False,False,1.0,0,0,1,0
+1,1.0,1,address_211,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-28,0,3,1,1,sequence_1,,0,31.0,1,,0,14.0,14.0,False,False,False,False,5.0,0,0,0,0
+2,2.0,2,address_294,nan,nan,workplace_A,1,1,2021-01-16,2,5,1,1,sequence_2,21.0,1,48.0,1,22.0,1,877.0,877.0,False,True,False,False,6.0,0,0,1,0
+3,3.0,3,address_53,nan,nan,nan,1,1,2021-01-27,0,15,1,1,sequence_3,1.0,1,8.0,1,58.0,1,239.0,239.0,True,False,False,False,11.0,0,0,0,0
+4,4.0,4,address_204,nan,nan,nan,1,1,2021-01-20,0,31,1,1,sequence_4,,0,28.0,1,,0,881.0,881.0,False,False,False,False,10.0,0,0,0,0
+5,5.0,5,address_152,nan,nan,nan,1,1,2021-01-03,2,48,1,1,sequence_5,,0,51.0,1,,0,805.0,805.0,False,False,False,False,2.0,0,0,0,1
+6,6.0,6,address_143,nan,nan,nan,1,1,2021-01-17,0,29,1,1,sequence_6,,0,,0,,0,996.0,996.0,False,False,False,True,9.0,0,0,0,0
+7,7.0,7,address_177,nan,nan,workplace_B,1,1,2021-01-18,2,26,1,1,sequence_7,,0,,0,,0,751.0,751.0,False,True,False,False,2.0,0,0,1,0
+8,8.0,8,address_279,nan,nan,nan,1,1,2021-01-03,0,45,1,1,sequence_8,6.0,1,36.0,1,27.0,1,814.0,814.0,False,False,False,False,2.0,0,0,0,0
+9,9.0,9,address_233,nan,nan,nan,1,1,2021-01-28,0,46,1,1,sequence_9,,0,59.0,1,,0,959.0,959.0,False,False,False,False,6.0,0,0,0,0
+10,10.0,10,address_154,nan,nan,workplace_A,1,1,2021-01-22,2,48,1,1,sequence_10,27.0,1,43.0,1,,0,740.0,740.0,False,True,False,False,5.0,0,0,1,0
+11,11.0,11,address_30,school_A,Grundskole,workplace_A,1,1,2021-01-04,3,18,1,1,sequence_11,,0,18.0,1,,0,574.0,574.0,False,False,False,False,2.0,2,0,0,0
+12,12.0,12,address_171,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-02,1,12,1,1,sequence_12,28.0,1,23.0,1,,0,360.0,360.0,False,False,False,False,1.0,0,0,0,0
+13,13.0,13,address_158,nan,nan,workplace_A,1,1,2021-01-21,1,55,1,1,sequence_13,,0,17.0,1,,0,585.0,585.0,False,True,False,False,11.0,0,0,1,0
+14,14.0,14,address_236,nan,nan,nan,1,1,2021-01-23,1,23,1,1,sequence_14,,0,,0,,0,71.0,71.0,False,False,False,False,7.0,0,0,0,0
+15,15.0,15,address_282,nan,nan,nan,1,1,2021-01-14,0,12,1,1,sequence_15,,0,40.0,1,,0,696.0,696.0,False,False,False,False,7.0,0,0,0,0
+16,16.0,16,address_120,nan,nan,workplace_C,1,1,2021-01-30,0,7,1,1,sequence_16,,0,11.0,1,,0,767.0,767.0,False,True,False,False,4.0,0,0,0,0
+17,17.0,17,address_325,nan,nan,nan,1,1,2021-01-25,0,6,1,1,sequence_17,0.0,1,9.0,1,39.0,1,593.0,593.0,False,False,False,False,9.0,0,0,0,0
+18,18.0,18,address_246,nan,nan,nan,1,1,2021-01-13,1,26,1,1,sequence_18,19.0,1,57.0,1,,0,542.0,542.0,False,False,False,False,8.0,0,0,0,0
+19,19.0,19,address_50,nan,nan,workplace_A,1,1,2021-01-29,0,0,1,1,sequence_19,,0,46.0,1,,0,50.0,50.0,False,True,False,False,9.0,0,0,0,0
+20,20.0,20,address_240,nan,nan,nan,1,1,2021-01-09,1,64,1,1,sequence_20,,0,,0,,0,328.0,328.0,False,False,False,False,3.0,0,0,0,0
+21,21.0,21,address_251,nan,nan,nan,1,1,2021-01-14,3,52,1,1,sequence_21,,0,,0,,0,441.0,441.0,True,False,False,False,5.0,0,1,0,0
+22,22.0,22,address_76,nan,nan,nan,1,1,2021-01-18,0,51,1,1,sequence_22,30.0,1,36.0,1,39.0,1,632.0,632.0,False,False,False,False,6.0,0,0,0,0
+23,23.0,23,address_293,nan,nan,nan,1,1,2021-01-04,1,47,1,1,sequence_23,,0,5.0,1,,0,496.0,496.0,False,False,False,False,3.0,0,0,0,0
+24,24.0,24,address_290,nan,nan,nan,1,1,2021-01-22,1,14,1,1,sequence_24,20.0,1,49.0,1,23.0,1,621.0,621.0,False,False,False,False,5.0,0,0,0,1
+25,25.0,25,address_195,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-05,0,68,1,1,sequence_25,,0,,0,,0,249.0,249.0,False,False,False,False,3.0,0,0,0,0
+26,26.0,26,address_231,nan,nan,nan,1,1,2021-01-11,0,27,1,1,sequence_26,3.0,1,36.0,1,,0,827.0,827.0,False,False,False,False,9.0,0,0,0,0
+27,27.0,27,address_139,school_A,Grundskole,nan,1,1,2021-01-19,1,73,1,1,sequence_27,,0,,0,,0,549.0,549.0,False,False,True,False,7.0,0,0,0,0
+28,28.0,28,address_128,nan,nan,nan,1,1,2021-01-12,0,65,1,1,sequence_28,25.0,1,53.0,1,,0,489.0,489.0,False,False,False,False,3.0,0,0,0,0
+29,29.0,29,address_233,nan,nan,nan,1,1,2021-01-31,0,17,1,1,sequence_29,,0,,0,,0,238.0,238.0,False,False,False,False,4.0,0,0,0,0
+30,30.0,30,address_331,nan,nan,workplace_B,1,1,2021-01-30,0,64,1,1,sequence_30,31.0,1,33.0,1,43.0,1,829.0,829.0,False,True,False,False,4.0,0,0,0,0
+31,31.0,31,address_3,nan,nan,nan,1,1,2021-01-02,2,4,1,1,sequence_31,36.0,1,15.0,1,53.0,1,305.0,305.0,False,False,False,False,1.0,0,0,0,0
+32,32.0,32,address_258,nan,nan,workplace_A,1,1,2021-01-11,2,34,1,1,sequence_32,,0,13.0,1,,0,585.0,585.0,False,True,False,False,1.0,0,0,0,1
+33,33.0,33,address_275,nan,nan,nan,1,1,2021-01-05,1,35,1,1,sequence_33,,0,,0,,0,336.0,336.0,False,False,False,False,3.0,0,0,0,0
+34,34.0,34,address_107,nan,nan,workplace_A,1,1,2021-01-07,2,20,1,1,sequence_34,18.0,1,5.0,1,59.0,1,555.0,555.0,False,True,False,False,5.0,0,2,0,0
+35,35.0,35,address_14,nan,nan,nan,1,1,2021-01-10,0,79,1,1,sequence_35,,0,48.0,1,,0,195.0,195.0,False,False,False,False,8.0,0,0,0,0
+36,36.0,36,address_243,nan,nan,nan,1,1,2021-01-29,0,13,1,1,sequence_36,52.0,1,1.0,1,40.0,1,646.0,646.0,False,False,False,True,1.0,0,0,0,0
+37,37.0,37,address_316,nan,nan,nan,1,1,2021-01-05,1,34,1,1,sequence_37,,0,3.0,1,,0,647.0,647.0,False,False,False,False,3.0,0,0,0,0
+38,38.0,38,address_107,nan,nan,nan,1,1,2021-01-29,0,19,1,1,sequence_38,16.0,1,31.0,1,1.0,1,579.0,579.0,True,False,False,False,10.0,0,0,0,0
+39,39.0,39,address_81,nan,nan,workplace_B,1,1,2021-01-04,2,30,1,1,sequence_39,,0,35.0,1,,0,219.0,219.0,False,False,False,False,3.0,0,0,2,0
+40,40.0,40,address_269,nan,nan,nan,1,1,2021-01-30,0,23,1,1,sequence_40,,0,32.0,1,,0,371.0,371.0,False,False,False,False,8.0,0,0,0,0
+41,41.0,41,address_116,nan,nan,nan,1,1,2021-01-06,0,6,1,1,sequence_41,,0,,0,,0,788.0,788.0,False,False,False,False,4.0,0,0,0,0
+42,42.0,42,address_96,nan,nan,nan,1,1,2021-01-03,0,21,1,1,sequence_42,,0,,0,,0,483.0,483.0,False,False,False,False,2.0,0,0,0,0
+43,43.0,43,address_197,nan,nan,workplace_C,1,1,2021-01-30,0,4,1,1,sequence_43,51.0,1,38.0,1,18.0,1,825.0,825.0,False,False,False,False,6.0,0,0,0,0
+44,44.0,44,address_113,nan,nan,workplace_C,1,1,2021-01-25,0,25,1,1,sequence_44,,0,57.0,1,,0,73.0,73.0,False,True,False,False,10.0,0,0,0,0
+45,45.0,45,address_159,nan,nan,nan,1,1,2021-01-14,2,71,1,1,sequence_45,49.0,1,42.0,1,,0,748.0,748.0,True,False,False,False,10.0,0,0,0,0
+46,46.0,46,address_249,nan,nan,workplace_A,1,1,2021-01-27,0,30,1,1,sequence_46,54.0,1,55.0,1,10.0,1,416.0,416.0,True,False,False,False,5.0,0,0,0,0
+47,47.0,47,address_89,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-21,1,75,1,1,sequence_47,14.0,1,30.0,1,31.0,1,640.0,640.0,False,False,False,False,6.0,0,1,0,0
+48,48.0,48,address_84,nan,nan,nan,1,1,2021-01-14,0,28,1,1,sequence_48,,0,13.0,1,,0,228.0,228.0,False,False,False,False,6.0,0,0,0,0
+49,49.0,49,address_45,nan,nan,workplace_A,1,1,2021-01-23,5,10,1,1,sequence_49,37.0,1,4.0,1,15.0,1,664.0,664.0,False,True,False,False,10.0,0,0,4,0
+50,50.0,50,address_16,nan,nan,workplace_A,1,1,2021-01-20,2,28,1,1,sequence_50,1.0,1,25.0,1,8.0,1,372.0,372.0,False,True,False,False,5.0,0,0,2,0
+51,51.0,51,address_41,nan,nan,nan,1,1,2021-01-21,3,68,1,1,sequence_51,3.0,1,47.0,1,20.0,1,774.0,774.0,False,False,False,False,10.0,0,0,0,0
+52,52.0,52,address_328,nan,nan,workplace_C,1,1,2021-01-06,1,56,1,1,sequence_52,42.0,1,42.0,1,22.0,1,872.0,872.0,False,False,False,False,4.0,0,0,0,0
+53,53.0,53,address_236,nan,nan,nan,1,1,2021-01-14,0,68,1,1,sequence_53,40.0,1,20.0,1,,0,667.0,667.0,False,False,False,False,5.0,0,0,0,0
+54,54.0,54,address_326,nan,nan,nan,1,1,2021-01-07,1,60,1,1,sequence_54,39.0,1,12.0,1,,0,850.0,850.0,False,False,False,False,5.0,0,1,0,0
+55,55.0,55,address_86,nan,nan,nan,1,1,2021-01-07,0,15,1,1,sequence_55,55.0,1,9.0,1,35.0,1,562.0,562.0,True,False,False,False,4.0,0,0,0,0
+56,56.0,56,address_303,nan,nan,nan,1,1,2021-01-29,0,18,1,1,sequence_56,43.0,1,50.0,1,24.0,1,406.0,406.0,True,False,False,False,4.0,0,0,0,0
+57,57.0,57,address_177,nan,nan,nan,1,1,2021-01-17,1,22,1,1,sequence_57,44.0,1,9.0,1,,0,930.0,930.0,False,False,False,False,10.0,0,0,0,0
+58,58.0,58,address_18,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-13,1,23,1,1,sequence_58,39.0,1,42.0,1,50.0,1,750.0,750.0,False,False,False,False,5.0,0,0,0,1
+59,59.0,59,address_85,nan,nan,nan,1,1,2021-01-02,0,19,1,1,sequence_59,54.0,1,59.0,1,43.0,1,242.0,242.0,False,False,False,False,1.0,0,0,0,0
+60,60.0,60,address_174,nan,nan,nan,1,1,2021-01-07,2,19,1,1,sequence_60,43.0,1,43.0,1,,0,210.0,210.0,False,False,False,False,5.0,0,1,0,0
+61,61.0,61,address_293,nan,nan,workplace_A,1,1,2021-01-25,1,37,1,1,sequence_61,18.0,1,33.0,1,,0,653.0,653.0,False,True,False,False,5.0,0,0,0,0
+62,62.0,62,address_294,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-07,0,71,1,1,sequence_62,,0,,0,,0,108.0,108.0,False,False,False,False,3.0,0,0,0,0
+63,63.0,63,address_135,nan,nan,nan,1,1,2021-01-13,0,36,1,1,sequence_63,56.0,1,53.0,1,,0,966.0,966.0,True,False,False,False,6.0,0,0,0,0
+64,64.0,64,address_195,nan,nan,nan,1,1,2021-01-29,0,6,1,1,sequence_64,32.0,1,17.0,1,21.0,1,942.0,942.0,False,False,False,False,7.0,0,0,0,0
+65,65.0,65,address_238,nan,nan,nan,1,1,2021-01-19,0,27,1,1,sequence_65,15.0,1,41.0,1,31.0,1,339.0,339.0,False,False,False,False,6.0,0,0,0,0
+66,66.0,66,address_47,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-30,0,20,1,1,sequence_66,12.0,1,43.0,1,,0,352.0,352.0,False,False,False,False,5.0,0,0,0,0
+67,67.0,67,address_244,nan,nan,workplace_B,1,1,2021-01-12,3,12,1,1,sequence_67,,0,,0,,0,611.0,611.0,False,True,False,False,5.0,0,0,2,1
+68,68.0,68,address_175,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-14,0,1,1,1,sequence_68,,0,,0,,0,858.0,858.0,False,False,False,False,5.0,0,0,0,0
+69,69.0,69,address_34,nan,nan,nan,1,1,2021-01-28,0,57,1,1,sequence_69,,0,,0,,0,281.0,281.0,False,False,False,False,10.0,0,0,0,0
+70,70.0,70,address_10,nan,nan,nan,1,1,2021-01-30,0,10,1,1,sequence_70,,0,51.0,1,,0,692.0,692.0,False,False,False,False,8.0,0,0,0,0
+71,71.0,71,address_284,school_A,Grundskole,workplace_B,1,1,2021-01-16,4,23,1,1,sequence_71,27.0,1,27.0,1,,0,627.0,627.0,False,True,False,False,6.0,2,0,0,0
+72,72.0,72,address_4,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-18,1,26,1,1,sequence_72,,0,44.0,1,,0,934.0,934.0,False,False,False,False,8.0,0,0,0,0
+73,73.0,73,address_82,school_C,Gymnasiale uddannelse,workplace_C,1,1,2021-01-15,4,70,1,1,sequence_73,2.0,1,48.0,1,5.0,1,200.0,200.0,False,True,False,False,6.0,0,1,2,1
+74,74.0,74,address_103,nan,nan,workplace_B,1,1,2021-01-27,0,57,1,1,sequence_74,43.0,1,40.0,1,23.0,1,889.0,889.0,False,True,False,False,9.0,0,0,0,0
+75,75.0,75,address_311,nan,nan,nan,1,1,2021-01-29,0,38,1,1,sequence_75,12.0,1,44.0,1,41.0,1,187.0,187.0,False,False,False,False,10.0,0,0,0,0
+76,76.0,76,address_235,nan,nan,workplace_B,1,1,2021-01-01,5,33,1,1,sequence_76,5.0,1,30.0,1,11.0,1,,,,,,,,0,0,3,0
+77,77.0,77,address_151,nan,nan,workplace_C,1,1,2021-01-07,2,37,1,1,sequence_77,,0,,0,,0,314.0,314.0,False,False,False,False,6.0,0,0,1,1
+78,78.0,78,address_249,nan,nan,nan,1,1,2021-01-02,3,26,1,1,sequence_78,38.0,1,15.0,1,45.0,1,570.0,570.0,False,False,False,False,1.0,0,0,0,0
+79,79.0,79,address_62,nan,nan,nan,1,1,2021-01-06,1,36,1,1,sequence_79,56.0,1,36.0,1,,0,866.0,866.0,False,False,False,False,4.0,0,0,0,0
+80,80.0,80,address_183,nan,nan,workplace_A,1,1,2021-01-21,0,58,1,1,sequence_80,,0,44.0,1,,0,615.0,615.0,False,True,False,False,7.0,0,0,0,0
+81,81.0,81,address_105,nan,nan,workplace_C,1,1,2021-01-09,1,75,1,1,sequence_81,46.0,1,20.0,1,6.0,1,563.0,563.0,False,True,False,False,5.0,0,0,0,0
+82,82.0,82,address_256,nan,nan,nan,1,1,2021-01-28,0,53,1,1,sequence_82,58.0,1,13.0,1,21.0,1,618.0,618.0,False,False,False,False,9.0,0,0,0,0
+83,83.0,83,address_121,nan,nan,nan,1,1,2021-01-22,1,60,1,1,sequence_83,13.0,1,16.0,1,56.0,1,18.0,18.0,False,False,False,False,9.0,0,1,0,0
+84,84.0,84,address_249,nan,nan,nan,1,1,2021-01-15,2,64,1,1,sequence_84,49.0,1,15.0,1,59.0,1,430.0,430.0,False,False,False,False,9.0,0,0,0,0
+85,85.0,85,address_277,nan,nan,nan,1,1,2021-01-21,0,10,1,1,sequence_85,,0,30.0,1,,0,597.0,597.0,False,False,False,False,6.0,0,0,0,0
+86,86.0,86,address_196,nan,nan,workplace_B,1,1,2021-01-15,2,26,1,1,sequence_86,7.0,1,4.0,1,55.0,1,503.0,503.0,False,True,False,False,8.0,0,0,0,0
+87,87.0,87,address_119,nan,nan,nan,1,1,2021-01-19,1,72,1,1,sequence_87,,0,26.0,1,,0,711.0,711.0,False,False,False,False,7.0,0,0,0,0
+88,88.0,88,address_250,nan,nan,nan,1,1,2021-01-25,0,62,1,1,sequence_88,35.0,1,46.0,1,26.0,1,338.0,338.0,False,False,False,False,7.0,0,0,0,0
+89,89.0,89,address_114,nan,nan,nan,1,1,2021-01-17,1,41,1,1,sequence_89,,0,,0,,0,97.0,97.0,False,False,False,True,11.0,0,0,0,1
+90,90.0,90,address_1,nan,nan,nan,1,1,2021-01-16,0,38,1,1,sequence_90,10.0,1,24.0,1,57.0,1,879.0,879.0,False,False,False,False,6.0,0,0,0,0
+91,91.0,91,address_142,nan,nan,nan,1,1,2021-01-14,2,45,1,1,sequence_91,,0,57.0,1,,0,355.0,355.0,False,False,False,False,7.0,0,1,0,0
+92,92.0,92,address_259,nan,nan,workplace_C,1,1,2021-01-30,0,39,1,1,sequence_92,,0,,0,,0,926.0,926.0,False,False,False,False,10.0,0,0,0,0
+93,93.0,93,address_286,nan,nan,nan,1,1,2021-01-13,1,31,1,1,sequence_93,34.0,1,8.0,1,,0,974.0,974.0,False,False,False,False,8.0,0,0,0,0
+94,94.0,94,address_201,nan,nan,nan,1,1,2021-01-22,0,72,1,1,sequence_94,19.0,1,17.0,1,43.0,1,967.0,967.0,False,False,False,False,8.0,0,0,0,0
+95,95.0,95,address_275,nan,nan,nan,1,1,2021-01-03,0,12,1,1,sequence_95,50.0,1,51.0,1,43.0,1,125.0,125.0,False,False,False,False,2.0,0,0,0,0
+96,96.0,96,address_26,nan,nan,nan,1,1,2021-01-26,0,54,1,1,sequence_96,0.0,1,6.0,1,20.0,1,163.0,163.0,False,False,False,False,8.0,0,0,0,0
+97,97.0,97,address_68,nan,nan,nan,1,1,2021-01-06,1,19,1,1,sequence_97,,0,,0,,0,432.0,432.0,False,False,False,True,5.0,0,0,0,1
+98,98.0,98,address_320,nan,nan,nan,1,1,2021-01-30,0,48,1,1,sequence_98,38.0,1,19.0,1,,0,61.0,61.0,False,False,False,False,5.0,0,0,0,0
+99,99.0,99,address_150,nan,nan,nan,1,1,2021-01-17,1,74,1,1,sequence_99,,0,,0,,0,32.0,32.0,False,False,False,False,6.0,0,0,0,0
+100,100.0,100,address_136,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-27,0,27,1,1,sequence_100,,0,28.0,1,,0,516.0,516.0,False,False,False,False,6.0,0,0,0,0
+101,101.0,101,address_172,nan,nan,nan,1,1,2021-01-13,1,64,1,1,sequence_101,42.0,1,50.0,1,,0,877.0,877.0,True,False,False,False,3.0,0,0,0,0
+102,102.0,102,address_241,nan,nan,workplace_A,1,1,2021-01-19,2,54,1,1,sequence_102,,0,10.0,1,,0,298.0,298.0,False,False,False,False,9.0,0,0,1,0
+103,103.0,103,address_233,nan,nan,nan,1,1,2021-01-01,4,10,1,1,sequence_103,,0,,0,,0,,,,,,,,0,0,0,0
+104,104.0,104,address_15,nan,nan,workplace_C,1,1,2021-01-07,0,41,1,1,sequence_104,10.0,1,49.0,1,51.0,1,911.0,911.0,False,True,False,False,5.0,0,0,0,0
+105,105.0,105,address_328,nan,nan,workplace_B,1,1,2021-01-08,2,16,1,1,sequence_105,58.0,1,35.0,1,46.0,1,478.0,478.0,False,True,False,False,4.0,0,0,0,0
+106,106.0,106,address_107,nan,nan,nan,1,1,2021-01-09,2,79,1,1,sequence_106,59.0,1,41.0,1,47.0,1,205.0,205.0,False,False,False,False,5.0,0,0,0,1
+107,107.0,107,address_130,nan,nan,nan,1,1,2021-01-01,2,28,1,1,sequence_107,39.0,1,55.0,1,,0,,,,,,,,0,0,0,0
+108,108.0,108,address_242,nan,nan,nan,1,1,2021-01-04,3,23,1,1,sequence_108,34.0,1,17.0,1,,0,647.0,647.0,False,False,False,False,2.0,0,0,0,0
+109,109.0,109,address_79,nan,nan,nan,1,1,2021-01-16,1,31,1,1,sequence_109,,0,27.0,1,,0,759.0,759.0,True,False,False,False,11.0,0,0,0,1
+110,110.0,110,address_195,school_A,Grundskole,workplace_A,1,1,2021-01-26,1,35,1,1,sequence_110,56.0,1,29.0,1,39.0,1,488.0,488.0,False,True,False,False,7.0,0,0,0,1
+111,111.0,111,address_46,nan,nan,nan,1,1,2021-01-16,2,58,1,1,sequence_111,10.0,1,53.0,1,,0,225.0,225.0,False,False,False,False,6.0,0,0,0,0
+112,112.0,112,address_313,nan,nan,workplace_B,1,1,2021-01-19,1,72,1,1,sequence_112,,0,,0,,0,145.0,145.0,False,True,False,False,9.0,0,0,0,1
+113,113.0,113,address_292,nan,nan,nan,1,1,2021-01-04,2,30,1,1,sequence_113,31.0,1,57.0,1,44.0,1,570.0,570.0,False,False,False,False,3.0,0,1,0,0
+114,114.0,114,address_88,nan,nan,workplace_B,1,1,2021-01-12,1,40,1,1,sequence_114,18.0,1,57.0,1,49.0,1,680.0,680.0,False,True,False,False,4.0,0,0,0,0
+115,115.0,115,address_161,nan,nan,nan,1,1,2021-01-25,0,43,1,1,sequence_115,1.0,1,17.0,1,10.0,1,757.0,757.0,False,False,False,False,11.0,0,0,0,0
+116,116.0,116,address_170,nan,nan,nan,1,1,2021-01-25,0,51,1,1,sequence_116,11.0,1,50.0,1,25.0,1,949.0,949.0,False,False,False,True,7.0,0,0,0,0
+117,117.0,117,address_2,nan,nan,nan,1,1,2021-01-10,0,66,1,1,sequence_117,2.0,1,56.0,1,10.0,1,218.0,218.0,False,False,False,False,6.0,0,0,0,0
+118,118.0,118,address_212,nan,nan,nan,1,1,2021-01-15,6,37,1,1,sequence_118,0.0,1,8.0,1,47.0,1,424.0,424.0,False,False,False,False,6.0,0,0,0,1
+119,119.0,119,address_291,nan,nan,nan,1,1,2021-01-31,0,65,1,1,sequence_119,49.0,1,22.0,1,3.0,1,537.0,537.0,True,False,False,False,5.0,0,0,0,0
+120,120.0,120,address_274,nan,nan,nan,1,1,2021-01-15,1,79,1,1,sequence_120,55.0,1,57.0,1,,0,603.0,603.0,False,False,False,False,6.0,0,0,0,0
+121,121.0,121,address_332,nan,nan,workplace_C,1,1,2021-01-11,3,37,1,1,sequence_121,,0,32.0,1,,0,370.0,370.0,True,False,False,False,5.0,0,0,1,0
+122,122.0,122,address_117,nan,nan,nan,1,1,2021-01-06,2,14,1,1,sequence_122,49.0,1,30.0,1,8.0,1,195.0,195.0,False,False,False,False,4.0,0,0,0,0
+123,123.0,123,address_81,nan,nan,workplace_B,1,1,2021-01-09,1,65,1,1,sequence_123,,0,47.0,1,,0,799.0,799.0,False,True,False,False,4.0,0,0,1,0
+124,124.0,124,address_208,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-13,1,26,1,1,sequence_124,7.0,1,50.0,1,,0,333.0,333.0,False,False,False,False,10.0,0,0,0,0
+125,125.0,125,address_8,nan,nan,nan,1,1,2021-01-01,3,4,1,1,sequence_125,,0,40.0,1,,0,,,,,,,,0,0,0,0
+126,126.0,126,address_75,nan,nan,nan,1,1,2021-01-31,0,33,1,1,sequence_126,,0,,0,,0,393.0,393.0,False,False,False,False,4.0,0,0,0,0
+127,127.0,127,address_15,nan,nan,workplace_C,1,1,2021-01-16,0,20,1,1,sequence_127,,0,11.0,1,,0,200.0,200.0,False,True,False,False,7.0,0,0,0,0
+128,128.0,128,address_276,nan,nan,nan,1,1,2021-01-28,0,49,1,1,sequence_128,,0,,0,,0,559.0,559.0,False,False,False,False,6.0,0,0,0,0
+129,129.0,129,address_272,nan,nan,nan,1,1,2021-01-16,0,58,1,1,sequence_129,16.0,1,2.0,1,,0,245.0,245.0,False,False,False,False,4.0,0,0,0,0
+130,130.0,130,address_61,school_A,Grundskole,nan,1,1,2021-01-27,0,6,1,1,sequence_130,16.0,1,34.0,1,0.0,1,340.0,340.0,False,False,True,False,8.0,0,0,0,0
+131,131.0,131,address_126,nan,nan,nan,1,1,2021-01-22,0,75,1,1,sequence_131,,0,24.0,1,,0,885.0,885.0,False,False,False,True,10.0,0,0,0,0
+132,132.0,132,address_211,nan,nan,nan,1,1,2021-01-04,0,62,1,1,sequence_132,29.0,1,31.0,1,54.0,1,734.0,734.0,False,False,False,False,2.0,0,0,0,0
+133,133.0,133,address_313,nan,nan,nan,1,1,2021-01-07,1,55,1,1,sequence_133,,0,34.0,1,,0,675.0,675.0,False,False,False,False,6.0,0,0,0,0
+134,134.0,134,address_49,nan,nan,workplace_B,1,1,2021-01-26,0,35,1,1,sequence_134,57.0,1,42.0,1,,0,266.0,266.0,True,False,False,False,7.0,0,0,0,0
+135,135.0,135,address_318,nan,nan,workplace_A,1,1,2021-01-07,0,78,1,1,sequence_135,,0,,0,,0,418.0,418.0,False,True,False,False,4.0,0,0,0,0
+136,136.0,136,address_211,nan,nan,nan,1,1,2021-01-19,0,71,1,1,sequence_136,,0,,0,,0,764.0,764.0,False,False,False,False,10.0,0,0,0,0
+137,137.0,137,address_155,nan,nan,workplace_B,1,1,2021-01-06,2,52,1,1,sequence_137,28.0,1,27.0,1,,0,39.0,39.0,False,True,False,False,2.0,0,1,0,0
+138,138.0,138,address_233,nan,nan,workplace_B,1,1,2021-01-26,2,37,1,1,sequence_138,,0,53.0,1,,0,7.0,7.0,False,True,False,False,8.0,0,0,2,0
+139,139.0,139,address_164,nan,nan,workplace_B,1,1,2021-01-31,0,17,1,1,sequence_139,,0,43.0,1,,0,226.0,226.0,False,True,False,False,6.0,0,0,0,0
+140,140.0,140,address_84,nan,nan,nan,1,1,2021-01-02,3,66,1,1,sequence_140,25.0,1,10.0,1,4.0,1,432.0,432.0,True,False,False,False,1.0,0,0,0,0
+141,141.0,141,address_317,nan,nan,nan,1,1,2021-01-10,1,63,1,1,sequence_141,4.0,1,11.0,1,,0,540.0,540.0,False,False,False,False,6.0,0,0,0,0
+142,142.0,142,address_28,nan,nan,nan,1,1,2021-01-26,0,41,1,1,sequence_142,8.0,1,17.0,1,53.0,1,452.0,452.0,False,False,False,False,10.0,0,0,0,0
+143,143.0,143,address_257,nan,nan,nan,1,1,2021-01-05,1,56,1,1,sequence_143,,0,,0,,0,376.0,376.0,False,False,False,False,4.0,0,0,0,0
+144,144.0,144,address_267,nan,nan,nan,1,1,2021-01-14,1,13,1,1,sequence_144,,0,37.0,1,,0,938.0,938.0,False,False,False,False,3.0,0,0,0,0
+145,145.0,145,address_190,nan,nan,workplace_B,1,1,2021-01-10,3,58,1,1,sequence_145,7.0,1,18.0,1,5.0,1,122.0,122.0,False,False,False,False,4.0,0,0,2,0
+146,146.0,146,address_145,school_A,Grundskole,nan,1,1,2021-01-12,1,55,1,1,sequence_146,57.0,1,8.0,1,28.0,1,807.0,807.0,False,False,True,False,8.0,1,0,0,0
+147,147.0,147,address_286,nan,nan,nan,1,1,2021-01-26,0,34,1,1,sequence_147,17.0,1,52.0,1,11.0,1,27.0,27.0,False,False,False,False,7.0,0,0,0,0
+148,148.0,148,address_294,nan,nan,workplace_A,1,1,2021-01-22,1,2,1,1,sequence_148,53.0,1,35.0,1,45.0,1,120.0,120.0,False,False,False,False,7.0,0,0,1,0
+149,149.0,149,address_98,school_A,Grundskole,nan,1,1,2021-01-22,1,8,1,1,sequence_149,54.0,1,26.0,1,,0,727.0,727.0,False,False,True,False,8.0,0,0,0,0
+150,150.0,150,address_56,nan,nan,nan,1,1,2021-01-15,0,67,1,1,sequence_150,,0,,0,,0,575.0,575.0,False,False,False,True,5.0,0,0,0,0
+151,151.0,151,address_12,nan,nan,nan,1,1,2021-01-28,0,63,1,1,sequence_151,41.0,1,21.0,1,34.0,1,416.0,416.0,False,False,False,False,6.0,0,0,0,0
+152,152.0,152,address_8,nan,nan,nan,1,1,2021-01-18,1,3,1,1,sequence_152,49.0,1,22.0,1,42.0,1,794.0,794.0,False,False,False,False,8.0,0,0,0,0
+153,153.0,153,address_303,nan,nan,nan,1,1,2021-01-11,0,22,1,1,sequence_153,13.0,1,29.0,1,14.0,1,544.0,544.0,False,False,False,False,7.0,0,0,0,0
+154,154.0,154,address_281,nan,nan,nan,1,1,2021-01-23,0,2,1,1,sequence_154,,0,,0,,0,45.0,45.0,False,False,False,False,9.0,0,0,0,0
+155,155.0,155,address_237,nan,nan,workplace_B,1,1,2021-01-29,0,66,1,1,sequence_155,20.0,1,37.0,1,23.0,1,377.0,377.0,False,True,False,False,7.0,0,0,0,0
+156,156.0,156,address_277,nan,nan,workplace_A,1,1,2021-01-31,0,11,1,1,sequence_156,,0,,0,,0,628.0,628.0,False,True,False,False,3.0,0,0,0,0
+157,157.0,157,address_150,nan,nan,workplace_C,1,1,2021-01-24,0,79,1,1,sequence_157,,0,,0,,0,231.0,231.0,False,True,False,False,10.0,0,0,0,0
+158,158.0,158,address_19,nan,nan,nan,1,1,2021-01-24,2,47,1,1,sequence_158,28.0,1,19.0,1,51.0,1,185.0,185.0,False,False,False,True,8.0,0,0,0,1
+159,159.0,159,address_41,nan,nan,nan,1,1,2021-01-31,0,3,1,1,sequence_159,,0,58.0,1,,0,484.0,484.0,False,False,False,False,8.0,0,0,0,0
+160,160.0,160,address_39,nan,nan,nan,1,1,2021-01-01,3,29,1,1,sequence_160,,0,,0,,0,,,,,,,,0,0,0,0
+161,161.0,161,address_295,nan,nan,nan,1,1,2021-01-14,0,52,1,1,sequence_161,40.0,1,22.0,1,,0,737.0,737.0,False,False,False,False,6.0,0,0,0,0
+162,162.0,162,address_210,nan,nan,nan,1,1,2021-01-27,1,12,1,1,sequence_162,,0,28.0,1,,0,607.0,607.0,True,False,False,False,9.0,0,0,0,1
+163,163.0,163,address_165,nan,nan,nan,1,1,2021-01-18,2,43,1,1,sequence_163,,0,,0,,0,554.0,554.0,False,False,False,False,9.0,0,0,0,0
+164,164.0,164,address_98,nan,nan,nan,1,1,2021-01-22,0,78,1,1,sequence_164,28.0,1,15.0,1,43.0,1,514.0,514.0,False,False,False,False,8.0,0,0,0,0
+165,165.0,165,address_87,nan,nan,nan,1,1,2021-01-24,0,28,1,1,sequence_165,13.0,1,53.0,1,,0,179.0,179.0,False,False,False,False,4.0,0,0,0,0
+166,166.0,166,address_38,nan,nan,nan,1,1,2021-01-01,6,4,1,1,sequence_166,,0,12.0,1,,0,,,,,,,,0,0,0,0
+167,167.0,167,address_182,nan,nan,nan,1,1,2021-01-09,1,64,1,1,sequence_167,,0,4.0,1,,0,841.0,841.0,False,False,False,False,3.0,0,0,0,0
+168,168.0,168,address_145,nan,nan,nan,1,1,2021-01-29,0,19,1,1,sequence_168,,0,,0,,0,179.0,179.0,False,False,False,False,9.0,0,0,0,0
+169,169.0,169,address_41,nan,nan,nan,1,1,2021-01-04,2,14,1,1,sequence_169,18.0,1,1.0,1,10.0,1,360.0,360.0,False,False,False,False,3.0,0,1,0,0
+170,170.0,170,address_303,nan,nan,nan,1,1,2021-01-30,0,58,1,1,sequence_170,3.0,1,12.0,1,55.0,1,190.0,190.0,False,False,False,False,6.0,0,0,0,0
+171,171.0,171,address_147,nan,nan,nan,1,1,2021-01-19,0,0,1,1,sequence_171,22.0,1,32.0,1,2.0,1,700.0,700.0,False,False,False,False,7.0,0,0,0,0
+172,172.0,172,address_35,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-25,2,15,1,1,sequence_172,11.0,1,20.0,1,11.0,1,488.0,488.0,False,False,False,False,6.0,0,0,0,0
+173,173.0,173,address_282,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-13,0,64,1,1,sequence_173,,0,,0,,0,868.0,868.0,False,False,False,False,10.0,0,0,0,0
+174,174.0,174,address_107,nan,nan,nan,1,1,2021-01-28,1,16,1,1,sequence_174,22.0,1,36.0,1,,0,773.0,773.0,False,False,False,False,7.0,0,0,0,1
+175,175.0,175,address_130,nan,nan,nan,1,1,2021-01-22,0,63,1,1,sequence_175,33.0,1,22.0,1,,0,579.0,579.0,False,False,False,False,3.0,0,0,0,0
+176,176.0,176,address_232,nan,nan,workplace_B,1,1,2021-01-31,0,34,1,1,sequence_176,24.0,1,50.0,1,33.0,1,315.0,315.0,False,True,False,False,4.0,0,0,0,0
+177,177.0,177,address_65,nan,nan,nan,1,1,2021-01-18,0,64,1,1,sequence_177,,0,59.0,1,,0,576.0,576.0,False,False,False,True,8.0,0,0,0,0
+178,178.0,178,address_217,school_A,Grundskole,nan,1,1,2021-01-23,1,14,1,1,sequence_178,55.0,1,23.0,1,32.0,1,343.0,343.0,False,False,False,False,11.0,0,0,0,0
+179,179.0,179,address_283,nan,nan,nan,1,1,2021-01-20,2,42,1,1,sequence_179,,0,,0,,0,950.0,950.0,False,False,False,False,7.0,0,0,0,0
+180,180.0,180,address_68,nan,nan,nan,1,1,2021-01-08,0,52,1,1,sequence_180,51.0,1,49.0,1,34.0,1,770.0,770.0,False,False,False,False,6.0,0,0,0,0
+181,181.0,181,address_316,school_A,Grundskole,nan,1,1,2021-01-17,1,75,1,1,sequence_181,,0,,0,,0,146.0,146.0,False,False,True,False,5.0,0,0,0,0
+182,182.0,182,address_259,nan,nan,workplace_A,1,1,2021-01-16,0,49,1,1,sequence_182,52.0,1,40.0,1,28.0,1,612.0,612.0,False,True,False,False,5.0,0,0,0,0
+183,183.0,183,address_209,nan,nan,nan,1,1,2021-01-09,0,78,1,1,sequence_183,45.0,1,12.0,1,36.0,1,625.0,625.0,False,False,False,False,4.0,0,0,0,0
+184,184.0,184,address_175,nan,nan,nan,1,1,2021-01-20,0,79,1,1,sequence_184,,0,,0,,0,428.0,428.0,False,False,False,False,11.0,0,0,0,0
+185,185.0,185,address_32,nan,nan,nan,1,1,2021-01-16,3,58,1,1,sequence_185,,0,36.0,1,,0,467.0,467.0,False,False,False,True,7.0,0,0,0,1
+186,186.0,186,address_312,nan,nan,nan,1,1,2021-01-16,0,38,1,1,sequence_186,,0,52.0,1,,0,20.0,20.0,False,False,False,False,7.0,0,0,0,0
+187,187.0,187,address_48,nan,nan,nan,1,1,2021-01-19,3,46,1,1,sequence_187,,0,,0,,0,114.0,114.0,False,False,False,False,7.0,0,0,0,0
+188,188.0,188,address_105,nan,nan,nan,1,1,2021-01-14,2,33,1,1,sequence_188,,0,,0,,0,841.0,841.0,False,False,False,True,8.0,0,0,0,0
+189,189.0,189,address_314,nan,nan,nan,1,1,2021-01-28,0,44,1,1,sequence_189,58.0,1,36.0,1,,0,518.0,518.0,False,False,False,False,6.0,0,0,0,0
+190,190.0,190,address_316,nan,nan,nan,1,1,2021-01-24,2,31,1,1,sequence_190,42.0,1,21.0,1,12.0,1,339.0,339.0,False,False,False,False,11.0,0,0,0,0
+191,191.0,191,address_83,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-28,0,61,1,1,sequence_191,,0,,0,,0,51.0,51.0,False,False,False,False,7.0,0,0,0,0
+192,192.0,192,address_245,nan,nan,nan,1,1,2021-01-25,0,39,1,1,sequence_192,54.0,1,4.0,1,39.0,1,688.0,688.0,False,False,False,True,8.0,0,0,0,0
+193,193.0,193,address_137,nan,nan,nan,1,1,2021-01-24,0,58,1,1,sequence_193,,0,18.0,1,,0,256.0,256.0,False,False,False,False,10.0,0,0,0,0
+194,194.0,194,address_60,nan,nan,nan,1,1,2021-01-21,0,16,1,1,sequence_194,14.0,1,18.0,1,29.0,1,927.0,927.0,False,False,False,False,8.0,0,0,0,0
+195,195.0,195,address_178,nan,nan,nan,1,1,2021-01-02,2,71,1,1,sequence_195,,0,35.0,1,,0,354.0,354.0,False,False,False,False,1.0,0,0,0,0
+196,196.0,196,address_307,nan,nan,nan,1,1,2021-01-02,2,72,1,1,sequence_196,,0,0.0,1,,0,986.0,986.0,False,False,False,False,1.0,0,0,0,0
+197,197.0,197,address_106,nan,nan,nan,1,1,2021-01-04,1,72,1,1,sequence_197,,0,25.0,1,,0,734.0,734.0,False,False,False,False,2.0,0,0,0,0
+198,198.0,198,address_199,nan,nan,nan,1,1,2021-01-30,0,70,1,1,sequence_198,,0,57.0,1,,0,569.0,569.0,False,False,False,False,4.0,0,0,0,0
+199,199.0,199,address_209,nan,nan,workplace_B,1,1,2021-01-01,8,42,1,1,sequence_199,,0,,0,,0,,,,,,,,0,1,1,0
+200,200.0,200,address_260,school_C,Gymnasiale uddannelse,workplace_C,1,1,2021-01-09,3,45,1,1,sequence_200,,0,32.0,1,,0,935.0,935.0,False,False,False,False,8.0,0,0,2,1
+201,201.0,201,address_3,nan,nan,nan,1,1,2021-01-27,1,22,1,1,sequence_201,6.0,1,6.0,1,11.0,1,693.0,693.0,True,False,False,False,7.0,0,0,0,0
+202,202.0,202,address_127,nan,nan,nan,1,1,2021-01-28,0,19,1,1,sequence_202,30.0,1,55.0,1,9.0,1,369.0,369.0,False,False,False,False,3.0,0,0,0,0
+203,203.0,203,address_88,nan,nan,nan,1,1,2021-01-08,2,26,1,1,sequence_203,31.0,1,20.0,1,,0,417.0,417.0,False,False,False,False,7.0,0,0,0,0
+204,204.0,204,address_46,nan,nan,nan,1,1,2021-01-18,0,79,1,1,sequence_204,,0,,0,,0,385.0,385.0,False,False,False,False,10.0,0,0,0,0
+205,205.0,205,address_94,nan,nan,nan,1,1,2021-01-04,4,73,1,1,sequence_205,,0,59.0,1,,0,935.0,935.0,False,False,False,False,3.0,0,0,0,0
+206,206.0,206,address_63,nan,nan,workplace_B,1,1,2021-01-10,3,73,1,1,sequence_206,,0,,0,,0,495.0,495.0,False,True,False,False,9.0,0,1,2,0
+207,207.0,207,address_84,nan,nan,nan,1,1,2021-01-24,0,47,1,1,sequence_207,8.0,1,16.0,1,59.0,1,455.0,455.0,False,False,False,False,5.0,0,0,0,0
+208,208.0,208,address_5,nan,nan,workplace_C,1,1,2021-01-04,1,5,1,1,sequence_208,,0,50.0,1,,0,690.0,690.0,False,False,False,False,3.0,0,0,1,0
+209,209.0,209,address_211,nan,nan,nan,1,1,2021-01-29,0,0,1,1,sequence_209,51.0,1,14.0,1,46.0,1,149.0,149.0,False,False,False,False,7.0,0,0,0,0
+210,210.0,210,address_72,nan,nan,nan,1,1,2021-01-02,2,15,1,1,sequence_210,52.0,1,9.0,1,33.0,1,219.0,219.0,False,False,False,False,1.0,0,0,0,0
+211,211.0,211,address_328,school_A,Grundskole,workplace_B,1,1,2021-01-05,4,18,1,1,sequence_211,25.0,1,40.0,1,59.0,1,997.0,997.0,False,False,True,False,3.0,1,0,2,0
+212,212.0,212,address_184,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-12,0,55,1,1,sequence_212,,0,,0,,0,834.0,834.0,False,False,False,False,6.0,0,0,0,0
+213,213.0,213,address_14,nan,nan,nan,1,1,2021-01-07,0,34,1,1,sequence_213,,0,41.0,1,,0,417.0,417.0,True,False,False,False,6.0,0,0,0,0
+214,214.0,214,address_227,nan,nan,nan,1,1,2021-01-24,0,8,1,1,sequence_214,17.0,1,36.0,1,20.0,1,471.0,471.0,False,False,False,False,5.0,0,0,0,0
+215,215.0,215,address_316,nan,nan,workplace_C,1,1,2021-01-24,0,27,1,1,sequence_215,41.0,1,57.0,1,33.0,1,577.0,577.0,False,True,False,False,11.0,0,0,0,0
+216,216.0,216,address_264,nan,nan,nan,1,1,2021-01-23,0,38,1,1,sequence_216,58.0,1,22.0,1,7.0,1,715.0,715.0,False,False,False,False,7.0,0,0,0,0
+217,217.0,217,address_41,nan,nan,nan,1,1,2021-01-30,0,6,1,1,sequence_217,46.0,1,33.0,1,,0,309.0,309.0,False,False,False,False,6.0,0,0,0,0
+218,218.0,218,address_161,nan,nan,nan,1,1,2021-01-04,3,79,1,1,sequence_218,1.0,1,51.0,1,,0,242.0,242.0,False,False,False,False,3.0,0,0,0,0
+219,219.0,219,address_325,nan,nan,nan,1,1,2021-01-01,9,62,1,1,sequence_219,,0,53.0,1,,0,,,,,,,,0,0,0,0
+220,220.0,220,address_216,nan,nan,nan,1,1,2021-01-03,1,73,1,1,sequence_220,25.0,1,48.0,1,49.0,1,166.0,166.0,False,False,False,False,2.0,0,0,0,0
+221,221.0,221,address_63,nan,nan,nan,1,1,2021-01-18,1,68,1,1,sequence_221,4.0,1,4.0,1,,0,206.0,206.0,True,False,False,False,8.0,0,1,0,0
+222,222.0,222,address_116,nan,nan,nan,1,1,2021-01-04,0,67,1,1,sequence_222,31.0,1,40.0,1,34.0,1,672.0,672.0,False,False,False,False,3.0,0,0,0,0
+223,223.0,223,address_273,nan,nan,nan,1,1,2021-01-24,0,77,1,1,sequence_223,30.0,1,40.0,1,28.0,1,565.0,565.0,False,False,False,False,4.0,0,0,0,0
+224,224.0,224,address_1,nan,nan,nan,1,1,2021-01-03,3,56,1,1,sequence_224,,0,,0,,0,675.0,675.0,False,False,False,False,2.0,0,0,0,0
+225,225.0,225,address_1,nan,nan,workplace_B,1,1,2021-01-10,1,43,1,1,sequence_225,28.0,1,32.0,1,52.0,1,933.0,933.0,False,True,False,False,4.0,0,0,0,0
+226,226.0,226,address_130,nan,nan,workplace_B,1,1,2021-01-25,3,19,1,1,sequence_226,16.0,1,0.0,1,,0,728.0,728.0,False,True,False,False,6.0,0,0,3,0
+227,227.0,227,address_179,nan,nan,nan,1,1,2021-01-31,0,29,1,1,sequence_227,,0,6.0,1,,0,162.0,162.0,False,False,False,True,4.0,0,0,0,0
+228,228.0,228,address_180,school_A,Grundskole,nan,1,1,2021-01-08,3,57,1,1,sequence_228,,0,,0,,0,807.0,807.0,False,False,True,False,4.0,1,0,0,0
+229,229.0,229,address_114,nan,nan,nan,1,1,2021-01-16,0,21,1,1,sequence_229,58.0,1,54.0,1,48.0,1,817.0,817.0,False,False,False,False,11.0,0,0,0,0
+230,230.0,230,address_142,nan,nan,workplace_A,1,1,2021-01-26,0,71,1,1,sequence_230,21.0,1,3.0,1,3.0,1,49.0,49.0,False,True,False,False,3.0,0,0,0,0
+231,231.0,231,address_237,school_B,Gymnasiale uddannelse,workplace_C,1,1,2021-01-14,4,2,1,1,sequence_231,35.0,1,12.0,1,31.0,1,121.0,121.0,False,True,False,False,3.0,0,0,4,0
+232,232.0,232,address_203,school_A,Grundskole,nan,1,1,2021-01-07,2,25,1,1,sequence_232,,0,36.0,1,,0,997.0,997.0,False,False,True,False,5.0,0,0,0,0
+233,233.0,233,address_193,nan,nan,nan,1,1,2021-01-03,2,9,1,1,sequence_233,,0,,0,,0,789.0,789.0,False,False,False,False,2.0,0,1,0,0
+234,234.0,234,address_157,nan,nan,workplace_A,1,1,2021-01-06,2,41,1,1,sequence_234,13.0,1,32.0,1,3.0,1,725.0,725.0,False,True,False,False,2.0,0,0,1,0
+235,235.0,235,address_9,nan,nan,nan,1,1,2021-01-10,1,31,1,1,sequence_235,,0,,0,,0,418.0,418.0,False,False,False,False,7.0,0,0,0,0
+236,236.0,236,address_96,nan,nan,nan,1,1,2021-01-06,1,78,1,1,sequence_236,,0,,0,,0,636.0,636.0,False,False,False,False,5.0,0,0,0,1
+237,237.0,237,address_273,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-03,4,42,1,1,sequence_237,,0,26.0,1,,0,495.0,495.0,False,False,False,False,2.0,0,0,0,0
+238,238.0,238,address_31,nan,nan,nan,1,1,2021-01-27,1,68,1,1,sequence_238,,0,,0,,0,578.0,578.0,False,False,False,False,10.0,0,0,0,0
+239,239.0,239,address_53,nan,nan,nan,1,1,2021-01-16,1,62,1,1,sequence_239,,0,21.0,1,,0,498.0,498.0,False,False,False,False,4.0,0,1,0,0
+240,240.0,240,address_53,nan,nan,nan,1,1,2021-01-13,0,44,1,1,sequence_240,,0,,0,,0,77.0,77.0,False,False,False,True,6.0,0,0,0,0
+241,241.0,241,address_23,nan,nan,nan,1,1,2021-01-17,0,17,1,1,sequence_241,29.0,1,22.0,1,22.0,1,881.0,881.0,False,False,False,False,7.0,0,0,0,0
+242,242.0,242,address_186,nan,nan,nan,1,1,2021-01-01,5,15,1,1,sequence_242,30.0,1,6.0,1,33.0,1,,,,,,,,0,0,0,0
+243,243.0,243,address_224,nan,nan,nan,1,1,2021-01-18,1,78,1,1,sequence_243,38.0,1,39.0,1,0.0,1,486.0,486.0,False,False,False,False,9.0,0,0,0,0
+244,244.0,244,address_272,nan,nan,workplace_C,1,1,2021-01-07,0,20,1,1,sequence_244,,0,22.0,1,,0,242.0,242.0,False,False,False,False,6.0,0,0,0,0
+245,245.0,245,address_246,nan,nan,nan,1,1,2021-01-12,1,67,1,1,sequence_245,47.0,1,5.0,1,49.0,1,137.0,137.0,False,False,False,False,6.0,0,0,0,0
+246,246.0,246,address_262,nan,nan,nan,1,1,2021-01-24,0,27,1,1,sequence_246,9.0,1,21.0,1,,0,693.0,693.0,False,False,False,False,4.0,0,0,0,0
+247,247.0,247,address_132,school_B,Gymnasiale uddannelse,workplace_C,1,1,2021-01-21,1,47,1,1,sequence_247,,0,16.0,1,,0,577.0,577.0,False,True,False,False,8.0,0,0,1,0
+248,248.0,248,address_302,nan,nan,workplace_A,1,1,2021-01-03,0,16,1,1,sequence_248,39.0,1,0.0,1,,0,166.0,166.0,False,False,False,False,2.0,0,0,0,0
+249,249.0,249,address_215,nan,nan,nan,1,1,2021-01-02,2,57,1,1,sequence_249,,0,17.0,1,,0,935.0,935.0,False,False,False,False,1.0,0,0,0,0
+250,250.0,250,address_144,nan,nan,nan,1,1,2021-01-22,0,38,1,1,sequence_250,44.0,1,34.0,1,,0,958.0,958.0,True,False,False,False,4.0,0,0,0,0
+251,251.0,251,address_72,nan,nan,nan,1,1,2021-01-11,0,64,1,1,sequence_251,49.0,1,54.0,1,43.0,1,11.0,11.0,False,False,False,False,7.0,0,0,0,0
+252,252.0,252,address_174,nan,nan,nan,1,1,2021-01-10,1,16,1,1,sequence_252,,0,,0,,0,60.0,60.0,True,False,False,False,3.0,0,0,0,0
+253,253.0,253,address_52,nan,nan,nan,1,1,2021-01-18,0,31,1,1,sequence_253,,0,,0,,0,497.0,497.0,False,False,False,False,6.0,0,0,0,0
+254,254.0,254,address_243,nan,nan,nan,1,1,2021-01-25,1,37,1,1,sequence_254,39.0,1,23.0,1,,0,732.0,732.0,False,False,False,False,9.0,0,0,0,0
+255,255.0,255,address_258,nan,nan,nan,1,1,2021-01-20,1,53,1,1,sequence_255,,0,54.0,1,,0,898.0,898.0,False,False,False,False,6.0,0,0,0,0
+256,256.0,256,address_188,nan,nan,nan,1,1,2021-01-14,2,13,1,1,sequence_256,31.0,1,20.0,1,6.0,1,842.0,842.0,False,False,False,False,7.0,0,0,0,1
+257,257.0,257,address_276,school_B,Gymnasiale uddannelse,workplace_A,1,1,2021-01-02,1,32,1,1,sequence_257,,0,,0,,0,199.0,199.0,False,False,False,False,1.0,0,0,0,0
+258,258.0,258,address_103,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-23,1,18,1,1,sequence_258,,0,,0,,0,102.0,102.0,False,False,False,False,4.0,0,0,0,0
+259,259.0,259,address_332,school_A,Grundskole,nan,1,1,2021-01-08,1,70,1,1,sequence_259,,0,52.0,1,,0,211.0,211.0,False,False,True,False,3.0,1,0,0,0
+260,260.0,260,address_314,nan,nan,workplace_A,1,1,2021-01-18,2,32,1,1,sequence_260,47.0,1,40.0,1,23.0,1,425.0,425.0,False,True,False,False,6.0,0,1,0,0
+261,261.0,261,address_42,nan,nan,nan,1,1,2021-01-15,1,4,1,1,sequence_261,,0,0.0,1,,0,445.0,445.0,False,False,False,False,8.0,0,0,0,0
+262,262.0,262,address_177,nan,nan,nan,1,1,2021-01-13,0,56,1,1,sequence_262,33.0,1,6.0,1,22.0,1,37.0,37.0,False,False,False,False,8.0,0,0,0,0
+263,263.0,263,address_16,nan,nan,nan,1,1,2021-01-24,1,72,1,1,sequence_263,,0,,0,,0,873.0,873.0,False,False,False,False,6.0,0,0,0,0
+264,264.0,264,address_80,nan,nan,nan,1,1,2021-01-21,2,75,1,1,sequence_264,,0,11.0,1,,0,553.0,553.0,False,False,False,False,8.0,0,1,0,0
+265,265.0,265,address_191,nan,nan,nan,1,1,2021-01-30,0,2,1,1,sequence_265,,0,51.0,1,,0,324.0,324.0,False,False,False,False,5.0,0,0,0,0
+266,266.0,266,address_49,nan,nan,nan,1,1,2021-01-19,2,11,1,1,sequence_266,18.0,1,15.0,1,54.0,1,320.0,320.0,False,False,False,False,5.0,0,2,0,0
+267,267.0,267,address_15,nan,nan,workplace_B,1,1,2021-01-06,3,40,1,1,sequence_267,,0,41.0,1,,0,314.0,314.0,False,False,False,False,5.0,0,0,1,0
+268,268.0,268,address_153,nan,nan,workplace_C,1,1,2021-01-18,4,24,1,1,sequence_268,9.0,1,59.0,1,,0,656.0,656.0,False,True,False,False,9.0,0,0,2,1
+269,269.0,269,address_325,school_A,Grundskole,nan,1,1,2021-01-12,3,55,1,1,sequence_269,55.0,1,9.0,1,45.0,1,603.0,603.0,True,False,False,False,3.0,1,0,0,0
+270,270.0,270,address_306,nan,nan,nan,1,1,2021-01-08,0,48,1,1,sequence_270,32.0,1,33.0,1,57.0,1,196.0,196.0,False,False,False,False,6.0,0,0,0,0
+271,271.0,271,address_110,nan,nan,workplace_B,1,1,2021-01-30,0,62,1,1,sequence_271,44.0,1,48.0,1,27.0,1,315.0,315.0,False,True,False,False,3.0,0,0,0,0
+272,272.0,272,address_143,nan,nan,nan,1,1,2021-01-11,0,10,1,1,sequence_272,1.0,1,39.0,1,,0,814.0,814.0,False,False,False,True,10.0,0,0,0,0
+273,273.0,273,address_205,nan,nan,nan,1,1,2021-01-03,2,12,1,1,sequence_273,,0,,0,,0,360.0,360.0,False,False,False,False,2.0,0,0,0,0
+274,274.0,274,address_46,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-30,0,7,1,1,sequence_274,23.0,1,33.0,1,28.0,1,946.0,946.0,False,False,False,False,7.0,0,0,0,0
+275,275.0,275,address_251,nan,nan,nan,1,1,2021-01-06,0,1,1,1,sequence_275,,0,,0,,0,805.0,805.0,False,False,False,False,5.0,0,0,0,0
+276,276.0,276,address_17,nan,nan,nan,1,1,2021-01-17,1,72,1,1,sequence_276,18.0,1,39.0,1,7.0,1,573.0,573.0,False,False,False,False,9.0,0,0,0,0
+277,277.0,277,address_195,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-17,0,75,1,1,sequence_277,,0,20.0,1,,0,590.0,590.0,True,False,False,False,1.0,0,0,0,0
+278,278.0,278,address_165,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-22,0,35,1,1,sequence_278,40.0,1,33.0,1,48.0,1,57.0,57.0,False,False,False,False,5.0,0,0,0,0
+279,279.0,279,address_82,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-05,0,55,1,1,sequence_279,24.0,1,37.0,1,44.0,1,570.0,570.0,False,False,False,True,4.0,0,0,0,0
+280,280.0,280,address_30,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-18,0,31,1,1,sequence_280,43.0,1,48.0,1,,0,235.0,235.0,False,False,False,False,8.0,0,0,0,0
+281,281.0,281,address_154,nan,nan,workplace_C,1,1,2021-01-18,3,33,1,1,sequence_281,33.0,1,41.0,1,32.0,1,368.0,368.0,False,True,False,False,7.0,0,0,0,0
+282,282.0,282,address_316,nan,nan,workplace_C,1,1,2021-01-15,3,62,1,1,sequence_282,,0,,0,,0,587.0,587.0,False,True,False,False,8.0,0,0,2,0
+283,283.0,283,address_37,nan,nan,nan,1,1,2021-01-12,1,37,1,1,sequence_283,,0,47.0,1,,0,983.0,983.0,False,False,False,False,11.0,0,1,0,0
+284,284.0,284,address_292,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-12,1,54,1,1,sequence_284,50.0,1,28.0,1,,0,113.0,113.0,True,False,False,False,8.0,0,0,0,0
+285,285.0,285,address_80,nan,nan,nan,1,1,2021-01-12,0,2,1,1,sequence_285,56.0,1,40.0,1,35.0,1,882.0,882.0,True,False,False,False,4.0,0,0,0,0
+286,286.0,286,address_5,nan,nan,nan,1,1,2021-01-14,1,68,1,1,sequence_286,9.0,1,27.0,1,13.0,1,737.0,737.0,True,False,False,False,6.0,0,0,0,0
+287,287.0,287,address_310,nan,nan,nan,1,1,2021-01-08,0,10,1,1,sequence_287,55.0,1,45.0,1,36.0,1,888.0,888.0,False,False,False,False,4.0,0,0,0,0
+288,288.0,288,address_247,nan,nan,nan,1,1,2021-01-18,1,21,1,1,sequence_288,2.0,1,54.0,1,2.0,1,60.0,60.0,False,False,False,False,11.0,0,0,0,0
+289,289.0,289,address_218,nan,nan,workplace_B,1,1,2021-01-11,1,69,1,1,sequence_289,,0,,0,,0,990.0,990.0,False,True,False,False,6.0,0,0,1,0
+290,290.0,290,address_191,nan,nan,nan,1,1,2021-01-14,0,31,1,1,sequence_290,,0,20.0,1,,0,652.0,652.0,False,False,False,False,8.0,0,0,0,0
+291,291.0,291,address_211,nan,nan,nan,1,1,2021-01-19,0,66,1,1,sequence_291,,0,12.0,1,,0,200.0,200.0,False,False,False,True,10.0,0,0,0,0
+292,292.0,292,address_332,nan,nan,nan,1,1,2021-01-26,0,33,1,1,sequence_292,12.0,1,12.0,1,,0,942.0,942.0,False,False,False,False,4.0,0,0,0,0
+293,293.0,293,address_140,nan,nan,nan,1,1,2021-01-31,0,61,1,1,sequence_293,,0,7.0,1,,0,928.0,928.0,False,False,False,False,7.0,0,0,0,0
+294,294.0,294,address_33,nan,nan,nan,1,1,2021-01-13,2,16,1,1,sequence_294,10.0,1,38.0,1,17.0,1,0.0,0.0,False,False,False,False,7.0,0,1,0,1
+295,295.0,295,address_85,nan,nan,nan,1,1,2021-01-19,1,3,1,1,sequence_295,,0,27.0,1,,0,167.0,167.0,False,False,False,False,10.0,0,0,0,0
+296,296.0,296,address_101,nan,nan,nan,1,1,2021-01-21,1,24,1,1,sequence_296,,0,5.0,1,,0,152.0,152.0,False,False,False,False,3.0,0,0,0,0
+297,297.0,297,address_105,nan,nan,nan,1,1,2021-01-01,2,45,1,1,sequence_297,26.0,1,30.0,1,42.0,1,,,,,,,,0,0,0,0
+298,298.0,298,address_302,nan,nan,nan,1,1,2021-01-10,2,64,1,1,sequence_298,54.0,1,6.0,1,14.0,1,103.0,103.0,False,False,False,False,9.0,0,0,0,0
+299,299.0,299,address_183,nan,nan,workplace_B,1,1,2021-01-06,0,27,1,1,sequence_299,26.0,1,26.0,1,33.0,1,211.0,211.0,False,True,False,False,1.0,0,0,0,0
+300,300.0,300,address_102,nan,nan,nan,1,1,2021-01-21,1,13,1,1,sequence_300,10.0,1,18.0,1,52.0,1,91.0,91.0,False,False,False,False,7.0,0,0,0,0
+301,301.0,301,address_99,nan,nan,nan,1,1,2021-01-21,2,46,1,1,sequence_301,,0,9.0,1,,0,306.0,306.0,False,False,False,False,4.0,0,0,0,0
+302,302.0,302,address_275,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-11,0,28,1,1,sequence_302,34.0,1,57.0,1,7.0,1,140.0,140.0,False,False,False,False,9.0,0,0,0,0
+303,303.0,303,address_252,nan,nan,nan,1,1,2021-01-02,0,35,1,1,sequence_303,,0,10.0,1,,0,440.0,440.0,False,False,False,False,1.0,0,0,0,0
+304,304.0,304,address_298,nan,nan,nan,1,1,2021-01-15,1,51,1,1,sequence_304,,0,53.0,1,,0,228.0,228.0,False,False,False,False,7.0,0,0,0,0
+305,305.0,305,address_304,nan,nan,workplace_A,1,1,2021-01-01,6,55,1,1,sequence_305,25.0,1,32.0,1,,0,,,,,,,,0,0,1,0
+306,306.0,306,address_251,nan,nan,nan,1,1,2021-01-17,1,44,1,1,sequence_306,7.0,1,34.0,1,,0,121.0,121.0,False,False,False,False,6.0,0,0,0,0
+307,307.0,307,address_90,school_B,Gymnasiale uddannelse,workplace_B,1,1,2021-01-17,2,69,1,1,sequence_307,25.0,1,42.0,1,,0,0.0,0.0,False,True,False,False,11.0,0,0,1,0
+308,308.0,308,address_2,nan,nan,nan,1,1,2021-01-29,0,50,1,1,sequence_308,,0,58.0,1,,0,260.0,260.0,False,False,False,False,11.0,0,0,0,0
+309,309.0,309,address_35,nan,nan,nan,1,1,2021-01-24,3,0,1,1,sequence_309,,0,,0,,0,898.0,898.0,False,False,False,True,10.0,0,0,0,0
+310,310.0,310,address_46,school_A,Grundskole,workplace_C,1,1,2021-01-29,0,39,1,1,sequence_310,58.0,1,46.0,1,38.0,1,890.0,890.0,False,True,False,False,5.0,0,0,0,0
+311,311.0,311,address_161,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-19,2,46,1,1,sequence_311,0.0,1,11.0,1,,0,124.0,124.0,False,False,False,False,6.0,0,0,0,1
+312,312.0,312,address_38,nan,nan,workplace_A,1,1,2021-01-03,1,8,1,1,sequence_312,47.0,1,43.0,1,48.0,1,675.0,675.0,False,True,False,False,2.0,0,0,1,0
+313,313.0,313,address_225,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-22,2,12,1,1,sequence_313,,0,18.0,1,,0,450.0,450.0,False,False,False,False,10.0,0,0,0,1
+314,314.0,314,address_195,nan,nan,nan,1,1,2021-01-01,3,33,1,1,sequence_314,,0,1.0,1,,0,,,,,,,,0,0,0,0
+315,315.0,315,address_314,nan,nan,workplace_B,1,1,2021-01-27,2,50,1,1,sequence_315,18.0,1,32.0,1,36.0,1,899.0,899.0,False,True,False,False,11.0,0,0,2,0
+316,316.0,316,address_162,nan,nan,workplace_B,1,1,2021-01-17,2,3,1,1,sequence_316,2.0,1,59.0,1,52.0,1,206.0,206.0,False,True,False,False,7.0,0,0,1,1
+317,317.0,317,address_198,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-26,0,36,1,1,sequence_317,30.0,1,41.0,1,,0,87.0,87.0,False,False,False,False,7.0,0,0,0,0
+318,318.0,318,address_297,nan,nan,nan,1,1,2021-01-25,0,60,1,1,sequence_318,,0,2.0,1,,0,264.0,264.0,False,False,False,False,4.0,0,0,0,0
+319,319.0,319,address_10,nan,nan,nan,1,1,2021-01-08,3,8,1,1,sequence_319,,0,,0,,0,233.0,233.0,False,False,False,False,5.0,0,1,0,1
+320,320.0,320,address_280,nan,nan,nan,1,1,2021-01-14,2,1,1,1,sequence_320,59.0,1,58.0,1,21.0,1,718.0,718.0,False,False,False,False,10.0,0,1,0,0
+321,321.0,321,address_12,nan,nan,nan,1,1,2021-01-26,0,5,1,1,sequence_321,22.0,1,38.0,1,25.0,1,618.0,618.0,False,False,False,False,7.0,0,0,0,0
+322,322.0,322,address_188,nan,nan,nan,1,1,2021-01-23,0,19,1,1,sequence_322,,0,,0,,0,908.0,908.0,False,False,False,False,7.0,0,0,0,0
+323,323.0,323,address_257,nan,nan,nan,1,1,2021-01-11,0,25,1,1,sequence_323,,0,,0,,0,652.0,652.0,False,False,False,False,5.0,0,0,0,0
+324,324.0,324,address_179,nan,nan,nan,1,1,2021-01-25,1,49,1,1,sequence_324,36.0,1,59.0,1,,0,185.0,185.0,False,False,False,False,9.0,0,0,0,0
+325,325.0,325,address_246,nan,nan,workplace_C,1,1,2021-01-19,1,8,1,1,sequence_325,,0,20.0,1,,0,395.0,395.0,False,True,False,False,8.0,0,0,1,0
+326,326.0,326,address_134,nan,nan,nan,1,1,2021-01-21,0,48,1,1,sequence_326,,0,47.0,1,,0,86.0,86.0,False,False,False,False,6.0,0,0,0,0
+327,327.0,327,address_18,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-01,4,12,1,1,sequence_327,42.0,1,54.0,1,34.0,1,,,,,,,,0,0,0,0
+328,328.0,328,address_36,nan,nan,nan,1,1,2021-01-06,1,58,1,1,sequence_328,42.0,1,2.0,1,,0,376.0,376.0,False,False,False,False,5.0,0,0,0,0
+329,329.0,329,address_122,nan,nan,nan,1,1,2021-01-30,0,78,1,1,sequence_329,,0,,0,,0,158.0,158.0,False,False,False,False,6.0,0,0,0,0
+330,330.0,330,address_115,nan,nan,nan,1,1,2021-01-27,0,17,1,1,sequence_330,50.0,1,12.0,1,,0,862.0,862.0,False,False,False,True,8.0,0,0,0,0
+331,331.0,331,address_302,nan,nan,workplace_B,1,1,2021-01-31,0,54,1,1,sequence_331,,0,,0,,0,457.0,457.0,False,True,False,False,11.0,0,0,0,0
+332,332.0,332,address_43,nan,nan,nan,1,1,2021-01-29,0,14,1,1,sequence_332,,0,24.0,1,,0,296.0,296.0,False,False,False,False,8.0,0,0,0,0
+333,333.0,333,address_232,nan,nan,nan,1,1,2021-01-03,1,0,1,1,sequence_333,39.0,1,15.0,1,,0,823.0,823.0,False,False,False,False,2.0,0,0,0,0
+334,334.0,334,address_55,nan,nan,nan,1,1,2021-01-04,0,44,1,1,sequence_334,,0,4.0,1,,0,199.0,199.0,False,False,False,False,3.0,0,0,0,0
+335,335.0,335,address_30,nan,nan,nan,1,1,2021-01-18,0,69,1,1,sequence_335,7.0,1,30.0,1,,0,93.0,93.0,False,False,False,False,5.0,0,0,0,0
+336,336.0,336,address_97,nan,nan,nan,1,1,2021-01-02,2,11,1,1,sequence_336,,0,58.0,1,,0,327.0,327.0,False,False,False,False,1.0,0,0,0,0
+337,337.0,337,address_186,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-18,2,20,1,1,sequence_337,55.0,1,49.0,1,,0,256.0,256.0,False,False,False,True,4.0,0,0,0,1
+338,338.0,338,address_291,nan,nan,nan,1,1,2021-01-18,1,52,1,1,sequence_338,59.0,1,54.0,1,49.0,1,319.0,319.0,False,False,False,False,10.0,0,0,0,0
+339,339.0,339,address_51,nan,nan,nan,1,1,2021-01-13,2,16,1,1,sequence_339,3.0,1,3.0,1,21.0,1,775.0,775.0,True,False,False,False,9.0,0,0,0,0
+340,340.0,340,address_48,school_A,Grundskole,nan,1,1,2021-01-19,1,40,1,1,sequence_340,17.0,1,16.0,1,25.0,1,71.0,71.0,False,False,True,False,3.0,1,0,0,0
+341,341.0,341,address_222,nan,nan,nan,1,1,2021-01-19,0,46,1,1,sequence_341,21.0,1,41.0,1,,0,835.0,835.0,False,False,False,True,1.0,0,0,0,0
+342,342.0,342,address_63,nan,nan,nan,1,1,2021-01-05,0,74,1,1,sequence_342,,0,,0,,0,582.0,582.0,True,False,False,False,1.0,0,0,0,0
+343,343.0,343,address_0,nan,nan,nan,1,1,2021-01-12,1,6,1,1,sequence_343,37.0,1,42.0,1,37.0,1,236.0,236.0,False,False,False,True,6.0,0,0,0,0
+344,344.0,344,address_223,school_A,Grundskole,nan,1,1,2021-01-31,0,28,1,1,sequence_344,59.0,1,1.0,1,45.0,1,693.0,693.0,False,False,True,False,11.0,0,0,0,0
+345,345.0,345,address_19,nan,nan,nan,1,1,2021-01-11,0,32,1,1,sequence_345,,0,51.0,1,,0,573.0,573.0,False,False,False,False,3.0,0,0,0,0
+346,346.0,346,address_5,nan,nan,nan,1,1,2021-01-30,0,33,1,1,sequence_346,55.0,1,56.0,1,43.0,1,561.0,561.0,True,False,False,False,9.0,0,0,0,0
+347,347.0,347,address_162,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-08,0,28,1,1,sequence_347,10.0,1,45.0,1,34.0,1,916.0,916.0,False,False,False,False,6.0,0,0,0,0
+348,348.0,348,address_134,nan,nan,nan,1,1,2021-01-25,0,30,1,1,sequence_348,,0,,0,,0,268.0,268.0,False,False,False,True,7.0,0,0,0,0
+349,349.0,349,address_63,nan,nan,nan,1,1,2021-01-24,0,53,1,1,sequence_349,31.0,1,7.0,1,13.0,1,221.0,221.0,True,False,False,False,6.0,0,0,0,0
+350,350.0,350,address_123,school_A,Grundskole,workplace_A,1,1,2021-01-29,0,15,1,1,sequence_350,12.0,1,10.0,1,,0,793.0,793.0,False,True,False,False,11.0,0,0,0,0
+351,351.0,351,address_102,nan,nan,nan,1,1,2021-01-22,1,3,1,1,sequence_351,51.0,1,27.0,1,,0,32.0,32.0,False,False,False,True,11.0,0,0,0,0
+352,352.0,352,address_145,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-25,1,20,1,1,sequence_352,49.0,1,27.0,1,12.0,1,2.0,2.0,False,False,False,False,9.0,0,0,0,0
+353,353.0,353,address_212,nan,nan,workplace_C,1,1,2021-01-23,1,32,1,1,sequence_353,52.0,1,19.0,1,33.0,1,73.0,73.0,False,True,False,False,8.0,0,0,0,0
+354,354.0,354,address_298,nan,nan,nan,1,1,2021-01-01,3,50,1,1,sequence_354,55.0,1,0.0,1,20.0,1,,,,,,,,0,0,0,0
+355,355.0,355,address_26,nan,nan,nan,1,1,2021-01-07,2,79,1,1,sequence_355,6.0,1,49.0,1,48.0,1,589.0,589.0,False,False,False,False,4.0,0,0,0,1
+356,356.0,356,address_219,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-08,0,71,1,1,sequence_356,1.0,1,36.0,1,,0,850.0,850.0,False,False,False,False,6.0,0,0,0,0
+357,357.0,357,address_94,nan,nan,nan,1,1,2021-01-03,0,22,1,1,sequence_357,4.0,1,17.0,1,2.0,1,805.0,805.0,False,False,False,False,2.0,0,0,0,0
+358,358.0,358,address_213,nan,nan,nan,1,1,2021-01-12,0,64,1,1,sequence_358,,0,,0,,0,108.0,108.0,False,False,False,False,8.0,0,0,0,0
+359,359.0,359,address_238,nan,nan,workplace_C,1,1,2021-01-04,1,75,1,1,sequence_359,,0,53.0,1,,0,911.0,911.0,False,True,False,False,2.0,0,0,1,0
+360,360.0,360,address_25,nan,nan,nan,1,1,2021-01-01,9,40,1,1,sequence_360,54.0,1,11.0,1,1.0,1,,,,,,,,0,0,0,0
+361,361.0,361,address_172,nan,nan,workplace_A,1,1,2021-01-18,1,72,1,1,sequence_361,,0,,0,,0,425.0,425.0,False,True,False,False,6.0,0,0,1,0
+362,362.0,362,address_141,nan,nan,nan,1,1,2021-01-12,0,44,1,1,sequence_362,,0,11.0,1,,0,267.0,267.0,False,False,False,False,6.0,0,0,0,0
+363,363.0,363,address_45,nan,nan,workplace_B,1,1,2021-01-13,1,54,1,1,sequence_363,41.0,1,38.0,1,6.0,1,736.0,736.0,False,True,False,False,7.0,0,1,0,0
+364,364.0,364,address_182,nan,nan,nan,1,1,2021-01-15,1,72,1,1,sequence_364,,0,,0,,0,994.0,994.0,False,False,False,False,6.0,0,0,0,0
+365,365.0,365,address_203,school_A,Grundskole,nan,1,1,2021-01-25,0,45,1,1,sequence_365,30.0,1,22.0,1,19.0,1,71.0,71.0,False,False,True,False,9.0,0,0,0,0
+366,366.0,366,address_306,nan,nan,nan,1,1,2021-01-28,0,35,1,1,sequence_366,24.0,1,6.0,1,35.0,1,493.0,493.0,False,False,False,False,7.0,0,0,0,0
+367,367.0,367,address_300,nan,nan,nan,1,1,2021-01-26,0,77,1,1,sequence_367,,0,,0,,0,187.0,187.0,False,False,False,False,7.0,0,0,0,0
+368,368.0,368,address_88,school_C,Gymnasiale uddannelse,workplace_C,1,1,2021-01-11,2,28,1,1,sequence_368,,0,27.0,1,,0,359.0,359.0,False,True,False,False,7.0,0,0,2,0
+369,369.0,369,address_74,nan,nan,workplace_C,1,1,2021-01-25,1,6,1,1,sequence_369,,0,59.0,1,,0,942.0,942.0,False,True,False,False,3.0,0,0,0,0
+370,370.0,370,address_332,school_A,Grundskole,workplace_B,1,1,2021-01-06,1,38,1,1,sequence_370,46.0,1,11.0,1,53.0,1,376.0,376.0,False,False,False,False,5.0,0,1,0,0
+371,371.0,371,address_105,nan,nan,nan,1,1,2021-01-22,1,30,1,1,sequence_371,6.0,1,57.0,1,,0,838.0,838.0,False,False,False,False,8.0,0,0,0,0
+372,372.0,372,address_138,nan,nan,workplace_A,1,1,2021-01-15,2,26,1,1,sequence_372,47.0,1,41.0,1,36.0,1,877.0,877.0,False,True,False,False,5.0,0,0,1,0
+373,373.0,373,address_87,nan,nan,nan,1,1,2021-01-20,1,11,1,1,sequence_373,11.0,1,47.0,1,0.0,1,808.0,808.0,False,False,False,False,9.0,0,0,0,0
+374,374.0,374,address_55,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-20,1,52,1,1,sequence_374,20.0,1,36.0,1,30.0,1,188.0,188.0,False,False,False,False,6.0,0,0,0,1
+375,375.0,375,address_316,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-10,0,52,1,1,sequence_375,8.0,1,50.0,1,42.0,1,220.0,220.0,False,False,False,False,7.0,0,0,0,0
+376,376.0,376,address_211,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-01,3,31,1,1,sequence_376,,0,21.0,1,,0,,,,,,,,0,0,0,0
+377,377.0,377,address_15,nan,nan,workplace_B,1,1,2021-01-22,1,17,1,1,sequence_377,30.0,1,2.0,1,,0,450.0,450.0,True,False,False,False,10.0,0,0,1,0
+378,378.0,378,address_198,nan,nan,workplace_A,1,1,2021-01-29,0,75,1,1,sequence_378,53.0,1,59.0,1,,0,13.0,13.0,False,True,False,False,8.0,0,0,0,0
+379,379.0,379,address_37,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-18,1,14,1,1,sequence_379,2.0,1,19.0,1,36.0,1,283.0,283.0,True,False,False,False,6.0,0,0,0,0
+380,380.0,380,address_54,nan,nan,nan,1,1,2021-01-04,2,23,1,1,sequence_380,,0,,0,,0,805.0,805.0,False,False,False,False,3.0,0,0,0,0
+381,381.0,381,address_203,nan,nan,nan,1,1,2021-01-17,1,68,1,1,sequence_381,,0,,0,,0,252.0,252.0,False,False,False,False,7.0,0,0,0,1
+382,382.0,382,address_79,school_B,Gymnasiale uddannelse,workplace_A,1,1,2021-01-05,0,4,1,1,sequence_382,59.0,1,21.0,1,16.0,1,460.0,460.0,False,False,False,False,3.0,0,0,0,0
+383,383.0,383,address_56,nan,nan,nan,1,1,2021-01-25,0,12,1,1,sequence_383,,0,,0,,0,641.0,641.0,False,False,False,True,6.0,0,0,0,0
+384,384.0,384,address_6,nan,nan,nan,1,1,2021-01-18,0,56,1,1,sequence_384,8.0,1,4.0,1,,0,458.0,458.0,False,False,False,False,4.0,0,0,0,0
+385,385.0,385,address_309,nan,nan,nan,1,1,2021-01-08,1,24,1,1,sequence_385,54.0,1,40.0,1,4.0,1,981.0,981.0,False,False,False,False,7.0,0,0,0,0
+386,386.0,386,address_233,nan,nan,nan,1,1,2021-01-18,1,2,1,1,sequence_386,6.0,1,13.0,1,55.0,1,67.0,67.0,False,False,False,True,6.0,0,0,0,0
+387,387.0,387,address_74,nan,nan,workplace_C,1,1,2021-01-15,2,78,1,1,sequence_387,,0,,0,,0,619.0,619.0,False,True,False,False,7.0,0,0,2,0
+388,388.0,388,address_193,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-27,0,56,1,1,sequence_388,28.0,1,34.0,1,,0,797.0,797.0,False,False,False,True,4.0,0,0,0,0
+389,389.0,389,address_302,nan,nan,nan,1,1,2021-01-15,0,33,1,1,sequence_389,28.0,1,12.0,1,6.0,1,489.0,489.0,False,False,False,True,6.0,0,0,0,0
+390,390.0,390,address_321,school_A,Grundskole,nan,1,1,2021-01-05,1,25,1,1,sequence_390,49.0,1,26.0,1,,0,11.0,11.0,False,False,True,False,1.0,1,0,0,0
+391,391.0,391,address_261,nan,nan,nan,1,1,2021-01-21,2,36,1,1,sequence_391,,0,59.0,1,,0,45.0,45.0,False,False,False,False,7.0,0,0,0,0
+392,392.0,392,address_130,nan,nan,nan,1,1,2021-01-09,1,47,1,1,sequence_392,16.0,1,23.0,1,24.0,1,814.0,814.0,False,False,False,False,8.0,0,0,0,0
+393,393.0,393,address_323,nan,nan,nan,1,1,2021-01-27,1,5,1,1,sequence_393,57.0,1,56.0,1,,0,51.0,51.0,False,False,False,False,6.0,0,0,0,0
+394,394.0,394,address_152,nan,nan,nan,1,1,2021-01-06,0,76,1,1,sequence_394,16.0,1,2.0,1,21.0,1,219.0,219.0,False,False,False,False,5.0,0,0,0,0
+395,395.0,395,address_129,nan,nan,workplace_C,1,1,2021-01-11,3,26,1,1,sequence_395,,0,,0,,0,777.0,777.0,False,True,False,False,5.0,0,0,3,0
+396,396.0,396,address_253,nan,nan,nan,1,1,2021-01-27,0,18,1,1,sequence_396,58.0,1,50.0,1,59.0,1,605.0,605.0,False,False,False,False,7.0,0,0,0,0
+397,397.0,397,address_231,nan,nan,nan,1,1,2021-01-30,0,10,1,1,sequence_397,,0,52.0,1,,0,353.0,353.0,False,False,False,False,7.0,0,0,0,0
+398,398.0,398,address_3,school_B,Gymnasiale uddannelse,workplace_A,1,1,2021-01-08,0,16,1,1,sequence_398,28.0,1,36.0,1,,0,418.0,418.0,False,True,False,False,5.0,0,0,0,0
+399,399.0,399,address_109,nan,nan,nan,1,1,2021-01-30,0,33,1,1,sequence_399,46.0,1,52.0,1,12.0,1,596.0,596.0,False,False,False,False,3.0,0,0,0,0
+400,400.0,400,address_229,nan,nan,nan,1,1,2021-01-02,1,55,1,1,sequence_400,29.0,1,26.0,1,11.0,1,672.0,672.0,False,False,False,False,1.0,0,0,0,0
+401,401.0,401,address_108,nan,nan,nan,1,1,2021-01-28,0,76,1,1,sequence_401,21.0,1,11.0,1,11.0,1,402.0,402.0,False,False,False,False,10.0,0,0,0,0
+402,402.0,402,address_22,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-18,1,52,1,1,sequence_402,18.0,1,7.0,1,27.0,1,73.0,73.0,False,False,False,True,3.0,0,0,0,0
+403,403.0,403,address_251,nan,nan,nan,1,1,2021-01-23,0,43,1,1,sequence_403,51.0,1,7.0,1,,0,854.0,854.0,False,False,False,False,6.0,0,0,0,0
+404,404.0,404,address_269,nan,nan,nan,1,1,2021-01-23,0,54,1,1,sequence_404,22.0,1,24.0,1,6.0,1,477.0,477.0,True,False,False,False,11.0,0,0,0,0
+405,405.0,405,address_53,nan,nan,nan,1,1,2021-01-20,0,62,1,1,sequence_405,49.0,1,41.0,1,,0,84.0,84.0,False,False,False,False,5.0,0,0,0,0
+406,406.0,406,address_303,nan,nan,nan,1,1,2021-01-25,1,27,1,1,sequence_406,,0,2.0,1,,0,118.0,118.0,False,False,False,True,10.0,0,1,0,0
+407,407.0,407,address_268,nan,nan,nan,1,1,2021-01-23,0,32,1,1,sequence_407,14.0,1,15.0,1,14.0,1,893.0,893.0,False,False,False,False,6.0,0,0,0,0
+408,408.0,408,address_81,nan,nan,nan,1,1,2021-01-17,1,60,1,1,sequence_408,47.0,1,35.0,1,50.0,1,644.0,644.0,False,False,False,False,7.0,0,0,0,0
+409,409.0,409,address_19,nan,nan,nan,1,1,2021-01-16,1,14,1,1,sequence_409,,0,1.0,1,,0,527.0,527.0,False,False,False,False,10.0,0,0,0,0
+410,410.0,410,address_53,nan,nan,nan,1,1,2021-01-24,1,68,1,1,sequence_410,44.0,1,28.0,1,6.0,1,268.0,268.0,False,False,False,False,6.0,0,0,0,0
+411,411.0,411,address_41,nan,nan,nan,1,1,2021-01-07,1,44,1,1,sequence_411,28.0,1,13.0,1,21.0,1,169.0,169.0,True,False,False,False,3.0,0,0,0,1
+412,412.0,412,address_217,nan,nan,nan,1,1,2021-01-28,0,29,1,1,sequence_412,,0,32.0,1,,0,469.0,469.0,False,False,False,True,11.0,0,0,0,0
+413,413.0,413,address_215,nan,nan,workplace_B,1,1,2021-01-31,0,20,1,1,sequence_413,43.0,1,21.0,1,52.0,1,138.0,138.0,False,True,False,False,5.0,0,0,0,0
+414,414.0,414,address_184,school_A,Grundskole,nan,1,1,2021-01-21,0,32,1,1,sequence_414,,0,33.0,1,,0,727.0,727.0,False,False,True,False,7.0,0,0,0,0
+415,415.0,415,address_136,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-31,0,64,1,1,sequence_415,2.0,1,51.0,1,,0,201.0,201.0,False,False,False,False,4.0,0,0,0,0
+416,416.0,416,address_249,nan,nan,nan,1,1,2021-01-22,2,47,1,1,sequence_416,,0,,0,,0,276.0,276.0,False,False,False,False,5.0,0,1,0,0
+417,417.0,417,address_14,nan,nan,nan,1,1,2021-01-01,5,39,1,1,sequence_417,42.0,1,45.0,1,58.0,1,,,,,,,,0,1,0,0
+418,418.0,418,address_244,nan,nan,workplace_A,1,1,2021-01-03,7,26,1,1,sequence_418,2.0,1,50.0,1,44.0,1,360.0,360.0,False,False,False,False,2.0,0,0,3,0
+419,419.0,419,address_260,nan,nan,nan,1,1,2021-01-02,0,68,1,1,sequence_419,,0,,0,,0,675.0,675.0,False,False,False,False,1.0,0,0,0,0
+420,420.0,420,address_289,school_A,Grundskole,workplace_C,1,1,2021-01-24,1,65,1,1,sequence_420,58.0,1,52.0,1,17.0,1,771.0,771.0,False,False,True,False,6.0,1,0,0,0
+421,421.0,421,address_53,nan,nan,nan,1,1,2021-01-27,0,79,1,1,sequence_421,37.0,1,10.0,1,,0,337.0,337.0,False,False,False,False,9.0,0,0,0,0
+422,422.0,422,address_142,nan,nan,nan,1,1,2021-01-17,0,30,1,1,sequence_422,,0,,0,,0,91.0,91.0,True,False,False,False,3.0,0,0,0,0
+423,423.0,423,address_299,nan,nan,nan,1,1,2021-01-30,0,66,1,1,sequence_423,47.0,1,50.0,1,,0,254.0,254.0,False,False,False,False,5.0,0,0,0,0
+424,424.0,424,address_284,nan,nan,nan,1,1,2021-01-09,2,71,1,1,sequence_424,11.0,1,16.0,1,38.0,1,336.0,336.0,False,False,False,False,7.0,0,0,0,0
+425,425.0,425,address_68,nan,nan,workplace_A,1,1,2021-01-12,5,15,1,1,sequence_425,,0,23.0,1,,0,997.0,997.0,False,False,False,False,10.0,0,0,4,0
+426,426.0,426,address_198,nan,nan,nan,1,1,2021-01-16,1,17,1,1,sequence_426,16.0,1,50.0,1,52.0,1,203.0,203.0,False,False,False,False,8.0,0,0,0,1
+427,427.0,427,address_202,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-18,0,61,1,1,sequence_427,46.0,1,18.0,1,53.0,1,428.0,428.0,False,False,False,False,9.0,0,0,0,0
+428,428.0,428,address_235,nan,nan,nan,1,1,2021-01-09,2,75,1,1,sequence_428,35.0,1,45.0,1,23.0,1,496.0,496.0,True,False,False,False,8.0,0,0,0,0
+429,429.0,429,address_263,nan,nan,nan,1,1,2021-01-30,0,16,1,1,sequence_429,26.0,1,16.0,1,18.0,1,391.0,391.0,False,False,False,False,9.0,0,0,0,0
+430,430.0,430,address_233,nan,nan,nan,1,1,2021-01-06,1,29,1,1,sequence_430,,0,,0,,0,570.0,570.0,False,False,False,False,5.0,0,0,0,0
+431,431.0,431,address_47,nan,nan,nan,1,1,2021-01-04,1,77,1,1,sequence_431,,0,51.0,1,,0,219.0,219.0,False,False,False,False,3.0,0,0,0,0
+432,432.0,432,address_84,nan,nan,nan,1,1,2021-01-01,3,1,1,1,sequence_432,,0,,0,,0,,,,,,,,0,1,0,1
+433,433.0,433,address_284,nan,nan,nan,1,1,2021-01-26,0,26,1,1,sequence_433,35.0,1,51.0,1,12.0,1,301.0,301.0,False,False,False,False,5.0,0,0,0,0
+434,434.0,434,address_273,nan,nan,nan,1,1,2021-01-04,1,16,1,1,sequence_434,,0,,0,,0,360.0,360.0,False,False,False,False,3.0,0,0,0,0
+435,435.0,435,address_189,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-05,0,51,1,1,sequence_435,2.0,1,2.0,1,43.0,1,257.0,257.0,False,False,False,False,3.0,0,0,0,0
+436,436.0,436,address_183,nan,nan,nan,1,1,2021-01-19,1,35,1,1,sequence_436,11.0,1,42.0,1,26.0,1,284.0,284.0,False,False,False,False,7.0,0,0,0,0
+437,437.0,437,address_239,nan,nan,nan,1,1,2021-01-09,0,18,1,1,sequence_437,28.0,1,2.0,1,45.0,1,978.0,978.0,False,False,False,True,7.0,0,0,0,0
+438,438.0,438,address_31,nan,nan,nan,1,1,2021-01-18,1,54,1,1,sequence_438,28.0,1,39.0,1,39.0,1,426.0,426.0,False,False,False,True,2.0,0,0,0,0
+439,439.0,439,address_186,nan,nan,nan,1,1,2021-01-23,1,60,1,1,sequence_439,,0,,0,,0,438.0,438.0,False,False,False,False,5.0,0,0,0,0
+440,440.0,440,address_49,nan,nan,nan,1,1,2021-01-01,4,76,1,1,sequence_440,,0,50.0,1,,0,,,,,,,,0,0,0,0
+441,441.0,441,address_251,school_A,Grundskole,nan,1,1,2021-01-09,1,30,1,1,sequence_441,,0,,0,,0,997.0,997.0,False,False,True,False,7.0,0,1,0,0
+442,442.0,442,address_233,nan,nan,nan,1,1,2021-01-04,0,20,1,1,sequence_442,14.0,1,33.0,1,,0,866.0,866.0,False,False,False,False,2.0,0,0,0,0
+443,443.0,443,address_27,nan,nan,workplace_A,1,1,2021-01-21,0,75,1,1,sequence_443,21.0,1,14.0,1,1.0,1,740.0,740.0,False,True,False,False,4.0,0,0,0,0
+444,444.0,444,address_286,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-09,1,73,1,1,sequence_444,12.0,1,45.0,1,38.0,1,562.0,562.0,False,False,False,False,6.0,0,0,0,0
+445,445.0,445,address_43,nan,nan,nan,1,1,2021-01-07,1,64,1,1,sequence_445,25.0,1,35.0,1,5.0,1,923.0,923.0,False,False,False,False,5.0,0,0,0,0
+446,446.0,446,address_217,nan,nan,nan,1,1,2021-01-12,0,61,1,1,sequence_446,4.0,1,53.0,1,23.0,1,676.0,676.0,False,False,False,False,6.0,0,0,0,0
+447,447.0,447,address_304,nan,nan,nan,1,1,2021-01-26,0,17,1,1,sequence_447,,0,,0,,0,693.0,693.0,False,False,False,False,6.0,0,0,0,0
+448,448.0,448,address_280,nan,nan,workplace_A,1,1,2021-01-29,0,69,1,1,sequence_448,31.0,1,31.0,1,35.0,1,686.0,686.0,True,False,False,False,8.0,0,0,0,0
+449,449.0,449,address_225,nan,nan,nan,1,1,2021-01-27,0,26,1,1,sequence_449,1.0,1,50.0,1,58.0,1,311.0,311.0,False,False,False,True,8.0,0,0,0,0
+450,450.0,450,address_15,nan,nan,nan,1,1,2021-01-12,2,74,1,1,sequence_450,,0,7.0,1,,0,503.0,503.0,False,False,False,False,5.0,0,1,0,0
+451,451.0,451,address_3,nan,nan,nan,1,1,2021-01-19,0,27,1,1,sequence_451,,0,38.0,1,,0,269.0,269.0,False,False,False,False,7.0,0,0,0,0
+452,452.0,452,address_26,nan,nan,nan,1,1,2021-01-16,1,34,1,1,sequence_452,,0,32.0,1,,0,294.0,294.0,False,False,False,True,3.0,0,0,0,0
+453,453.0,453,address_71,nan,nan,nan,1,1,2021-01-07,0,37,1,1,sequence_453,23.0,1,34.0,1,,0,788.0,788.0,False,False,False,False,5.0,0,0,0,0
+454,454.0,454,address_50,nan,nan,nan,1,1,2021-01-12,0,32,1,1,sequence_454,,0,,0,,0,750.0,750.0,False,False,False,False,4.0,0,0,0,0
+455,455.0,455,address_236,nan,nan,nan,1,1,2021-01-19,1,34,1,1,sequence_455,,0,9.0,1,,0,881.0,881.0,True,False,False,False,9.0,0,0,0,0
+456,456.0,456,address_179,nan,nan,nan,1,1,2021-01-09,0,55,1,1,sequence_456,2.0,1,46.0,1,,0,721.0,721.0,False,False,False,False,4.0,0,0,0,0
+457,457.0,457,address_180,nan,nan,workplace_B,1,1,2021-01-20,1,6,1,1,sequence_457,45.0,1,56.0,1,27.0,1,732.0,732.0,False,True,False,False,4.0,0,0,1,0
+458,458.0,458,address_177,nan,nan,workplace_C,1,1,2021-01-14,3,33,1,1,sequence_458,33.0,1,31.0,1,42.0,1,577.0,577.0,False,True,False,True,1.0,0,0,2,0
+459,459.0,459,address_43,nan,nan,workplace_B,1,1,2021-01-29,0,62,1,1,sequence_459,,0,20.0,1,,0,226.0,226.0,False,True,False,False,4.0,0,0,0,0
+460,460.0,460,address_195,nan,nan,nan,1,1,2021-01-02,2,69,1,1,sequence_460,24.0,1,37.0,1,50.0,1,636.0,636.0,False,False,False,False,1.0,0,0,0,0
+461,461.0,461,address_111,nan,nan,nan,1,1,2021-01-08,0,0,1,1,sequence_461,33.0,1,42.0,1,,0,297.0,297.0,False,False,False,False,7.0,0,0,0,0
+462,462.0,462,address_106,school_C,Gymnasiale uddannelse,workplace_B,1,1,2021-01-31,0,44,1,1,sequence_462,,0,8.0,1,,0,138.0,138.0,False,True,False,False,5.0,0,0,0,0
+463,463.0,463,address_261,nan,nan,nan,1,1,2021-01-09,0,56,1,1,sequence_463,6.0,1,14.0,1,3.0,1,242.0,242.0,False,False,False,False,8.0,0,0,0,0
+464,464.0,464,address_91,nan,nan,nan,1,1,2021-01-25,0,10,1,1,sequence_464,,0,50.0,1,,0,311.0,311.0,False,False,False,False,6.0,0,0,0,0
+465,465.0,465,address_254,nan,nan,nan,1,1,2021-01-30,0,38,1,1,sequence_465,,0,,0,,0,864.0,864.0,False,False,False,False,6.0,0,0,0,0
+466,466.0,466,address_34,nan,nan,workplace_C,1,1,2021-01-03,0,53,1,1,sequence_466,6.0,1,6.0,1,57.0,1,788.0,788.0,False,True,False,False,1.0,0,0,0,0
+467,467.0,467,address_332,nan,nan,nan,1,1,2021-01-09,2,67,1,1,sequence_467,,0,28.0,1,,0,788.0,788.0,False,False,False,False,7.0,0,0,0,1
+468,468.0,468,address_308,nan,nan,nan,1,1,2021-01-27,0,35,1,1,sequence_468,24.0,1,14.0,1,,0,51.0,51.0,False,False,False,False,6.0,0,0,0,0
+469,469.0,469,address_82,nan,nan,workplace_B,1,1,2021-01-17,1,15,1,1,sequence_469,,0,20.0,1,,0,73.0,73.0,True,False,False,False,2.0,0,0,0,1
+470,470.0,470,address_193,nan,nan,workplace_B,1,1,2021-01-06,0,39,1,1,sequence_470,,0,17.0,1,,0,233.0,233.0,True,False,False,False,3.0,0,0,0,0
+471,471.0,471,address_185,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-19,1,44,1,1,sequence_471,,0,46.0,1,,0,585.0,585.0,False,False,False,False,9.0,0,0,0,0
+472,472.0,472,address_327,nan,nan,nan,1,1,2021-01-31,0,43,1,1,sequence_472,48.0,1,33.0,1,56.0,1,178.0,178.0,False,False,False,False,8.0,0,0,0,0
+473,473.0,473,address_313,nan,nan,nan,1,1,2021-01-07,0,4,1,1,sequence_473,,0,25.0,1,,0,850.0,850.0,False,False,False,False,5.0,0,0,0,0
+474,474.0,474,address_274,nan,nan,nan,1,1,2021-01-28,0,38,1,1,sequence_474,45.0,1,48.0,1,27.0,1,854.0,854.0,False,False,False,False,11.0,0,0,0,0
+475,475.0,475,address_261,nan,nan,workplace_A,1,1,2021-01-23,1,64,1,1,sequence_475,43.0,1,19.0,1,17.0,1,488.0,488.0,False,True,False,False,4.0,0,0,0,1
+476,476.0,476,address_151,nan,nan,nan,1,1,2021-01-25,0,40,1,1,sequence_476,41.0,1,19.0,1,53.0,1,995.0,995.0,False,False,False,False,7.0,0,0,0,0
+477,477.0,477,address_269,nan,nan,nan,1,1,2021-01-12,2,2,1,1,sequence_477,41.0,1,16.0,1,8.0,1,619.0,619.0,False,False,False,False,4.0,0,1,0,0
+478,478.0,478,address_59,nan,nan,workplace_B,1,1,2021-01-04,2,5,1,1,sequence_478,55.0,1,19.0,1,0.0,1,483.0,483.0,False,False,False,False,3.0,0,0,2,0
+479,479.0,479,address_154,nan,nan,nan,1,1,2021-01-04,1,43,1,1,sequence_479,,0,3.0,1,,0,327.0,327.0,False,False,False,False,3.0,0,1,0,0
+480,480.0,480,address_149,nan,nan,nan,1,1,2021-01-30,0,13,1,1,sequence_480,3.0,1,14.0,1,46.0,1,258.0,258.0,False,False,False,False,7.0,0,0,0,0
+481,481.0,481,address_296,nan,nan,nan,1,1,2021-01-20,1,11,1,1,sequence_481,,0,55.0,1,,0,602.0,602.0,False,False,False,False,10.0,0,0,0,0
+482,482.0,482,address_16,nan,nan,nan,1,1,2021-01-01,1,73,1,1,sequence_482,,0,,0,,0,,,,,,,,0,0,0,0
+483,483.0,483,address_144,nan,nan,nan,1,1,2021-01-01,3,59,1,1,sequence_483,54.0,1,2.0,1,,0,,,,,,,,0,1,0,0
+484,484.0,484,address_249,nan,nan,nan,1,1,2021-01-23,1,75,1,1,sequence_484,,0,53.0,1,,0,908.0,908.0,False,False,False,False,7.0,0,0,0,0
+485,485.0,485,address_323,nan,nan,nan,1,1,2021-01-20,1,66,1,1,sequence_485,42.0,1,8.0,1,,0,576.0,576.0,True,False,False,False,10.0,0,0,0,0
+486,486.0,486,address_97,school_A,Grundskole,nan,1,1,2021-01-09,1,54,1,1,sequence_486,11.0,1,16.0,1,26.0,1,390.0,390.0,False,False,True,False,4.0,0,0,0,0
+487,487.0,487,address_223,nan,nan,nan,1,1,2021-01-05,0,72,1,1,sequence_487,25.0,1,49.0,1,,0,814.0,814.0,False,False,False,False,4.0,0,0,0,0
+488,488.0,488,address_208,nan,nan,workplace_A,1,1,2021-01-19,6,72,1,1,sequence_488,,0,,0,,0,145.0,145.0,False,False,False,False,9.0,0,0,4,1
+489,489.0,489,address_144,nan,nan,nan,1,1,2021-01-09,3,36,1,1,sequence_489,16.0,1,26.0,1,,0,483.0,483.0,True,False,False,False,8.0,0,1,0,1
+490,490.0,490,address_92,nan,nan,nan,1,1,2021-01-03,0,16,1,1,sequence_490,34.0,1,54.0,1,52.0,1,983.0,983.0,False,False,False,False,2.0,0,0,0,0
+491,491.0,491,address_211,nan,nan,nan,1,1,2021-01-06,0,74,1,1,sequence_491,,0,,0,,0,506.0,506.0,False,False,False,False,4.0,0,0,0,0
+492,492.0,492,address_20,nan,nan,workplace_A,1,1,2021-01-22,0,61,1,1,sequence_492,40.0,1,22.0,1,,0,612.0,612.0,False,True,False,False,11.0,0,0,0,0
+493,493.0,493,address_123,nan,nan,nan,1,1,2021-01-21,1,47,1,1,sequence_493,,0,,0,,0,374.0,374.0,False,False,False,True,1.0,0,0,0,0
+494,494.0,494,address_239,nan,nan,nan,1,1,2021-01-16,0,45,1,1,sequence_494,8.0,1,31.0,1,18.0,1,681.0,681.0,True,False,False,False,8.0,0,0,0,0
+495,495.0,495,address_250,nan,nan,workplace_B,1,1,2021-01-01,3,11,1,1,sequence_495,,0,16.0,1,,0,,,,,,,,0,0,1,0
+496,496.0,496,address_235,nan,nan,nan,1,1,2021-01-01,4,47,1,1,sequence_496,3.0,1,12.0,1,,0,,,,,,,,0,1,0,0
+497,497.0,497,address_321,school_A,Grundskole,nan,1,1,2021-01-12,2,38,1,1,sequence_497,34.0,1,20.0,1,50.0,1,637.0,637.0,False,False,True,False,7.0,1,0,0,0
+498,498.0,498,address_184,nan,nan,nan,1,1,2021-01-12,2,2,1,1,sequence_498,56.0,1,31.0,1,56.0,1,625.0,625.0,False,False,False,False,7.0,0,0,0,0
+499,499.0,499,address_54,nan,nan,nan,1,1,2021-01-23,0,48,1,1,sequence_499,,0,57.0,1,,0,71.0,71.0,False,False,False,False,7.0,0,0,0,0
+500,500.0,500,address_168,nan,nan,nan,1,1,2021-01-12,0,56,1,1,sequence_500,,0,,0,,0,234.0,234.0,False,False,False,False,6.0,0,0,0,0
+501,501.0,501,address_135,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-27,0,43,1,1,sequence_501,9.0,1,26.0,1,,0,926.0,926.0,False,False,False,False,7.0,0,0,0,0
+502,502.0,502,address_17,nan,nan,nan,1,1,2021-01-10,1,32,1,1,sequence_502,20.0,1,38.0,1,50.0,1,133.0,133.0,False,False,False,False,3.0,0,0,0,0
+503,503.0,503,address_79,nan,nan,workplace_B,1,1,2021-01-07,2,2,1,1,sequence_503,45.0,1,22.0,1,42.0,1,530.0,530.0,False,True,False,False,5.0,0,0,1,0
+504,504.0,504,address_117,nan,nan,nan,1,1,2021-01-16,1,30,1,1,sequence_504,,0,36.0,1,,0,568.0,568.0,False,False,False,False,9.0,0,0,0,0
+505,505.0,505,address_173,nan,nan,nan,1,1,2021-01-24,0,74,1,1,sequence_505,13.0,1,45.0,1,,0,337.0,337.0,False,False,False,True,6.0,0,0,0,0
+506,506.0,506,address_295,nan,nan,workplace_A,1,1,2021-01-02,2,17,1,1,sequence_506,19.0,1,18.0,1,15.0,1,935.0,935.0,False,False,False,False,1.0,0,0,0,0
+507,507.0,507,address_57,nan,nan,nan,1,1,2021-01-08,0,43,1,1,sequence_507,,0,,0,,0,555.0,555.0,False,False,False,False,6.0,0,0,0,0
+508,508.0,508,address_13,nan,nan,nan,1,1,2021-01-11,0,61,1,1,sequence_508,,0,48.0,1,,0,140.0,140.0,False,False,False,False,9.0,0,0,0,0
+509,509.0,509,address_79,nan,nan,nan,1,1,2021-01-09,0,72,1,1,sequence_509,,0,15.0,1,,0,562.0,562.0,False,False,False,False,6.0,0,0,0,0
+510,510.0,510,address_236,nan,nan,nan,1,1,2021-01-24,0,53,1,1,sequence_510,,0,49.0,1,,0,685.0,685.0,False,False,False,True,1.0,0,0,0,0
+511,511.0,511,address_117,nan,nan,nan,1,1,2021-01-29,0,45,1,1,sequence_511,,0,34.0,1,,0,436.0,436.0,False,False,False,False,10.0,0,0,0,0
+512,512.0,512,address_149,nan,nan,nan,1,1,2021-01-31,0,58,1,1,sequence_512,24.0,1,2.0,1,,0,679.0,679.0,False,False,False,False,9.0,0,0,0,0
+513,513.0,513,address_113,nan,nan,nan,1,1,2021-01-25,0,77,1,1,sequence_513,,0,29.0,1,,0,518.0,518.0,True,False,False,False,3.0,0,0,0,0
+514,514.0,514,address_249,nan,nan,nan,1,1,2021-01-14,1,1,1,1,sequence_514,10.0,1,42.0,1,,0,966.0,966.0,False,False,False,False,7.0,0,0,0,0
+515,515.0,515,address_242,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-05,0,61,1,1,sequence_515,8.0,1,59.0,1,30.0,1,636.0,636.0,False,False,False,False,4.0,0,0,0,0
+516,516.0,516,address_220,school_B,Gymnasiale uddannelse,workplace_B,1,1,2021-01-21,2,51,1,1,sequence_516,,0,35.0,1,,0,549.0,549.0,False,True,False,False,9.0,0,0,1,0
+517,517.0,517,address_300,nan,nan,nan,1,1,2021-01-11,1,64,1,1,sequence_517,15.0,1,46.0,1,16.0,1,482.0,482.0,False,False,False,False,10.0,0,0,0,0
+518,518.0,518,address_113,nan,nan,nan,1,1,2021-01-22,2,33,1,1,sequence_518,20.0,1,3.0,1,11.0,1,379.0,379.0,False,False,False,False,4.0,0,1,0,0
+519,519.0,519,address_164,nan,nan,nan,1,1,2021-01-05,0,66,1,1,sequence_519,57.0,1,59.0,1,1.0,1,781.0,781.0,False,False,False,False,3.0,0,0,0,0
+520,520.0,520,address_46,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-29,0,40,1,1,sequence_520,14.0,1,53.0,1,,0,646.0,646.0,False,False,False,True,1.0,0,0,0,0
+521,521.0,521,address_249,nan,nan,nan,1,1,2021-01-21,1,43,1,1,sequence_521,54.0,1,31.0,1,3.0,1,998.0,998.0,False,False,False,True,7.0,0,0,0,0
+522,522.0,522,address_182,school_A,Grundskole,nan,1,1,2021-01-30,0,5,1,1,sequence_522,,0,44.0,1,,0,635.0,635.0,False,False,True,False,4.0,0,0,0,0
+523,523.0,523,address_278,nan,nan,nan,1,1,2021-01-26,0,11,1,1,sequence_523,44.0,1,14.0,1,25.0,1,749.0,749.0,False,False,False,False,6.0,0,0,0,0
+524,524.0,524,address_98,nan,nan,nan,1,1,2021-01-06,0,77,1,1,sequence_524,46.0,1,39.0,1,49.0,1,647.0,647.0,False,False,False,False,4.0,0,0,0,0
+525,525.0,525,address_49,nan,nan,workplace_C,1,1,2021-01-19,2,52,1,1,sequence_525,,0,,0,,0,304.0,304.0,False,False,False,False,4.0,0,0,0,1
+526,526.0,526,address_101,nan,nan,nan,1,1,2021-01-03,0,57,1,1,sequence_526,37.0,1,34.0,1,,0,199.0,199.0,False,False,False,False,2.0,0,0,0,0
+527,527.0,527,address_236,nan,nan,nan,1,1,2021-01-06,2,49,1,1,sequence_527,40.0,1,29.0,1,9.0,1,734.0,734.0,False,False,False,False,4.0,0,0,0,1
+528,528.0,528,address_181,nan,nan,nan,1,1,2021-01-09,1,41,1,1,sequence_528,42.0,1,50.0,1,19.0,1,440.0,440.0,False,False,False,False,8.0,0,0,0,0
+529,529.0,529,address_261,nan,nan,workplace_A,1,1,2021-01-20,1,37,1,1,sequence_529,56.0,1,19.0,1,,0,2.0,2.0,False,True,False,False,4.0,0,0,1,0
+530,530.0,530,address_328,nan,nan,workplace_B,1,1,2021-01-02,3,70,1,1,sequence_530,,0,38.0,1,,0,76.0,76.0,False,True,False,False,1.0,0,0,1,0
+531,531.0,531,address_318,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-21,0,30,1,1,sequence_531,11.0,1,18.0,1,,0,846.0,846.0,False,False,False,False,8.0,0,0,0,0
+532,532.0,532,address_182,nan,nan,nan,1,1,2021-01-30,0,74,1,1,sequence_532,29.0,1,57.0,1,,0,190.0,190.0,False,False,False,False,6.0,0,0,0,0
+533,533.0,533,address_151,nan,nan,nan,1,1,2021-01-28,0,48,1,1,sequence_533,16.0,1,5.0,1,7.0,1,255.0,255.0,False,False,False,False,8.0,0,0,0,0
+534,534.0,534,address_210,nan,nan,nan,1,1,2021-01-13,0,25,1,1,sequence_534,6.0,1,19.0,1,,0,906.0,906.0,False,False,False,False,4.0,0,0,0,0
+535,535.0,535,address_254,nan,nan,nan,1,1,2021-01-05,0,51,1,1,sequence_535,,0,,0,,0,297.0,297.0,False,False,False,False,4.0,0,0,0,0
+536,536.0,536,address_190,nan,nan,nan,1,1,2021-01-17,0,4,1,1,sequence_536,,0,,0,,0,655.0,655.0,False,False,False,True,6.0,0,0,0,0
+537,537.0,537,address_291,nan,nan,nan,1,1,2021-01-26,1,55,1,1,sequence_537,35.0,1,52.0,1,11.0,1,873.0,873.0,False,False,False,False,8.0,0,1,0,0
+538,538.0,538,address_329,nan,nan,nan,1,1,2021-01-22,0,77,1,1,sequence_538,,0,29.0,1,,0,960.0,960.0,False,False,False,False,7.0,0,0,0,0
+539,539.0,539,address_247,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-22,0,0,1,1,sequence_539,29.0,1,27.0,1,22.0,1,746.0,746.0,False,False,False,False,8.0,0,0,0,0
+540,540.0,540,address_50,nan,nan,nan,1,1,2021-01-04,1,5,1,1,sequence_540,52.0,1,2.0,1,57.0,1,360.0,360.0,False,False,False,False,3.0,0,0,0,0
+541,541.0,541,address_81,nan,nan,workplace_B,1,1,2021-01-07,1,71,1,1,sequence_541,,0,3.0,1,,0,76.0,76.0,False,True,False,False,6.0,0,0,0,0
+542,542.0,542,address_305,nan,nan,nan,1,1,2021-01-05,1,58,1,1,sequence_542,,0,34.0,1,,0,530.0,530.0,False,False,False,False,3.0,0,0,0,0
+543,543.0,543,address_229,school_A,Grundskole,nan,1,1,2021-01-26,0,20,1,1,sequence_543,37.0,1,42.0,1,58.0,1,571.0,571.0,False,False,True,False,11.0,0,0,0,0
+544,544.0,544,address_139,nan,nan,nan,1,1,2021-01-04,1,4,1,1,sequence_544,42.0,1,17.0,1,33.0,1,935.0,935.0,False,False,False,False,3.0,0,0,0,0
+545,545.0,545,address_57,nan,nan,nan,1,1,2021-01-22,0,76,1,1,sequence_545,57.0,1,1.0,1,,0,409.0,409.0,False,False,False,False,6.0,0,0,0,0
+546,546.0,546,address_33,nan,nan,nan,1,1,2021-01-22,0,13,1,1,sequence_546,,0,,0,,0,294.0,294.0,True,False,False,False,9.0,0,0,0,0
+547,547.0,547,address_79,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-03,0,46,1,1,sequence_547,24.0,1,21.0,1,2.0,1,199.0,199.0,False,False,False,False,2.0,0,0,0,0
+548,548.0,548,address_232,school_C,Gymnasiale uddannelse,workplace_B,1,1,2021-01-23,1,0,1,1,sequence_548,,0,21.0,1,,0,67.0,67.0,False,True,False,False,11.0,0,0,1,0
+549,549.0,549,address_91,school_A,Grundskole,workplace_B,1,1,2021-01-12,2,22,1,1,sequence_549,,0,37.0,1,,0,999.0,999.0,False,False,True,False,7.0,1,0,1,0
+550,550.0,550,address_115,nan,nan,nan,1,1,2021-01-27,0,73,1,1,sequence_550,19.0,1,55.0,1,,0,921.0,921.0,False,False,False,False,8.0,0,0,0,0
+551,551.0,551,address_264,nan,nan,workplace_B,1,1,2021-01-28,0,16,1,1,sequence_551,,0,22.0,1,,0,226.0,226.0,False,True,False,False,3.0,0,0,0,0
+552,552.0,552,address_87,nan,nan,nan,1,1,2021-01-14,0,48,1,1,sequence_552,38.0,1,2.0,1,33.0,1,677.0,677.0,False,False,False,False,10.0,0,0,0,0
+553,553.0,553,address_200,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-13,1,43,1,1,sequence_553,,0,,0,,0,541.0,541.0,False,False,False,False,6.0,0,0,0,0
+554,554.0,554,address_48,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-09,2,5,1,1,sequence_554,28.0,1,52.0,1,,0,417.0,417.0,False,False,False,False,8.0,0,0,0,0
+555,555.0,555,address_77,nan,nan,workplace_A,1,1,2021-01-02,3,8,1,1,sequence_555,,0,15.0,1,,0,943.0,943.0,False,False,False,False,1.0,0,0,2,0
+556,556.0,556,address_265,nan,nan,nan,1,1,2021-01-04,1,41,1,1,sequence_556,26.0,1,45.0,1,,0,160.0,160.0,False,False,False,False,3.0,0,0,0,0
+557,557.0,557,address_103,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-05,0,35,1,1,sequence_557,34.0,1,49.0,1,36.0,1,983.0,983.0,False,False,False,False,4.0,0,0,0,0
+558,558.0,558,address_59,nan,nan,nan,1,1,2021-01-20,1,26,1,1,sequence_558,35.0,1,1.0,1,29.0,1,881.0,881.0,False,False,False,False,10.0,0,0,0,0
+559,559.0,559,address_52,nan,nan,workplace_B,1,1,2021-01-22,2,6,1,1,sequence_559,,0,49.0,1,,0,751.0,751.0,False,True,False,False,6.0,0,0,0,1
+560,560.0,560,address_13,nan,nan,workplace_A,1,1,2021-01-31,0,59,1,1,sequence_560,50.0,1,3.0,1,34.0,1,49.0,49.0,False,True,False,False,8.0,0,0,0,0
+561,561.0,561,address_5,nan,nan,nan,1,1,2021-01-21,1,23,1,1,sequence_561,,0,,0,,0,504.0,504.0,False,False,False,False,5.0,0,1,0,0
+562,562.0,562,address_86,nan,nan,nan,1,1,2021-01-03,3,16,1,1,sequence_562,6.0,1,2.0,1,,0,417.0,417.0,False,False,False,False,2.0,0,1,0,0
+563,563.0,563,address_142,nan,nan,workplace_C,1,1,2021-01-04,2,24,1,1,sequence_563,2.0,1,13.0,1,4.0,1,788.0,788.0,False,True,False,False,2.0,0,0,2,0
+564,564.0,564,address_56,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-29,0,79,1,1,sequence_564,,0,,0,,0,481.0,481.0,False,False,False,False,9.0,0,0,0,0
+565,565.0,565,address_331,nan,nan,nan,1,1,2021-01-20,1,58,1,1,sequence_565,20.0,1,30.0,1,28.0,1,109.0,109.0,False,False,False,True,4.0,0,0,0,0
+566,566.0,566,address_167,nan,nan,workplace_A,1,1,2021-01-24,0,50,1,1,sequence_566,39.0,1,51.0,1,10.0,1,488.0,488.0,False,True,False,False,5.0,0,0,0,0
+567,567.0,567,address_196,nan,nan,nan,1,1,2021-01-31,0,53,1,1,sequence_567,,0,37.0,1,,0,309.0,309.0,False,False,False,False,7.0,0,0,0,0
+568,568.0,568,address_209,nan,nan,workplace_C,1,1,2021-01-07,1,16,1,1,sequence_568,6.0,1,51.0,1,,0,199.0,199.0,True,False,False,False,6.0,0,0,0,0
+569,569.0,569,address_221,nan,nan,nan,1,1,2021-01-26,1,61,1,1,sequence_569,,0,,0,,0,372.0,372.0,False,False,False,False,11.0,0,0,0,0
+570,570.0,570,address_14,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-01,5,17,1,1,sequence_570,,0,14.0,1,,0,,,,,,,,0,1,0,1
+571,571.0,571,address_236,school_A,Grundskole,nan,1,1,2021-01-15,1,45,1,1,sequence_571,,0,,0,,0,575.0,575.0,False,False,True,False,5.0,1,0,0,0
+572,572.0,572,address_153,nan,nan,nan,1,1,2021-01-27,0,11,1,1,sequence_572,,0,56.0,1,,0,300.0,300.0,False,False,False,False,6.0,0,0,0,0
+573,573.0,573,address_242,nan,nan,nan,1,1,2021-01-08,3,4,1,1,sequence_573,,0,47.0,1,,0,160.0,160.0,False,False,False,False,7.0,0,0,0,0
+574,574.0,574,address_95,nan,nan,nan,1,1,2021-01-02,1,30,1,1,sequence_574,36.0,1,4.0,1,,0,440.0,440.0,False,False,False,False,1.0,0,0,0,0
+575,575.0,575,address_84,school_A,Grundskole,nan,1,1,2021-01-10,2,45,1,1,sequence_575,,0,28.0,1,,0,680.0,680.0,True,False,False,False,2.0,1,0,0,1
+576,576.0,576,address_323,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-10,2,0,1,1,sequence_576,44.0,1,7.0,1,33.0,1,354.0,354.0,False,False,False,False,9.0,0,1,0,1
+577,577.0,577,address_73,school_A,Grundskole,workplace_C,1,1,2021-01-13,4,77,1,1,sequence_577,27.0,1,59.0,1,,0,850.0,850.0,False,True,False,False,11.0,0,0,3,1
+578,578.0,578,address_107,nan,nan,nan,1,1,2021-01-17,1,56,1,1,sequence_578,35.0,1,47.0,1,3.0,1,34.0,34.0,True,False,False,False,10.0,0,0,0,0
+579,579.0,579,address_107,nan,nan,nan,1,1,2021-01-19,2,53,1,1,sequence_579,50.0,1,30.0,1,28.0,1,893.0,893.0,True,False,False,False,2.0,0,1,0,0
+580,580.0,580,address_28,nan,nan,nan,1,1,2021-01-23,0,36,1,1,sequence_580,25.0,1,32.0,1,,0,89.0,89.0,False,False,False,True,6.0,0,0,0,0
+581,581.0,581,address_331,nan,nan,nan,1,1,2021-01-11,0,31,1,1,sequence_581,8.0,1,2.0,1,47.0,1,943.0,943.0,False,False,False,False,10.0,0,0,0,0
+582,582.0,582,address_63,nan,nan,nan,1,1,2021-01-04,2,29,1,1,sequence_582,,0,17.0,1,,0,506.0,506.0,False,False,False,False,2.0,0,2,0,0
+583,583.0,583,address_127,nan,nan,workplace_B,1,1,2021-01-28,0,11,1,1,sequence_583,,0,,0,,0,860.0,860.0,False,True,False,False,9.0,0,0,0,0
+584,584.0,584,address_181,nan,nan,nan,1,1,2021-01-16,0,73,1,1,sequence_584,4.0,1,1.0,1,52.0,1,232.0,232.0,False,False,False,False,9.0,0,0,0,0
+585,585.0,585,address_75,nan,nan,workplace_A,1,1,2021-01-10,3,58,1,1,sequence_585,15.0,1,34.0,1,,0,237.0,237.0,False,False,False,False,7.0,0,0,2,0
+586,586.0,586,address_20,nan,nan,workplace_B,1,1,2021-01-27,0,57,1,1,sequence_586,,0,,0,,0,548.0,548.0,False,True,False,False,4.0,0,0,0,0
+587,587.0,587,address_22,school_B,Gymnasiale uddannelse,workplace_C,1,1,2021-01-07,1,24,1,1,sequence_587,57.0,1,11.0,1,,0,305.0,305.0,False,False,False,False,6.0,0,0,1,0
+588,588.0,588,address_102,nan,nan,nan,1,1,2021-01-15,0,29,1,1,sequence_588,,0,,0,,0,81.0,81.0,False,False,False,False,6.0,0,0,0,0
+589,589.0,589,address_182,nan,nan,nan,1,1,2021-01-03,2,67,1,1,sequence_589,,0,,0,,0,166.0,166.0,False,False,False,False,2.0,0,0,0,0
+590,590.0,590,address_195,nan,nan,nan,1,1,2021-01-16,2,76,1,1,sequence_590,51.0,1,39.0,1,10.0,1,680.0,680.0,False,False,False,False,8.0,0,1,0,0
+591,591.0,591,address_186,nan,nan,nan,1,1,2021-01-08,0,66,1,1,sequence_591,,0,,0,,0,721.0,721.0,False,False,False,False,3.0,0,0,0,0
+592,592.0,592,address_59,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-06,0,38,1,1,sequence_592,49.0,1,50.0,1,32.0,1,237.0,237.0,False,False,False,False,3.0,0,0,0,0
+593,593.0,593,address_56,nan,nan,nan,1,1,2021-01-16,1,63,1,1,sequence_593,,0,,0,,0,877.0,877.0,False,False,False,False,6.0,0,0,0,0
+594,594.0,594,address_252,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-10,0,46,1,1,sequence_594,,0,8.0,1,,0,5.0,5.0,False,False,False,False,7.0,0,0,0,0
+595,595.0,595,address_200,nan,nan,nan,1,1,2021-01-31,0,79,1,1,sequence_595,29.0,1,26.0,1,11.0,1,604.0,604.0,False,False,False,False,5.0,0,0,0,0
+596,596.0,596,address_269,school_A,Grundskole,nan,1,1,2021-01-27,1,72,1,1,sequence_596,50.0,1,16.0,1,,0,900.0,900.0,False,False,True,False,3.0,0,0,0,0
+597,597.0,597,address_37,nan,nan,nan,1,1,2021-01-15,1,27,1,1,sequence_597,4.0,1,59.0,1,,0,431.0,431.0,False,False,False,False,11.0,0,0,0,0
+598,598.0,598,address_201,nan,nan,nan,1,1,2021-01-08,0,52,1,1,sequence_598,,0,,0,,0,197.0,197.0,False,False,False,False,4.0,0,0,0,0
+599,599.0,599,address_64,nan,nan,nan,1,1,2021-01-14,0,23,1,1,sequence_599,,0,26.0,1,,0,764.0,764.0,False,False,False,False,5.0,0,0,0,0
+600,600.0,600,address_231,nan,nan,nan,1,1,2021-01-14,0,11,1,1,sequence_600,,0,33.0,1,,0,696.0,696.0,False,False,False,False,7.0,0,0,0,0
+601,601.0,601,address_36,nan,nan,nan,1,1,2021-01-05,0,35,1,1,sequence_601,48.0,1,22.0,1,19.0,1,273.0,273.0,False,False,False,False,2.0,0,0,0,0
+602,602.0,602,address_14,nan,nan,nan,1,1,2021-01-10,1,45,1,1,sequence_602,26.0,1,24.0,1,8.0,1,570.0,570.0,True,False,False,False,9.0,0,0,0,0
+603,603.0,603,address_325,nan,nan,nan,1,1,2021-01-09,3,34,1,1,sequence_603,,0,,0,,0,76.0,76.0,False,False,False,False,8.0,0,1,0,0
+604,604.0,604,address_247,nan,nan,nan,1,1,2021-01-26,1,68,1,1,sequence_604,0.0,1,21.0,1,15.0,1,391.0,391.0,False,False,False,False,5.0,0,0,0,0
+605,605.0,605,address_309,nan,nan,nan,1,1,2021-01-20,1,3,1,1,sequence_605,40.0,1,3.0,1,,0,577.0,577.0,False,False,False,False,7.0,0,0,0,0
+606,606.0,606,address_121,nan,nan,nan,1,1,2021-01-29,0,19,1,1,sequence_606,8.0,1,44.0,1,,0,83.0,83.0,True,False,False,False,7.0,0,0,0,0
+607,607.0,607,address_210,nan,nan,nan,1,1,2021-01-18,1,23,1,1,sequence_607,35.0,1,31.0,1,9.0,1,467.0,467.0,False,False,False,False,9.0,0,1,0,0
+608,608.0,608,address_318,nan,nan,nan,1,1,2021-01-05,1,21,1,1,sequence_608,,0,16.0,1,,0,935.0,935.0,False,False,False,False,4.0,0,0,0,0
+609,609.0,609,address_157,nan,nan,nan,1,1,2021-01-02,0,50,1,1,sequence_609,58.0,1,20.0,1,22.0,1,,,,,,,,0,0,0,0
+610,610.0,610,address_70,nan,nan,nan,1,1,2021-01-05,1,15,1,1,sequence_610,,0,15.0,1,,0,224.0,224.0,False,False,False,False,2.0,0,0,0,0
+611,611.0,611,address_323,nan,nan,workplace_B,1,1,2021-01-07,1,59,1,1,sequence_611,8.0,1,15.0,1,31.0,1,721.0,721.0,False,True,False,False,2.0,0,0,1,0
+612,612.0,612,address_145,nan,nan,workplace_A,1,1,2021-01-11,2,19,1,1,sequence_612,,0,10.0,1,,0,930.0,930.0,False,True,False,False,4.0,0,0,2,0
+613,613.0,613,address_26,nan,nan,nan,1,1,2021-01-18,1,31,1,1,sequence_613,,0,59.0,1,,0,106.0,106.0,False,False,False,True,9.0,0,0,0,0
+614,614.0,614,address_158,nan,nan,nan,1,1,2021-01-28,0,34,1,1,sequence_614,50.0,1,47.0,1,18.0,1,521.0,521.0,False,False,False,False,7.0,0,0,0,0
+615,615.0,615,address_304,school_B,Gymnasiale uddannelse,workplace_A,1,1,2021-01-14,1,11,1,1,sequence_615,26.0,1,44.0,1,,0,425.0,425.0,False,True,False,False,2.0,0,0,1,0
+616,616.0,616,address_250,nan,nan,workplace_A,1,1,2021-01-26,0,71,1,1,sequence_616,,0,31.0,1,,0,49.0,49.0,False,True,False,False,3.0,0,0,0,0
+617,617.0,617,address_298,nan,nan,workplace_B,1,1,2021-01-30,0,3,1,1,sequence_617,14.0,1,38.0,1,0.0,1,635.0,635.0,False,True,False,False,4.0,0,0,0,0
+618,618.0,618,address_203,nan,nan,nan,1,1,2021-01-19,3,59,1,1,sequence_618,4.0,1,26.0,1,46.0,1,21.0,21.0,False,False,False,False,5.0,0,0,0,0
+619,619.0,619,address_170,nan,nan,workplace_C,1,1,2021-01-08,2,68,1,1,sequence_619,52.0,1,35.0,1,,0,12.0,12.0,False,False,False,False,6.0,0,0,1,0
+620,620.0,620,address_213,nan,nan,nan,1,1,2021-01-03,0,39,1,1,sequence_620,,0,52.0,1,,0,31.0,31.0,False,False,False,False,1.0,0,0,0,0
+621,621.0,621,address_218,nan,nan,nan,1,1,2021-01-17,1,13,1,1,sequence_621,,0,,0,,0,774.0,774.0,True,False,False,False,6.0,0,0,0,0
+622,622.0,622,address_12,nan,nan,nan,1,1,2021-01-07,0,16,1,1,sequence_622,14.0,1,58.0,1,47.0,1,770.0,770.0,False,False,False,False,5.0,0,0,0,0
+623,623.0,623,address_96,nan,nan,nan,1,1,2021-01-18,0,51,1,1,sequence_623,18.0,1,20.0,1,34.0,1,392.0,392.0,False,False,False,False,9.0,0,0,0,0
+624,624.0,624,address_153,nan,nan,nan,1,1,2021-01-29,0,11,1,1,sequence_624,19.0,1,22.0,1,,0,851.0,851.0,False,False,False,False,8.0,0,0,0,0
+625,625.0,625,address_216,nan,nan,nan,1,1,2021-01-05,2,29,1,1,sequence_625,25.0,1,42.0,1,6.0,1,237.0,237.0,False,False,False,False,2.0,0,0,0,0
+626,626.0,626,address_229,nan,nan,nan,1,1,2021-01-21,0,26,1,1,sequence_626,,0,4.0,1,,0,269.0,269.0,False,False,False,False,9.0,0,0,0,0
+627,627.0,627,address_187,nan,nan,workplace_B,1,1,2021-01-10,1,17,1,1,sequence_627,,0,,0,,0,267.0,267.0,False,True,False,False,4.0,0,0,1,0
+628,628.0,628,address_239,school_B,Gymnasiale uddannelse,workplace_A,1,1,2021-01-28,1,12,1,1,sequence_628,,0,,0,,0,959.0,959.0,False,True,False,False,6.0,0,0,1,0
+629,629.0,629,address_123,nan,nan,nan,1,1,2021-01-23,0,75,1,1,sequence_629,31.0,1,0.0,1,3.0,1,111.0,111.0,False,False,False,False,7.0,0,0,0,0
+630,630.0,630,address_44,nan,nan,nan,1,1,2021-01-16,1,13,1,1,sequence_630,,0,54.0,1,,0,694.0,694.0,False,False,False,False,7.0,0,0,0,0
+631,631.0,631,address_180,nan,nan,nan,1,1,2021-01-27,0,40,1,1,sequence_631,,0,,0,,0,855.0,855.0,False,False,False,False,7.0,0,0,0,0
+632,632.0,632,address_171,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-12,1,29,1,1,sequence_632,33.0,1,24.0,1,,0,996.0,996.0,False,False,False,False,4.0,0,0,0,0
+633,633.0,633,address_238,school_A,Grundskole,nan,1,1,2021-01-29,0,51,1,1,sequence_633,25.0,1,4.0,1,,0,420.0,420.0,False,False,True,False,5.0,0,0,0,0
+634,634.0,634,address_194,nan,nan,nan,1,1,2021-01-25,0,56,1,1,sequence_634,4.0,1,11.0,1,53.0,1,118.0,118.0,False,False,False,False,10.0,0,0,0,0
+635,635.0,635,address_278,school_A,Grundskole,workplace_B,1,1,2021-01-26,2,26,1,1,sequence_635,,0,7.0,1,,0,281.0,281.0,False,False,False,False,8.0,1,0,1,0
+636,636.0,636,address_19,nan,nan,nan,1,1,2021-01-01,6,57,1,1,sequence_636,3.0,1,59.0,1,,0,,,,,,,,0,0,0,0
+637,637.0,637,address_138,school_A,Grundskole,nan,1,1,2021-01-05,2,58,1,1,sequence_637,,0,,0,,0,11.0,11.0,False,False,True,False,1.0,1,0,0,0
+638,638.0,638,address_307,nan,nan,nan,1,1,2021-01-05,1,28,1,1,sequence_638,,0,,0,,0,530.0,530.0,False,False,False,False,3.0,0,0,0,0
+639,639.0,639,address_139,nan,nan,nan,1,1,2021-01-28,0,37,1,1,sequence_639,50.0,1,12.0,1,,0,811.0,811.0,False,False,False,False,8.0,0,0,0,0
+640,640.0,640,address_18,nan,nan,workplace_C,1,1,2021-01-15,3,7,1,1,sequence_640,57.0,1,2.0,1,13.0,1,208.0,208.0,False,True,False,False,11.0,0,0,1,0
+641,641.0,641,address_200,nan,nan,workplace_A,1,1,2021-01-19,2,23,1,1,sequence_641,,0,,0,,0,838.0,838.0,True,False,False,False,5.0,0,0,1,1
+642,642.0,642,address_85,nan,nan,nan,1,1,2021-01-24,1,6,1,1,sequence_642,,0,6.0,1,,0,408.0,408.0,False,False,False,False,7.0,0,0,0,0
+643,643.0,643,address_194,nan,nan,workplace_B,1,1,2021-01-27,0,71,1,1,sequence_643,,0,,0,,0,316.0,316.0,False,True,False,False,10.0,0,0,0,0
+644,644.0,644,address_276,school_A,Grundskole,nan,1,1,2021-01-10,2,43,1,1,sequence_644,,0,,0,,0,228.0,228.0,False,False,True,False,2.0,1,0,0,0
+645,645.0,645,address_10,nan,nan,nan,1,1,2021-01-15,0,29,1,1,sequence_645,17.0,1,24.0,1,39.0,1,218.0,218.0,False,False,False,False,11.0,0,0,0,0
+646,646.0,646,address_189,nan,nan,nan,1,1,2021-01-28,2,16,1,1,sequence_646,,0,,0,,0,187.0,187.0,False,False,False,False,9.0,0,0,0,2
+647,647.0,647,address_8,nan,nan,nan,1,1,2021-01-02,4,56,1,1,sequence_647,,0,4.0,1,,0,219.0,219.0,False,False,False,False,1.0,0,0,0,0
+648,648.0,648,address_240,nan,nan,workplace_A,1,1,2021-01-29,0,56,1,1,sequence_648,41.0,1,19.0,1,11.0,1,529.0,529.0,False,True,False,False,9.0,0,0,0,0
+649,649.0,649,address_322,nan,nan,workplace_C,1,1,2021-01-18,0,71,1,1,sequence_649,,0,,0,,0,395.0,395.0,False,True,False,False,7.0,0,0,0,0
+650,650.0,650,address_147,nan,nan,nan,1,1,2021-01-17,0,13,1,1,sequence_650,,0,31.0,1,,0,424.0,424.0,False,False,False,False,8.0,0,0,0,0
+651,651.0,651,address_47,nan,nan,nan,1,1,2021-01-09,1,43,1,1,sequence_651,,0,2.0,1,,0,205.0,205.0,False,False,False,False,5.0,0,0,0,0
+652,652.0,652,address_269,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-06,2,77,1,1,sequence_652,,0,2.0,1,,0,78.0,78.0,False,False,False,False,4.0,0,0,0,0
+653,653.0,653,address_66,nan,nan,workplace_A,1,1,2021-01-20,3,58,1,1,sequence_653,,0,22.0,1,,0,361.0,361.0,False,True,False,False,2.0,0,0,3,0
+654,654.0,654,address_22,nan,nan,nan,1,1,2021-01-10,0,27,1,1,sequence_654,,0,,0,,0,910.0,910.0,False,False,False,False,7.0,0,0,0,0
+655,655.0,655,address_220,nan,nan,nan,1,1,2021-01-11,1,72,1,1,sequence_655,16.0,1,47.0,1,31.0,1,380.0,380.0,False,False,False,False,7.0,0,0,0,1
+656,656.0,656,address_2,school_B,Gymnasiale uddannelse,workplace_C,1,1,2021-01-09,1,67,1,1,sequence_656,48.0,1,27.0,1,0.0,1,77.0,77.0,False,True,False,False,2.0,0,0,1,0
+657,657.0,657,address_90,nan,nan,nan,1,1,2021-01-23,1,25,1,1,sequence_657,,0,37.0,1,,0,288.0,288.0,False,False,False,False,5.0,0,0,0,1
+658,658.0,658,address_157,nan,nan,nan,1,1,2021-01-21,0,35,1,1,sequence_658,37.0,1,57.0,1,7.0,1,118.0,118.0,False,False,False,False,6.0,0,0,0,0
+659,659.0,659,address_306,nan,nan,workplace_A,1,1,2021-01-29,0,48,1,1,sequence_659,,0,17.0,1,,0,49.0,49.0,False,True,False,False,6.0,0,0,0,0
+660,660.0,660,address_251,nan,nan,nan,1,1,2021-01-20,0,38,1,1,sequence_660,52.0,1,11.0,1,54.0,1,21.0,21.0,True,False,False,False,6.0,0,0,0,0
+661,661.0,661,address_101,nan,nan,nan,1,1,2021-01-28,0,14,1,1,sequence_661,51.0,1,43.0,1,43.0,1,642.0,642.0,False,False,False,False,4.0,0,0,0,0
+662,662.0,662,address_187,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-22,0,5,1,1,sequence_662,19.0,1,45.0,1,36.0,1,144.0,144.0,False,False,False,False,8.0,0,0,0,0
+663,663.0,663,address_138,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-24,0,20,1,1,sequence_663,47.0,1,4.0,1,36.0,1,525.0,525.0,False,False,False,True,5.0,0,0,0,0
+664,664.0,664,address_100,nan,nan,workplace_A,1,1,2021-01-13,1,14,1,1,sequence_664,,0,,0,,0,813.0,813.0,False,True,False,False,7.0,0,0,1,0
+665,665.0,665,address_307,nan,nan,nan,1,1,2021-01-23,0,42,1,1,sequence_665,19.0,1,38.0,1,55.0,1,101.0,101.0,False,False,False,False,10.0,0,0,0,0
+666,666.0,666,address_69,nan,nan,workplace_B,1,1,2021-01-25,1,57,1,1,sequence_666,,0,,0,,0,899.0,899.0,False,True,False,False,9.0,0,1,0,0
+667,667.0,667,address_152,nan,nan,nan,1,1,2021-01-09,2,78,1,1,sequence_667,25.0,1,40.0,1,57.0,1,411.0,411.0,False,False,False,True,2.0,0,0,0,0
+668,668.0,668,address_133,nan,nan,nan,1,1,2021-01-14,1,33,1,1,sequence_668,,0,,0,,0,858.0,858.0,False,False,False,False,5.0,0,0,0,0
+669,669.0,669,address_163,nan,nan,nan,1,1,2021-01-20,0,17,1,1,sequence_669,40.0,1,12.0,1,30.0,1,141.0,141.0,False,False,False,False,10.0,0,0,0,0
+670,670.0,670,address_301,nan,nan,workplace_C,1,1,2021-01-22,1,22,1,1,sequence_670,,0,15.0,1,,0,282.0,282.0,False,True,False,False,7.0,0,0,0,0
+671,671.0,671,address_310,nan,nan,nan,1,1,2021-01-09,0,19,1,1,sequence_671,,0,,0,,0,556.0,556.0,False,False,False,False,5.0,0,0,0,0
+672,672.0,672,address_97,nan,nan,nan,1,1,2021-01-01,4,58,1,1,sequence_672,5.0,1,13.0,1,,0,,,,,,,,0,0,0,0
+673,673.0,673,address_225,nan,nan,nan,1,1,2021-01-10,1,47,1,1,sequence_673,38.0,1,35.0,1,,0,210.0,210.0,False,False,False,False,8.0,0,0,0,0
+674,674.0,674,address_314,nan,nan,nan,1,1,2021-01-28,1,44,1,1,sequence_674,,0,,0,,0,657.0,657.0,False,False,False,True,5.0,0,0,0,1
+675,675.0,675,address_126,nan,nan,workplace_A,1,1,2021-01-01,6,22,1,1,sequence_675,,0,6.0,1,,0,,,,,,,,0,0,1,0
+676,676.0,676,address_154,nan,nan,nan,1,1,2021-01-06,1,44,1,1,sequence_676,11.0,1,53.0,1,55.0,1,479.0,479.0,True,False,False,False,2.0,0,0,0,0
+677,677.0,677,address_215,school_A,Grundskole,workplace_B,1,1,2021-01-04,1,39,1,1,sequence_677,13.0,1,13.0,1,24.0,1,76.0,76.0,False,True,False,False,3.0,0,0,0,0
+678,678.0,678,address_270,nan,nan,workplace_C,1,1,2021-01-24,0,48,1,1,sequence_678,,0,34.0,1,,0,795.0,795.0,False,True,False,False,6.0,0,0,0,0
+679,679.0,679,address_179,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-22,1,41,1,1,sequence_679,,0,,0,,0,181.0,181.0,False,False,False,False,5.0,0,0,0,0
+680,680.0,680,address_84,nan,nan,workplace_B,1,1,2021-01-08,5,12,1,1,sequence_680,,0,,0,,0,478.0,478.0,False,True,False,False,4.0,0,1,2,0
+681,681.0,681,address_239,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-08,1,46,1,1,sequence_681,,0,,0,,0,891.0,891.0,False,False,False,False,5.0,0,1,0,0
+682,682.0,682,address_17,nan,nan,nan,1,1,2021-01-08,0,75,1,1,sequence_682,,0,,0,,0,224.0,224.0,False,False,False,False,5.0,0,0,0,0
+683,683.0,683,address_295,nan,nan,nan,1,1,2021-01-29,0,51,1,1,sequence_683,,0,,0,,0,692.0,692.0,False,False,False,False,7.0,0,0,0,0
+684,684.0,684,address_176,nan,nan,nan,1,1,2021-01-29,0,67,1,1,sequence_684,0.0,1,40.0,1,0.0,1,163.0,163.0,False,False,False,False,11.0,0,0,0,0
+685,685.0,685,address_222,nan,nan,nan,1,1,2021-01-23,2,32,1,1,sequence_685,19.0,1,42.0,1,8.0,1,618.0,618.0,False,False,False,False,4.0,0,0,0,1
+686,686.0,686,address_280,nan,nan,nan,1,1,2021-01-21,1,45,1,1,sequence_686,32.0,1,25.0,1,37.0,1,316.0,316.0,False,False,False,True,4.0,0,1,0,0
+687,687.0,687,address_69,nan,nan,nan,1,1,2021-01-30,0,44,1,1,sequence_687,,0,58.0,1,,0,666.0,666.0,True,False,False,False,5.0,0,0,0,0
+688,688.0,688,address_138,school_B,Gymnasiale uddannelse,workplace_C,1,1,2021-01-17,2,74,1,1,sequence_688,,0,,0,,0,395.0,395.0,False,True,False,False,6.0,0,0,0,1
+689,689.0,689,address_313,nan,nan,nan,1,1,2021-01-07,0,67,1,1,sequence_689,18.0,1,11.0,1,,0,305.0,305.0,False,False,False,False,6.0,0,0,0,0
+690,690.0,690,address_163,nan,nan,nan,1,1,2021-01-01,2,41,1,1,sequence_690,47.0,1,57.0,1,,0,,,,,,,,0,0,0,0
+691,691.0,691,address_280,nan,nan,workplace_C,1,1,2021-01-16,0,44,1,1,sequence_691,37.0,1,4.0,1,,0,320.0,320.0,True,False,False,False,2.0,0,0,0,0
+692,692.0,692,address_171,nan,nan,nan,1,1,2021-01-22,2,66,1,1,sequence_692,20.0,1,55.0,1,20.0,1,640.0,640.0,False,False,False,False,7.0,0,0,0,0
+693,693.0,693,address_3,school_A,Grundskole,workplace_C,1,1,2021-01-20,6,25,1,1,sequence_693,51.0,1,55.0,1,5.0,1,268.0,268.0,False,True,False,False,2.0,2,1,0,0
+694,694.0,694,address_0,nan,nan,nan,1,1,2021-01-09,2,17,1,1,sequence_694,26.0,1,23.0,1,57.0,1,495.0,495.0,False,False,False,False,8.0,0,0,0,0
+695,695.0,695,address_131,nan,nan,nan,1,1,2021-01-06,0,42,1,1,sequence_695,44.0,1,14.0,1,35.0,1,305.0,305.0,False,False,False,False,5.0,0,0,0,0
+696,696.0,696,address_149,nan,nan,nan,1,1,2021-01-07,2,66,1,1,sequence_696,,0,42.0,1,,0,916.0,916.0,False,False,False,False,5.0,0,0,0,0
+697,697.0,697,address_0,nan,nan,nan,1,1,2021-01-08,0,45,1,1,sequence_697,55.0,1,56.0,1,10.0,1,981.0,981.0,False,False,False,False,7.0,0,0,0,0
+698,698.0,698,address_167,nan,nan,nan,1,1,2021-01-18,0,33,1,1,sequence_698,8.0,1,10.0,1,,0,517.0,517.0,False,False,False,False,7.0,0,0,0,0
+699,699.0,699,address_322,nan,nan,nan,1,1,2021-01-28,0,0,1,1,sequence_699,35.0,1,25.0,1,35.0,1,924.0,924.0,False,False,False,False,4.0,0,0,0,0
+700,700.0,700,address_53,nan,nan,nan,1,1,2021-01-12,1,24,1,1,sequence_700,,0,,0,,0,242.0,242.0,False,False,False,False,11.0,0,0,0,0
+701,701.0,701,address_243,nan,nan,nan,1,1,2021-01-22,0,11,1,1,sequence_701,,0,43.0,1,,0,281.0,281.0,False,False,False,False,4.0,0,0,0,0
+702,702.0,702,address_239,nan,nan,workplace_A,1,1,2021-01-25,0,35,1,1,sequence_702,20.0,1,8.0,1,42.0,1,148.0,148.0,False,True,False,False,3.0,0,0,0,0
+703,703.0,703,address_47,nan,nan,nan,1,1,2021-01-23,0,47,1,1,sequence_703,1.0,1,47.0,1,29.0,1,525.0,525.0,False,False,False,False,4.0,0,0,0,0
+704,704.0,704,address_48,school_A,Grundskole,nan,1,1,2021-01-23,0,21,1,1,sequence_704,,0,,0,,0,693.0,693.0,False,False,True,False,3.0,0,0,0,0
+705,705.0,705,address_123,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-27,0,48,1,1,sequence_705,,0,31.0,1,,0,786.0,786.0,False,False,False,False,6.0,0,0,0,0
+706,706.0,706,address_317,nan,nan,workplace_A,1,1,2021-01-28,0,62,1,1,sequence_706,5.0,1,7.0,1,11.0,1,797.0,797.0,False,True,False,False,5.0,0,0,0,0
+707,707.0,707,address_57,nan,nan,nan,1,1,2021-01-09,0,18,1,1,sequence_707,,0,,0,,0,237.0,237.0,False,False,False,False,6.0,0,0,0,0
+708,708.0,708,address_288,nan,nan,workplace_A,1,1,2021-01-20,0,43,1,1,sequence_708,,0,46.0,1,,0,877.0,877.0,False,True,False,False,10.0,0,0,0,0
+709,709.0,709,address_252,nan,nan,nan,1,1,2021-01-18,1,69,1,1,sequence_709,24.0,1,46.0,1,37.0,1,106.0,106.0,False,False,False,False,9.0,0,1,0,0
+710,710.0,710,address_318,nan,nan,workplace_C,1,1,2021-01-19,1,56,1,1,sequence_710,30.0,1,38.0,1,,0,231.0,231.0,False,True,False,False,5.0,0,0,1,0
+711,711.0,711,address_278,nan,nan,nan,1,1,2021-01-12,3,57,1,1,sequence_711,,0,22.0,1,,0,267.0,267.0,False,False,False,False,6.0,0,0,0,0
+712,712.0,712,address_263,nan,nan,workplace_C,1,1,2021-01-07,0,6,1,1,sequence_712,,0,,0,,0,916.0,916.0,True,False,False,False,5.0,0,0,0,0
+713,713.0,713,address_59,school_A,Grundskole,nan,1,1,2021-01-04,0,28,1,1,sequence_713,,0,,0,,0,997.0,997.0,False,False,True,False,2.0,0,0,0,0
+714,714.0,714,address_242,nan,nan,workplace_A,1,1,2021-01-23,0,72,1,1,sequence_714,20.0,1,17.0,1,7.0,1,488.0,488.0,False,True,False,False,4.0,0,0,0,0
+715,715.0,715,address_262,nan,nan,nan,1,1,2021-01-16,1,38,1,1,sequence_715,,0,1.0,1,,0,79.0,79.0,False,False,False,False,10.0,0,0,0,0
+716,716.0,716,address_246,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-22,0,45,1,1,sequence_716,58.0,1,59.0,1,,0,307.0,307.0,False,False,False,False,5.0,0,0,0,0
+717,717.0,717,address_58,nan,nan,nan,1,1,2021-01-09,0,35,1,1,sequence_717,,0,,0,,0,52.0,52.0,False,False,False,False,3.0,0,0,0,0
+718,718.0,718,address_42,nan,nan,nan,1,1,2021-01-04,1,44,1,1,sequence_718,0.0,1,43.0,1,27.0,1,103.0,103.0,False,False,False,False,3.0,0,0,0,0
+719,719.0,719,address_98,nan,nan,nan,1,1,2021-01-30,0,57,1,1,sequence_719,,0,25.0,1,,0,890.0,890.0,False,False,False,False,6.0,0,0,0,0
+720,720.0,720,address_65,nan,nan,workplace_A,1,1,2021-01-27,0,21,1,1,sequence_720,,0,52.0,1,,0,102.0,102.0,False,True,False,False,8.0,0,0,0,0
+721,721.0,721,address_177,nan,nan,workplace_B,1,1,2021-01-05,3,32,1,1,sequence_721,,0,48.0,1,,0,249.0,249.0,False,False,False,False,3.0,0,0,1,0
+722,722.0,722,address_287,nan,nan,nan,1,1,2021-01-26,0,28,1,1,sequence_722,50.0,1,21.0,1,41.0,1,313.0,313.0,False,False,False,True,4.0,0,0,0,0
+723,723.0,723,address_115,nan,nan,nan,1,1,2021-01-08,1,53,1,1,sequence_723,58.0,1,46.0,1,49.0,1,418.0,418.0,False,False,False,False,5.0,0,0,0,0
+724,724.0,724,address_109,nan,nan,nan,1,1,2021-01-21,0,7,1,1,sequence_724,49.0,1,23.0,1,8.0,1,58.0,58.0,False,False,False,True,8.0,0,0,0,0
+725,725.0,725,address_24,school_C,Gymnasiale uddannelse,workplace_A,1,1,2021-01-04,1,39,1,1,sequence_725,5.0,1,6.0,1,50.0,1,496.0,496.0,False,False,False,False,3.0,0,0,1,0
+726,726.0,726,address_259,nan,nan,nan,1,1,2021-01-17,1,37,1,1,sequence_726,20.0,1,14.0,1,,0,922.0,922.0,False,False,False,False,7.0,0,0,0,0
+727,727.0,727,address_121,school_A,Grundskole,nan,1,1,2021-01-14,2,7,1,1,sequence_727,,0,54.0,1,,0,259.0,259.0,False,False,True,False,6.0,2,0,0,0
+728,728.0,728,address_69,nan,nan,workplace_B,1,1,2021-01-19,3,66,1,1,sequence_728,,0,27.0,1,,0,145.0,145.0,False,True,False,False,9.0,0,0,3,0
+729,729.0,729,address_100,nan,nan,nan,1,1,2021-01-07,0,48,1,1,sequence_729,,0,,0,,0,380.0,380.0,False,False,False,False,3.0,0,0,0,0
+730,730.0,730,address_303,nan,nan,nan,1,1,2021-01-03,1,29,1,1,sequence_730,52.0,1,38.0,1,0.0,1,103.0,103.0,False,False,False,False,2.0,0,0,0,0
+731,731.0,731,address_46,nan,nan,workplace_A,1,1,2021-01-23,0,52,1,1,sequence_731,,0,42.0,1,,0,793.0,793.0,False,True,False,False,5.0,0,0,0,0
+732,732.0,732,address_153,nan,nan,workplace_B,1,1,2021-01-16,2,36,1,1,sequence_732,49.0,1,32.0,1,56.0,1,680.0,680.0,False,True,False,False,8.0,0,0,1,0
+733,733.0,733,address_267,nan,nan,nan,1,1,2021-01-07,0,14,1,1,sequence_733,,0,47.0,1,,0,31.0,31.0,False,False,False,False,5.0,0,0,0,0
+734,734.0,734,address_85,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-02,3,39,1,1,sequence_734,13.0,1,35.0,1,44.0,1,360.0,360.0,False,False,False,False,1.0,0,0,0,0
+735,735.0,735,address_297,nan,nan,nan,1,1,2021-01-28,0,66,1,1,sequence_735,,0,48.0,1,,0,49.0,49.0,False,False,False,False,5.0,0,0,0,0
+736,736.0,736,address_194,nan,nan,workplace_B,1,1,2021-01-06,1,51,1,1,sequence_736,,0,49.0,1,,0,199.0,199.0,False,True,False,False,5.0,0,0,1,0
+737,737.0,737,address_5,nan,nan,nan,1,1,2021-01-08,3,77,1,1,sequence_737,58.0,1,39.0,1,24.0,1,205.0,205.0,False,False,False,False,4.0,0,1,0,0
+738,738.0,738,address_245,nan,nan,nan,1,1,2021-01-16,0,26,1,1,sequence_738,,0,,0,,0,105.0,105.0,False,False,False,False,8.0,0,0,0,0
+739,739.0,739,address_37,nan,nan,nan,1,1,2021-01-08,0,53,1,1,sequence_739,36.0,1,17.0,1,25.0,1,78.0,78.0,False,False,False,False,6.0,0,0,0,0
+740,740.0,740,address_12,nan,nan,workplace_A,1,1,2021-01-17,3,33,1,1,sequence_740,,0,45.0,1,,0,234.0,234.0,False,True,False,False,11.0,0,0,3,0
+741,741.0,741,address_189,nan,nan,nan,1,1,2021-01-19,0,50,1,1,sequence_741,,0,,0,,0,21.0,21.0,False,False,False,False,5.0,0,0,0,0
+742,742.0,742,address_151,school_A,Grundskole,nan,1,1,2021-01-04,0,64,1,1,sequence_742,42.0,1,47.0,1,,0,160.0,160.0,False,False,False,False,3.0,0,0,0,0
+743,743.0,743,address_144,school_A,Grundskole,nan,1,1,2021-01-28,0,76,1,1,sequence_743,2.0,1,5.0,1,38.0,1,786.0,786.0,False,False,True,False,7.0,0,0,0,0
+744,744.0,744,address_157,nan,nan,nan,1,1,2021-01-23,0,22,1,1,sequence_744,58.0,1,59.0,1,,0,613.0,613.0,False,False,False,False,5.0,0,0,0,0
+745,745.0,745,address_274,nan,nan,nan,1,1,2021-01-31,0,2,1,1,sequence_745,,0,,0,,0,747.0,747.0,False,False,False,False,7.0,0,0,0,0
+746,746.0,746,address_127,nan,nan,nan,1,1,2021-01-14,1,1,1,1,sequence_746,3.0,1,33.0,1,32.0,1,637.0,637.0,False,False,False,False,9.0,0,0,0,0
+747,747.0,747,address_271,nan,nan,nan,1,1,2021-01-24,1,76,1,1,sequence_747,,0,,0,,0,99.0,99.0,False,False,False,False,7.0,0,0,0,0
+748,748.0,748,address_159,nan,nan,nan,1,1,2021-01-04,1,39,1,1,sequence_748,57.0,1,14.0,1,53.0,1,219.0,219.0,False,False,False,False,3.0,0,1,0,0
+749,749.0,749,address_79,school_A,Grundskole,nan,1,1,2021-01-20,4,43,1,1,sequence_749,,0,,0,,0,269.0,269.0,False,False,True,False,8.0,3,0,0,0
+750,750.0,750,address_131,nan,nan,nan,1,1,2021-01-08,2,24,1,1,sequence_750,,0,,0,,0,866.0,866.0,False,False,False,True,6.0,0,0,0,0
+751,751.0,751,address_186,nan,nan,workplace_B,1,1,2021-01-16,2,62,1,1,sequence_751,38.0,1,30.0,1,,0,289.0,289.0,False,True,False,False,5.0,0,0,2,0
+752,752.0,752,address_257,nan,nan,workplace_C,1,1,2021-01-24,0,73,1,1,sequence_752,,0,48.0,1,,0,640.0,640.0,False,True,False,False,9.0,0,0,0,0
+753,753.0,753,address_185,nan,nan,nan,1,1,2021-01-25,0,22,1,1,sequence_753,,0,,0,,0,386.0,386.0,False,False,False,False,7.0,0,0,0,0
+754,754.0,754,address_73,nan,nan,nan,1,1,2021-01-06,0,1,1,1,sequence_754,39.0,1,53.0,1,6.0,1,675.0,675.0,False,False,False,False,5.0,0,0,0,0
+755,755.0,755,address_328,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-27,0,59,1,1,sequence_755,26.0,1,7.0,1,49.0,1,10.0,10.0,False,False,False,False,5.0,0,0,0,0
+756,756.0,756,address_48,nan,nan,nan,1,1,2021-01-26,0,43,1,1,sequence_756,6.0,1,16.0,1,27.0,1,559.0,559.0,False,False,False,True,4.0,0,0,0,0
+757,757.0,757,address_56,nan,nan,nan,1,1,2021-01-14,1,36,1,1,sequence_757,,0,25.0,1,,0,33.0,33.0,False,False,False,False,9.0,0,0,0,0
+758,758.0,758,address_300,school_B,Gymnasiale uddannelse,workplace_A,1,1,2021-01-31,0,50,1,1,sequence_758,41.0,1,56.0,1,,0,797.0,797.0,False,True,False,False,8.0,0,0,0,0
+759,759.0,759,address_79,nan,nan,nan,1,1,2021-01-05,1,4,1,1,sequence_759,,0,51.0,1,,0,866.0,866.0,False,False,False,False,3.0,0,1,0,0
+760,760.0,760,address_86,nan,nan,nan,1,1,2021-01-20,0,7,1,1,sequence_760,13.0,1,54.0,1,11.0,1,502.0,502.0,False,False,False,False,10.0,0,0,0,0
+761,761.0,761,address_116,nan,nan,nan,1,1,2021-01-09,0,25,1,1,sequence_761,47.0,1,37.0,1,5.0,1,169.0,169.0,False,False,False,False,5.0,0,0,0,0
+762,762.0,762,address_51,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-20,0,32,1,1,sequence_762,30.0,1,51.0,1,,0,893.0,893.0,False,False,False,False,3.0,0,0,0,0
+763,763.0,763,address_5,nan,nan,nan,1,1,2021-01-21,2,43,1,1,sequence_763,,0,,0,,0,282.0,282.0,False,False,False,False,6.0,0,0,0,0
+764,764.0,764,address_220,nan,nan,nan,1,1,2021-01-09,2,69,1,1,sequence_764,56.0,1,21.0,1,47.0,1,107.0,107.0,False,False,False,False,8.0,0,0,0,0
+765,765.0,765,address_148,nan,nan,nan,1,1,2021-01-22,0,12,1,1,sequence_765,44.0,1,42.0,1,34.0,1,188.0,188.0,False,False,False,False,8.0,0,0,0,0
+766,766.0,766,address_137,nan,nan,nan,1,1,2021-01-06,0,74,1,1,sequence_766,,0,9.0,1,,0,196.0,196.0,False,False,False,False,4.0,0,0,0,0
+767,767.0,767,address_222,nan,nan,workplace_C,1,1,2021-01-26,3,45,1,1,sequence_767,24.0,1,57.0,1,24.0,1,977.0,977.0,False,True,False,False,2.0,0,0,3,0
+768,768.0,768,address_219,nan,nan,nan,1,1,2021-01-28,0,48,1,1,sequence_768,,0,38.0,1,,0,685.0,685.0,False,False,False,False,5.0,0,0,0,0
+769,769.0,769,address_67,nan,nan,nan,1,1,2021-01-09,0,54,1,1,sequence_769,10.0,1,23.0,1,,0,460.0,460.0,False,False,False,False,7.0,0,0,0,0
+770,770.0,770,address_286,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-02,2,61,1,1,sequence_770,9.0,1,21.0,1,14.0,1,636.0,636.0,False,False,False,False,1.0,0,0,0,0
+771,771.0,771,address_8,school_A,Grundskole,nan,1,1,2021-01-18,1,67,1,1,sequence_771,,0,,0,,0,644.0,644.0,False,False,True,False,8.0,1,0,0,0
+772,772.0,772,address_115,nan,nan,nan,1,1,2021-01-27,0,7,1,1,sequence_772,,0,,0,,0,439.0,439.0,False,False,False,False,4.0,0,0,0,0
+773,773.0,773,address_304,nan,nan,nan,1,1,2021-01-21,2,47,1,1,sequence_773,,0,,0,,0,488.0,488.0,False,False,False,True,2.0,0,0,0,0
+774,774.0,774,address_218,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-11,2,19,1,1,sequence_774,,0,,0,,0,737.0,737.0,False,False,False,False,3.0,0,1,0,0
+775,775.0,775,address_51,nan,nan,nan,1,1,2021-01-04,1,15,1,1,sequence_775,,0,,0,,0,866.0,866.0,False,False,False,False,2.0,0,1,0,0
+776,776.0,776,address_115,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-05,0,16,1,1,sequence_776,,0,18.0,1,,0,789.0,789.0,False,False,False,False,4.0,0,0,0,0
+777,777.0,777,address_214,nan,nan,workplace_C,1,1,2021-01-06,1,16,1,1,sequence_777,55.0,1,26.0,1,,0,563.0,563.0,False,True,False,False,2.0,0,0,1,0
+778,778.0,778,address_59,nan,nan,nan,1,1,2021-01-15,2,13,1,1,sequence_778,,0,23.0,1,,0,232.0,232.0,False,False,False,False,8.0,0,0,0,0
+779,779.0,779,address_75,nan,nan,nan,1,1,2021-01-19,0,50,1,1,sequence_779,,0,,0,,0,477.0,477.0,False,False,False,False,7.0,0,0,0,0
+780,780.0,780,address_16,nan,nan,nan,1,1,2021-01-22,0,33,1,1,sequence_780,,0,45.0,1,,0,590.0,590.0,False,False,False,False,6.0,0,0,0,0
+781,781.0,781,address_115,nan,nan,nan,1,1,2021-01-02,2,79,1,1,sequence_781,39.0,1,11.0,1,,0,496.0,496.0,False,False,False,False,1.0,0,0,0,0
+782,782.0,782,address_239,nan,nan,workplace_A,1,1,2021-01-27,0,34,1,1,sequence_782,,0,,0,,0,959.0,959.0,False,True,False,False,5.0,0,0,0,0
+783,783.0,783,address_240,nan,nan,nan,1,1,2021-01-08,0,44,1,1,sequence_783,,0,31.0,1,,0,78.0,78.0,False,False,False,False,6.0,0,0,0,0
+784,784.0,784,address_332,school_C,Gymnasiale uddannelse,workplace_B,1,1,2021-01-22,0,54,1,1,sequence_784,,0,16.0,1,,0,728.0,728.0,False,True,False,False,3.0,0,0,0,0
+785,785.0,785,address_9,nan,nan,workplace_A,1,1,2021-01-13,1,14,1,1,sequence_785,55.0,1,32.0,1,42.0,1,877.0,877.0,False,True,False,False,3.0,0,0,1,0
+786,786.0,786,address_320,school_A,Grundskole,workplace_C,1,1,2021-01-21,2,66,1,1,sequence_786,21.0,1,26.0,1,21.0,1,231.0,231.0,False,True,False,False,7.0,1,0,0,0
+787,787.0,787,address_148,nan,nan,nan,1,1,2021-01-30,0,8,1,1,sequence_787,,0,,0,,0,763.0,763.0,False,False,False,False,9.0,0,0,0,0
+788,788.0,788,address_162,nan,nan,workplace_C,1,1,2021-01-02,5,70,1,1,sequence_788,32.0,1,59.0,1,,0,675.0,675.0,False,False,False,False,1.0,0,0,2,0
+789,789.0,789,address_154,nan,nan,nan,1,1,2021-01-01,3,65,1,1,sequence_789,18.0,1,28.0,1,,0,,,,,,,,0,0,0,0
+790,790.0,790,address_126,nan,nan,workplace_B,1,1,2021-01-30,0,63,1,1,sequence_790,17.0,1,44.0,1,44.0,1,728.0,728.0,False,True,False,False,11.0,0,0,0,0
+791,791.0,791,address_199,nan,nan,nan,1,1,2021-01-28,0,73,1,1,sequence_791,6.0,1,36.0,1,31.0,1,977.0,977.0,False,False,False,False,4.0,0,0,0,0
+792,792.0,792,address_49,nan,nan,nan,1,1,2021-01-25,0,6,1,1,sequence_792,,0,,0,,0,266.0,266.0,True,False,False,False,6.0,0,0,0,0
+793,793.0,793,address_94,nan,nan,workplace_A,1,1,2021-01-18,2,44,1,1,sequence_793,41.0,1,16.0,1,0.0,1,785.0,785.0,False,True,False,False,5.0,0,0,2,0
+794,794.0,794,address_226,nan,nan,nan,1,1,2021-01-10,1,47,1,1,sequence_794,,0,58.0,1,,0,355.0,355.0,False,False,False,True,3.0,0,0,0,0
+795,795.0,795,address_92,nan,nan,workplace_C,1,1,2021-01-18,1,11,1,1,sequence_795,38.0,1,56.0,1,11.0,1,231.0,231.0,False,True,False,False,4.0,0,0,1,0
+796,796.0,796,address_205,nan,nan,nan,1,1,2021-01-22,0,5,1,1,sequence_796,22.0,1,48.0,1,55.0,1,899.0,899.0,False,False,False,False,6.0,0,0,0,0
+797,797.0,797,address_204,nan,nan,workplace_A,1,1,2021-01-23,3,52,1,1,sequence_797,17.0,1,6.0,1,0.0,1,50.0,50.0,False,True,False,False,3.0,0,0,2,1
+798,798.0,798,address_82,nan,nan,nan,1,1,2021-01-23,0,13,1,1,sequence_798,,0,,0,,0,72.0,72.0,False,False,False,False,5.0,0,0,0,0
+799,799.0,799,address_178,nan,nan,workplace_B,1,1,2021-01-05,1,39,1,1,sequence_799,,0,,0,,0,140.0,140.0,False,False,False,False,3.0,0,0,1,0
+800,800.0,800,address_43,nan,nan,nan,1,1,2021-01-03,0,10,1,1,sequence_800,,0,24.0,1,,0,943.0,943.0,False,False,False,False,2.0,0,0,0,0
+801,801.0,801,address_97,nan,nan,nan,1,1,2021-01-12,0,36,1,1,sequence_801,,0,,0,,0,23.0,23.0,False,False,False,False,8.0,0,0,0,0
+802,802.0,802,address_223,nan,nan,nan,1,1,2021-01-04,0,28,1,1,sequence_802,,0,11.0,1,,0,432.0,432.0,False,False,False,False,3.0,0,0,0,0
+803,803.0,803,address_141,nan,nan,workplace_A,1,1,2021-01-23,1,15,1,1,sequence_803,42.0,1,10.0,1,46.0,1,653.0,653.0,False,True,False,False,3.0,0,0,0,1
+804,804.0,804,address_313,nan,nan,nan,1,1,2021-01-07,1,44,1,1,sequence_804,39.0,1,9.0,1,,0,440.0,440.0,False,False,False,False,6.0,0,1,0,0
+805,805.0,805,address_101,nan,nan,nan,1,1,2021-01-01,5,27,1,1,sequence_805,,0,,0,,0,,,,,,,,0,0,0,0
+806,806.0,806,address_45,school_B,Gymnasiale uddannelse,workplace_C,1,1,2021-01-28,0,60,1,1,sequence_806,28.0,1,17.0,1,21.0,1,268.0,268.0,False,True,False,False,10.0,0,0,0,0
+807,807.0,807,address_143,school_A,Grundskole,nan,1,1,2021-01-04,2,39,1,1,sequence_807,14.0,1,41.0,1,,0,199.0,199.0,False,False,False,False,3.0,2,0,0,0
+808,808.0,808,address_7,nan,nan,nan,1,1,2021-01-11,1,51,1,1,sequence_808,,0,57.0,1,,0,319.0,319.0,False,False,False,True,3.0,0,0,0,0
+809,809.0,809,address_176,nan,nan,nan,1,1,2021-01-24,0,53,1,1,sequence_809,,0,,0,,0,955.0,955.0,False,False,False,False,5.0,0,0,0,0
+810,810.0,810,address_321,nan,nan,workplace_A,1,1,2021-01-29,0,20,1,1,sequence_810,21.0,1,24.0,1,52.0,1,641.0,641.0,False,True,False,False,10.0,0,0,0,0
+811,811.0,811,address_289,nan,nan,workplace_C,1,1,2021-01-20,1,37,1,1,sequence_811,,0,,0,,0,710.0,710.0,False,True,False,False,1.0,0,0,0,0
+812,812.0,812,address_158,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-26,0,23,1,1,sequence_812,,0,40.0,1,,0,112.0,112.0,False,False,False,True,7.0,0,0,0,0
+813,813.0,813,address_147,nan,nan,workplace_A,1,1,2021-01-06,1,19,1,1,sequence_813,17.0,1,15.0,1,48.0,1,312.0,312.0,False,True,False,False,3.0,0,0,1,0
+814,814.0,814,address_21,nan,nan,nan,1,1,2021-01-01,5,76,1,1,sequence_814,,0,57.0,1,,0,,,,,,,,0,0,0,1
+815,815.0,815,address_164,nan,nan,workplace_A,1,1,2021-01-04,1,11,1,1,sequence_815,,0,21.0,1,,0,555.0,555.0,False,True,False,False,2.0,0,1,0,0
+816,816.0,816,address_27,nan,nan,nan,1,1,2021-01-19,0,44,1,1,sequence_816,,0,,0,,0,298.0,298.0,False,False,False,False,9.0,0,0,0,0
+817,817.0,817,address_52,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-05,1,43,1,1,sequence_817,18.0,1,58.0,1,20.0,1,103.0,103.0,False,False,False,False,4.0,0,0,0,0
+818,818.0,818,address_287,nan,nan,nan,1,1,2021-01-11,0,39,1,1,sequence_818,,0,,0,,0,923.0,923.0,False,False,False,False,9.0,0,0,0,0
+819,819.0,819,address_44,nan,nan,nan,1,1,2021-01-19,1,55,1,1,sequence_819,46.0,1,21.0,1,15.0,1,498.0,498.0,False,False,False,False,7.0,0,1,0,0
+820,820.0,820,address_258,school_A,Grundskole,nan,1,1,2021-01-04,1,15,1,1,sequence_820,24.0,1,21.0,1,35.0,1,327.0,327.0,False,False,False,False,3.0,0,0,0,0
+821,821.0,821,address_100,nan,nan,nan,1,1,2021-01-16,0,53,1,1,sequence_821,42.0,1,53.0,1,,0,673.0,673.0,False,False,False,False,6.0,0,0,0,0
+822,822.0,822,address_1,nan,nan,nan,1,1,2021-01-20,1,71,1,1,sequence_822,4.0,1,44.0,1,22.0,1,603.0,603.0,False,False,False,False,11.0,0,0,0,1
+823,823.0,823,address_263,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-01,3,16,1,1,sequence_823,51.0,1,5.0,1,,0,,,,,,,,0,0,0,0
+824,824.0,824,address_150,nan,nan,nan,1,1,2021-01-30,0,58,1,1,sequence_824,,0,6.0,1,,0,263.0,263.0,False,False,False,False,6.0,0,0,0,0
+825,825.0,825,address_314,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-24,1,16,1,1,sequence_825,52.0,1,28.0,1,30.0,1,260.0,260.0,True,False,False,False,6.0,0,0,0,0
+826,826.0,826,address_66,nan,nan,nan,1,1,2021-01-26,0,29,1,1,sequence_826,0.0,1,38.0,1,50.0,1,763.0,763.0,False,False,False,False,5.0,0,0,0,0
+827,827.0,827,address_131,nan,nan,nan,1,1,2021-01-02,1,17,1,1,sequence_827,,0,,0,,0,672.0,672.0,False,False,False,False,1.0,0,0,0,0
+828,828.0,828,address_283,nan,nan,nan,1,1,2021-01-26,0,12,1,1,sequence_828,11.0,1,37.0,1,13.0,1,84.0,84.0,False,False,False,False,11.0,0,0,0,0
+829,829.0,829,address_153,nan,nan,workplace_B,1,1,2021-01-26,1,68,1,1,sequence_829,56.0,1,38.0,1,14.0,1,516.0,516.0,False,True,False,False,5.0,0,0,1,0
+830,830.0,830,address_244,nan,nan,workplace_A,1,1,2021-01-26,0,1,1,1,sequence_830,39.0,1,18.0,1,,0,10.0,10.0,False,True,False,False,4.0,0,0,0,0
+831,831.0,831,address_241,nan,nan,nan,1,1,2021-01-24,0,12,1,1,sequence_831,59.0,1,47.0,1,11.0,1,381.0,381.0,False,False,False,True,7.0,0,0,0,0
+832,832.0,832,address_116,nan,nan,workplace_B,1,1,2021-01-26,1,17,1,1,sequence_832,,0,18.0,1,,0,860.0,860.0,False,True,False,False,7.0,0,0,0,0
+833,833.0,833,address_273,nan,nan,nan,1,1,2021-01-31,0,45,1,1,sequence_833,4.0,1,35.0,1,52.0,1,674.0,674.0,False,False,False,True,3.0,0,0,0,0
+834,834.0,834,address_109,nan,nan,nan,1,1,2021-01-06,1,78,1,1,sequence_834,,0,,0,,0,647.0,647.0,False,False,False,False,4.0,0,0,0,0
+835,835.0,835,address_235,nan,nan,nan,1,1,2021-01-18,2,14,1,1,sequence_835,35.0,1,14.0,1,,0,950.0,950.0,False,False,False,False,5.0,0,0,0,1
+836,836.0,836,address_244,nan,nan,workplace_B,1,1,2021-01-19,0,36,1,1,sequence_836,30.0,1,35.0,1,,0,307.0,307.0,False,True,False,False,2.0,0,0,0,0
+837,837.0,837,address_144,nan,nan,workplace_C,1,1,2021-01-29,0,44,1,1,sequence_837,20.0,1,52.0,1,45.0,1,767.0,767.0,False,True,False,False,3.0,0,0,0,0
+838,838.0,838,address_200,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-14,2,57,1,1,sequence_838,,0,27.0,1,,0,608.0,608.0,False,False,False,False,9.0,0,1,0,0
+839,839.0,839,address_322,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-29,0,44,1,1,sequence_839,26.0,1,48.0,1,,0,670.0,670.0,False,False,False,False,7.0,0,0,0,0
+840,840.0,840,address_50,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-21,0,20,1,1,sequence_840,,0,,0,,0,846.0,846.0,False,False,False,False,8.0,0,0,0,0
+841,841.0,841,address_94,nan,nan,nan,1,1,2021-01-06,2,69,1,1,sequence_841,58.0,1,8.0,1,,0,76.0,76.0,False,False,False,False,5.0,0,0,0,1
+842,842.0,842,address_293,nan,nan,nan,1,1,2021-01-07,1,78,1,1,sequence_842,51.0,1,41.0,1,27.0,1,199.0,199.0,False,False,False,False,6.0,0,0,0,0
+843,843.0,843,address_180,nan,nan,workplace_C,1,1,2021-01-29,0,60,1,1,sequence_843,52.0,1,36.0,1,39.0,1,247.0,247.0,False,True,False,False,8.0,0,0,0,0
+844,844.0,844,address_282,nan,nan,nan,1,1,2021-01-31,0,74,1,1,sequence_844,48.0,1,14.0,1,,0,174.0,174.0,False,False,False,True,3.0,0,0,0,0
+845,845.0,845,address_137,nan,nan,nan,1,1,2021-01-31,0,36,1,1,sequence_845,,0,40.0,1,,0,172.0,172.0,False,False,False,False,6.0,0,0,0,0
+846,846.0,846,address_133,nan,nan,nan,1,1,2021-01-13,2,39,1,1,sequence_846,14.0,1,4.0,1,33.0,1,205.0,205.0,False,False,False,False,9.0,0,0,0,0
+847,847.0,847,address_307,nan,nan,nan,1,1,2021-01-19,0,40,1,1,sequence_847,,0,36.0,1,,0,889.0,889.0,False,False,False,True,1.0,0,0,0,0
+848,848.0,848,address_307,nan,nan,nan,1,1,2021-01-28,0,23,1,1,sequence_848,34.0,1,10.0,1,9.0,1,410.0,410.0,False,False,False,False,4.0,0,0,0,0
+849,849.0,849,address_292,nan,nan,nan,1,1,2021-01-28,0,57,1,1,sequence_849,,0,,0,,0,243.0,243.0,False,False,False,False,10.0,0,0,0,0
+850,850.0,850,address_158,nan,nan,workplace_C,1,1,2021-01-02,4,63,1,1,sequence_850,,0,,0,,0,636.0,636.0,False,False,False,False,1.0,0,0,1,0
+851,851.0,851,address_44,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-21,1,78,1,1,sequence_851,39.0,1,1.0,1,12.0,1,819.0,819.0,True,False,False,False,2.0,0,0,0,0
+852,852.0,852,address_304,nan,nan,nan,1,1,2021-01-27,0,74,1,1,sequence_852,,0,1.0,1,,0,871.0,871.0,False,False,False,False,11.0,0,0,0,0
+853,853.0,853,address_26,nan,nan,nan,1,1,2021-01-27,0,62,1,1,sequence_853,33.0,1,11.0,1,20.0,1,351.0,351.0,False,False,False,False,5.0,0,0,0,0
+854,854.0,854,address_6,nan,nan,nan,1,1,2021-01-17,3,46,1,1,sequence_854,,0,,0,,0,528.0,528.0,False,False,False,False,8.0,0,0,0,0
+855,855.0,855,address_171,nan,nan,nan,1,1,2021-01-20,1,36,1,1,sequence_855,,0,7.0,1,,0,364.0,364.0,False,False,False,False,5.0,0,0,0,0
+856,856.0,856,address_30,school_B,Gymnasiale uddannelse,workplace_A,1,1,2021-01-22,0,63,1,1,sequence_856,57.0,1,14.0,1,44.0,1,425.0,425.0,False,True,False,False,10.0,0,0,0,0
+857,857.0,857,address_114,nan,nan,workplace_C,1,1,2021-01-07,0,61,1,1,sequence_857,54.0,1,19.0,1,14.0,1,418.0,418.0,False,False,False,False,4.0,0,0,0,0
+858,858.0,858,address_4,nan,nan,nan,1,1,2021-01-09,2,51,1,1,sequence_858,39.0,1,33.0,1,,0,166.0,166.0,False,False,False,False,8.0,0,0,0,0
+859,859.0,859,address_244,nan,nan,workplace_C,1,1,2021-01-31,0,70,1,1,sequence_859,,0,3.0,1,,0,767.0,767.0,False,True,False,False,5.0,0,0,0,0
+860,860.0,860,address_16,nan,nan,workplace_B,1,1,2021-01-19,2,27,1,1,sequence_860,38.0,1,48.0,1,15.0,1,67.0,67.0,False,True,False,False,7.0,0,0,2,0
+861,861.0,861,address_163,nan,nan,nan,1,1,2021-01-21,0,43,1,1,sequence_861,41.0,1,17.0,1,4.0,1,286.0,286.0,False,False,False,False,7.0,0,0,0,0
+862,862.0,862,address_331,nan,nan,nan,1,1,2021-01-19,1,22,1,1,sequence_862,,0,14.0,1,,0,425.0,425.0,False,False,False,False,7.0,0,0,0,1
+863,863.0,863,address_82,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-20,0,48,1,1,sequence_863,,0,58.0,1,,0,651.0,651.0,False,False,False,False,11.0,0,0,0,0
+864,864.0,864,address_155,nan,nan,nan,1,1,2021-01-24,1,3,1,1,sequence_864,,0,45.0,1,,0,7.0,7.0,False,False,False,False,6.0,0,0,0,0
+865,865.0,865,address_267,nan,nan,nan,1,1,2021-01-05,1,66,1,1,sequence_865,52.0,1,5.0,1,13.0,1,219.0,219.0,False,False,False,False,4.0,0,0,0,0
+866,866.0,866,address_136,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-02,6,35,1,1,sequence_866,57.0,1,11.0,1,17.0,1,690.0,690.0,False,False,False,False,1.0,0,0,0,1
+867,867.0,867,address_0,nan,nan,nan,1,1,2021-01-31,0,59,1,1,sequence_867,,0,,0,,0,832.0,832.0,False,False,False,False,5.0,0,0,0,0
+868,868.0,868,address_310,nan,nan,nan,1,1,2021-01-03,1,30,1,1,sequence_868,45.0,1,1.0,1,3.0,1,360.0,360.0,False,False,False,False,2.0,0,0,0,0
+869,869.0,869,address_223,nan,nan,nan,1,1,2021-01-10,1,63,1,1,sequence_869,29.0,1,32.0,1,,0,224.0,224.0,False,False,False,False,7.0,0,0,0,0
+870,870.0,870,address_326,nan,nan,nan,1,1,2021-01-17,0,74,1,1,sequence_870,55.0,1,19.0,1,19.0,1,54.0,54.0,True,False,False,False,10.0,0,0,0,0
+871,871.0,871,address_252,nan,nan,nan,1,1,2021-01-16,2,3,1,1,sequence_871,,0,50.0,1,,0,211.0,211.0,False,False,False,False,11.0,0,0,0,0
+872,872.0,872,address_247,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-02,1,26,1,1,sequence_872,,0,5.0,1,,0,354.0,354.0,False,False,False,False,1.0,0,0,0,0
+873,873.0,873,address_86,nan,nan,nan,1,1,2021-01-18,2,51,1,1,sequence_873,,0,,0,,0,711.0,711.0,False,False,False,False,6.0,0,0,0,0
+874,874.0,874,address_39,nan,nan,nan,1,1,2021-01-27,0,36,1,1,sequence_874,,0,49.0,1,,0,301.0,301.0,False,False,False,False,6.0,0,0,0,0
+875,875.0,875,address_187,nan,nan,nan,1,1,2021-01-24,0,76,1,1,sequence_875,,0,,0,,0,688.0,688.0,False,False,False,False,7.0,0,0,0,0
+876,876.0,876,address_211,nan,nan,nan,1,1,2021-01-28,0,65,1,1,sequence_876,,0,31.0,1,,0,313.0,313.0,False,False,False,False,6.0,0,0,0,0
+877,877.0,877,address_172,nan,nan,workplace_A,1,1,2021-01-10,6,25,1,1,sequence_877,18.0,1,52.0,1,46.0,1,305.0,305.0,False,True,False,False,9.0,0,1,4,0
+878,878.0,878,address_98,nan,nan,nan,1,1,2021-01-09,0,48,1,1,sequence_878,48.0,1,40.0,1,20.0,1,273.0,273.0,False,False,False,False,6.0,0,0,0,0
+879,879.0,879,address_193,nan,nan,nan,1,1,2021-01-10,1,36,1,1,sequence_879,46.0,1,44.0,1,,0,125.0,125.0,False,False,False,False,9.0,0,0,0,0
+880,880.0,880,address_252,nan,nan,nan,1,1,2021-01-25,0,43,1,1,sequence_880,25.0,1,23.0,1,14.0,1,900.0,900.0,False,False,False,True,1.0,0,0,0,0
+881,881.0,881,address_236,nan,nan,nan,1,1,2021-01-10,4,32,1,1,sequence_881,,0,,0,,0,166.0,166.0,False,False,False,False,9.0,0,1,0,0
+882,882.0,882,address_80,nan,nan,nan,1,1,2021-01-08,1,9,1,1,sequence_882,15.0,1,43.0,1,,0,113.0,113.0,False,False,False,False,4.0,0,1,0,0
+883,883.0,883,address_102,nan,nan,nan,1,1,2021-01-29,0,42,1,1,sequence_883,32.0,1,13.0,1,56.0,1,822.0,822.0,False,False,False,True,9.0,0,0,0,0
+884,884.0,884,address_211,nan,nan,nan,1,1,2021-01-16,0,52,1,1,sequence_884,,0,0.0,1,,0,711.0,711.0,False,False,False,False,4.0,0,0,0,0
+885,885.0,885,address_104,nan,nan,nan,1,1,2021-01-12,1,27,1,1,sequence_885,,0,7.0,1,,0,108.0,108.0,False,False,False,False,8.0,0,0,0,1
+886,886.0,886,address_267,nan,nan,nan,1,1,2021-01-30,0,49,1,1,sequence_886,,0,45.0,1,,0,172.0,172.0,False,False,False,False,5.0,0,0,0,0
+887,887.0,887,address_308,nan,nan,nan,1,1,2021-01-13,0,23,1,1,sequence_887,9.0,1,19.0,1,5.0,1,122.0,122.0,False,False,False,False,7.0,0,0,0,0
+888,888.0,888,address_185,nan,nan,nan,1,1,2021-01-04,1,45,1,1,sequence_888,,0,,0,,0,327.0,327.0,False,False,False,False,3.0,0,0,0,0
+889,889.0,889,address_118,nan,nan,workplace_B,1,1,2021-01-18,2,16,1,1,sequence_889,11.0,1,2.0,1,42.0,1,206.0,206.0,False,True,False,False,8.0,0,0,1,1
+890,890.0,890,address_39,nan,nan,workplace_C,1,1,2021-01-24,2,30,1,1,sequence_890,,0,0.0,1,,0,458.0,458.0,False,True,False,False,10.0,0,0,1,0
+891,891.0,891,address_270,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-03,1,12,1,1,sequence_891,6.0,1,1.0,1,34.0,1,360.0,360.0,False,False,False,False,2.0,0,0,0,0
+892,892.0,892,address_34,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-09,0,56,1,1,sequence_892,58.0,1,49.0,1,13.0,1,781.0,781.0,False,False,False,False,7.0,0,0,0,0
+893,893.0,893,address_107,nan,nan,nan,1,1,2021-01-17,3,18,1,1,sequence_893,33.0,1,40.0,1,36.0,1,34.0,34.0,True,False,False,False,10.0,0,1,0,0
+894,894.0,894,address_218,nan,nan,nan,1,1,2021-01-24,0,62,1,1,sequence_894,,0,46.0,1,,0,668.0,668.0,False,False,False,False,10.0,0,0,0,0
+895,895.0,895,address_141,nan,nan,nan,1,1,2021-01-23,0,19,1,1,sequence_895,5.0,1,38.0,1,7.0,1,261.0,261.0,False,False,False,False,8.0,0,0,0,0
+896,896.0,896,address_70,nan,nan,nan,1,1,2021-01-22,0,53,1,1,sequence_896,,0,,0,,0,778.0,778.0,False,False,False,False,7.0,0,0,0,0
+897,897.0,897,address_330,nan,nan,workplace_C,1,1,2021-01-02,0,23,1,1,sequence_897,45.0,1,24.0,1,23.0,1,219.0,219.0,False,False,False,False,1.0,0,0,0,0
+898,898.0,898,address_164,nan,nan,nan,1,1,2021-01-14,2,74,1,1,sequence_898,48.0,1,51.0,1,38.0,1,815.0,815.0,True,False,False,False,10.0,0,0,0,1
+899,899.0,899,address_5,school_C,Gymnasiale uddannelse,workplace_B,1,1,2021-01-16,3,21,1,1,sequence_899,,0,52.0,1,,0,123.0,123.0,False,True,False,False,7.0,0,0,2,0
+900,900.0,900,address_317,school_A,Grundskole,workplace_A,1,1,2021-01-24,2,64,1,1,sequence_900,6.0,1,55.0,1,,0,653.0,653.0,False,True,False,False,4.0,1,0,0,1
+901,901.0,901,address_88,nan,nan,nan,1,1,2021-01-27,0,69,1,1,sequence_901,34.0,1,37.0,1,30.0,1,773.0,773.0,False,False,False,False,6.0,0,0,0,0
+902,902.0,902,address_157,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-22,0,62,1,1,sequence_902,,0,4.0,1,,0,118.0,118.0,False,False,False,False,7.0,0,0,0,0
+903,903.0,903,address_89,nan,nan,nan,1,1,2021-01-22,0,47,1,1,sequence_903,13.0,1,27.0,1,0.0,1,47.0,47.0,True,False,False,False,1.0,0,0,0,0
+904,904.0,904,address_46,nan,nan,nan,1,1,2021-01-13,0,73,1,1,sequence_904,,0,,0,,0,554.0,554.0,False,False,False,False,4.0,0,0,0,0
+905,905.0,905,address_297,school_A,Grundskole,nan,1,1,2021-01-24,0,30,1,1,sequence_905,58.0,1,46.0,1,,0,749.0,749.0,False,False,True,False,4.0,0,0,0,0
+906,906.0,906,address_239,nan,nan,nan,1,1,2021-01-09,1,30,1,1,sequence_906,37.0,1,9.0,1,5.0,1,305.0,305.0,False,False,False,False,8.0,0,0,0,0
+907,907.0,907,address_271,nan,nan,nan,1,1,2021-01-23,0,52,1,1,sequence_907,,0,38.0,1,,0,693.0,693.0,False,False,False,False,3.0,0,0,0,0
+908,908.0,908,address_224,nan,nan,nan,1,1,2021-01-16,2,32,1,1,sequence_908,4.0,1,25.0,1,34.0,1,143.0,143.0,False,False,False,False,11.0,0,0,0,0
+909,909.0,909,address_115,school_A,Grundskole,nan,1,1,2021-01-22,0,21,1,1,sequence_909,10.0,1,13.0,1,53.0,1,497.0,497.0,False,False,True,False,10.0,0,0,0,0
+910,910.0,910,address_218,nan,nan,nan,1,1,2021-01-03,1,47,1,1,sequence_910,,0,31.0,1,,0,823.0,823.0,False,False,False,False,2.0,0,0,0,0
+911,911.0,911,address_317,nan,nan,workplace_C,1,1,2021-01-02,2,39,1,1,sequence_911,32.0,1,44.0,1,5.0,1,935.0,935.0,False,False,False,True,1.0,0,0,2,0
+912,912.0,912,address_56,nan,nan,workplace_B,1,1,2021-01-30,0,11,1,1,sequence_912,12.0,1,46.0,1,44.0,1,920.0,920.0,False,True,False,False,9.0,0,0,0,0
+913,913.0,913,address_15,nan,nan,nan,1,1,2021-01-31,0,47,1,1,sequence_913,56.0,1,4.0,1,,0,110.0,110.0,False,False,False,True,5.0,0,0,0,0
+914,914.0,914,address_230,nan,nan,nan,1,1,2021-01-05,0,40,1,1,sequence_914,,0,,0,,0,789.0,789.0,False,False,False,False,4.0,0,0,0,0
+915,915.0,915,address_38,nan,nan,nan,1,1,2021-01-16,0,71,1,1,sequence_915,,0,,0,,0,938.0,938.0,True,False,False,False,5.0,0,0,0,0
+916,916.0,916,address_263,nan,nan,nan,1,1,2021-01-02,3,14,1,1,sequence_916,41.0,1,20.0,1,21.0,1,166.0,166.0,False,False,False,False,1.0,0,1,0,0
+917,917.0,917,address_63,nan,nan,nan,1,1,2021-01-03,0,50,1,1,sequence_917,35.0,1,27.0,1,,0,400.0,400.0,False,False,False,False,1.0,0,0,0,0
+918,918.0,918,address_313,nan,nan,nan,1,1,2021-01-17,0,32,1,1,sequence_918,,0,46.0,1,,0,804.0,804.0,True,False,False,False,10.0,0,0,0,0
+919,919.0,919,address_114,nan,nan,nan,1,1,2021-01-16,0,72,1,1,sequence_919,,0,,0,,0,667.0,667.0,False,False,False,False,7.0,0,0,0,0
+920,920.0,920,address_11,nan,nan,workplace_B,1,1,2021-01-21,1,5,1,1,sequence_920,,0,,0,,0,111.0,111.0,False,False,False,False,5.0,0,0,1,0
+921,921.0,921,address_64,nan,nan,nan,1,1,2021-01-19,1,52,1,1,sequence_921,8.0,1,42.0,1,,0,121.0,121.0,False,False,False,False,8.0,0,0,0,0
+922,922.0,922,address_155,nan,nan,nan,1,1,2021-01-10,1,11,1,1,sequence_922,29.0,1,12.0,1,,0,137.0,137.0,True,False,False,False,4.0,0,0,0,0
+923,923.0,923,address_9,nan,nan,nan,1,1,2021-01-02,2,69,1,1,sequence_923,13.0,1,8.0,1,49.0,1,823.0,823.0,False,False,False,False,1.0,0,0,0,0
+924,924.0,924,address_29,nan,nan,workplace_C,1,1,2021-01-24,1,51,1,1,sequence_924,,0,,0,,0,387.0,387.0,False,True,False,False,9.0,0,0,0,0
+925,925.0,925,address_213,nan,nan,nan,1,1,2021-01-21,0,68,1,1,sequence_925,37.0,1,29.0,1,,0,726.0,726.0,False,False,False,False,4.0,0,0,0,0
+926,926.0,926,address_331,nan,nan,nan,1,1,2021-01-20,2,42,1,1,sequence_926,33.0,1,51.0,1,25.0,1,778.0,778.0,False,False,False,False,5.0,0,0,0,0
+927,927.0,927,address_282,nan,nan,nan,1,1,2021-01-13,2,72,1,1,sequence_927,48.0,1,58.0,1,47.0,1,638.0,638.0,False,False,False,False,8.0,0,0,0,0
+928,928.0,928,address_206,nan,nan,nan,1,1,2021-01-24,1,51,1,1,sequence_928,,0,,0,,0,979.0,979.0,True,False,False,False,1.0,0,0,0,0
+929,929.0,929,address_105,nan,nan,nan,1,1,2021-01-21,0,59,1,1,sequence_929,22.0,1,19.0,1,,0,927.0,927.0,False,False,False,False,8.0,0,0,0,0
+930,930.0,930,address_61,nan,nan,workplace_A,1,1,2021-01-07,3,76,1,1,sequence_930,34.0,1,48.0,1,,0,418.0,418.0,False,True,False,False,4.0,0,0,1,0
+931,931.0,931,address_213,nan,nan,nan,1,1,2021-01-26,0,58,1,1,sequence_931,,0,57.0,1,,0,158.0,158.0,False,False,False,True,2.0,0,0,0,0
+932,932.0,932,address_291,nan,nan,nan,1,1,2021-01-18,1,69,1,1,sequence_932,,0,,0,,0,869.0,869.0,False,False,False,False,8.0,0,1,0,0
+933,933.0,933,address_63,nan,nan,workplace_B,1,1,2021-01-06,1,36,1,1,sequence_933,,0,0.0,1,,0,582.0,582.0,True,False,False,False,2.0,0,0,1,0
+934,934.0,934,address_18,nan,nan,nan,1,1,2021-01-10,1,56,1,1,sequence_934,,0,56.0,1,,0,589.0,589.0,False,False,False,False,7.0,0,0,0,0
+935,935.0,935,address_38,nan,nan,nan,1,1,2021-01-01,7,46,1,1,sequence_935,34.0,1,4.0,1,14.0,1,,,,,,,,0,0,0,1
+936,936.0,936,address_308,nan,nan,nan,1,1,2021-01-18,0,56,1,1,sequence_936,19.0,1,34.0,1,18.0,1,444.0,444.0,False,False,False,False,9.0,0,0,0,0
+937,937.0,937,address_91,nan,nan,nan,1,1,2021-01-25,0,18,1,1,sequence_937,13.0,1,48.0,1,,0,973.0,973.0,False,False,False,False,6.0,0,0,0,0
+938,938.0,938,address_38,nan,nan,nan,1,1,2021-01-11,2,10,1,1,sequence_938,54.0,1,31.0,1,23.0,1,418.0,418.0,False,False,False,False,8.0,0,1,0,0
+939,939.0,939,address_111,nan,nan,nan,1,1,2021-01-17,0,6,1,1,sequence_939,39.0,1,39.0,1,26.0,1,680.0,680.0,False,False,False,False,9.0,0,0,0,0
+940,940.0,940,address_93,nan,nan,nan,1,1,2021-01-08,0,46,1,1,sequence_940,,0,44.0,1,,0,820.0,820.0,False,False,False,False,4.0,0,0,0,0
+941,941.0,941,address_22,school_A,Grundskole,nan,1,1,2021-01-23,0,5,1,1,sequence_941,,0,23.0,1,,0,749.0,749.0,False,False,True,False,3.0,0,0,0,0
+942,942.0,942,address_67,school_B,Gymnasiale uddannelse,workplace_C,1,1,2021-01-22,3,22,1,1,sequence_942,53.0,1,38.0,1,56.0,1,458.0,458.0,False,True,False,False,8.0,0,0,1,0
+943,943.0,943,address_128,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-01,3,1,1,1,sequence_943,,0,48.0,1,,0,,,,,,,,0,0,0,0
+944,944.0,944,address_276,nan,nan,nan,1,1,2021-01-05,0,8,1,1,sequence_944,50.0,1,52.0,1,52.0,1,814.0,814.0,False,False,False,False,4.0,0,0,0,0
+945,945.0,945,address_137,nan,nan,nan,1,1,2021-01-21,0,6,1,1,sequence_945,31.0,1,54.0,1,29.0,1,86.0,86.0,False,False,False,False,6.0,0,0,0,0
+946,946.0,946,address_78,nan,nan,nan,1,1,2021-01-23,1,74,1,1,sequence_946,43.0,1,2.0,1,13.0,1,630.0,630.0,False,False,False,False,7.0,0,0,0,0
+947,947.0,947,address_37,nan,nan,nan,1,1,2021-01-06,0,41,1,1,sequence_947,18.0,1,0.0,1,,0,866.0,866.0,False,False,False,False,4.0,0,0,0,0
+948,948.0,948,address_81,nan,nan,nan,1,1,2021-01-26,0,43,1,1,sequence_948,,0,,0,,0,558.0,558.0,False,False,False,False,6.0,0,0,0,0
+949,949.0,949,address_224,nan,nan,nan,1,1,2021-01-18,1,47,1,1,sequence_949,29.0,1,31.0,1,19.0,1,203.0,203.0,False,False,False,False,10.0,0,0,0,1
+950,950.0,950,address_71,nan,nan,nan,1,1,2021-01-13,2,32,1,1,sequence_950,,0,23.0,1,,0,527.0,527.0,False,False,False,True,7.0,0,0,0,0
+951,951.0,951,address_319,nan,nan,workplace_C,1,1,2021-01-20,0,41,1,1,sequence_951,38.0,1,46.0,1,5.0,1,387.0,387.0,False,True,False,False,5.0,0,0,0,0
+952,952.0,952,address_261,school_A,Grundskole,nan,1,1,2021-01-02,0,46,1,1,sequence_952,9.0,1,19.0,1,10.0,1,219.0,219.0,False,False,False,False,1.0,0,0,0,0
+953,953.0,953,address_291,nan,nan,nan,1,1,2021-01-25,0,32,1,1,sequence_953,,0,37.0,1,,0,932.0,932.0,True,False,False,False,7.0,0,0,0,0
+954,954.0,954,address_248,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-23,0,53,1,1,sequence_954,10.0,1,5.0,1,,0,185.0,185.0,False,False,False,False,7.0,0,0,0,0
+955,955.0,955,address_121,nan,nan,nan,1,1,2021-01-19,1,37,1,1,sequence_955,36.0,1,1.0,1,0.0,1,118.0,118.0,False,False,False,False,4.0,0,0,0,0
+956,956.0,956,address_321,nan,nan,workplace_B,1,1,2021-01-14,0,38,1,1,sequence_956,,0,40.0,1,,0,573.0,573.0,False,False,False,False,6.0,0,0,0,0
+957,957.0,957,address_311,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-30,0,44,1,1,sequence_957,31.0,1,37.0,1,9.0,1,803.0,803.0,False,False,False,True,7.0,0,0,0,0
+958,958.0,958,address_144,nan,nan,nan,1,1,2021-01-18,1,20,1,1,sequence_958,,0,,0,,0,489.0,489.0,True,False,False,False,9.0,0,1,0,0
+959,959.0,959,address_86,nan,nan,workplace_A,1,1,2021-01-22,3,76,1,1,sequence_959,,0,,0,,0,740.0,740.0,False,True,False,False,5.0,0,0,2,0
+960,960.0,960,address_271,nan,nan,nan,1,1,2021-01-15,1,50,1,1,sequence_960,38.0,1,31.0,1,44.0,1,694.0,694.0,False,False,False,False,6.0,0,0,0,0
+961,961.0,961,address_312,nan,nan,nan,1,1,2021-01-13,0,4,1,1,sequence_961,17.0,1,30.0,1,13.0,1,865.0,865.0,False,False,False,False,8.0,0,0,0,0
+962,962.0,962,address_191,nan,nan,nan,1,1,2021-01-14,0,73,1,1,sequence_962,,0,,0,,0,105.0,105.0,False,False,False,False,6.0,0,0,0,0
+963,963.0,963,address_252,nan,nan,workplace_B,1,1,2021-01-26,0,55,1,1,sequence_963,18.0,1,31.0,1,,0,709.0,709.0,True,False,False,False,8.0,0,0,0,0
+964,964.0,964,address_330,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-09,0,78,1,1,sequence_964,48.0,1,18.0,1,8.0,1,218.0,218.0,False,False,False,False,5.0,0,0,0,0
+965,965.0,965,address_250,nan,nan,workplace_C,1,1,2021-01-30,0,76,1,1,sequence_965,2.0,1,34.0,1,0.0,1,325.0,325.0,False,True,False,False,11.0,0,0,0,0
+966,966.0,966,address_135,nan,nan,nan,1,1,2021-01-07,2,67,1,1,sequence_966,,0,40.0,1,,0,107.0,107.0,False,False,False,False,6.0,0,1,0,0
+967,967.0,967,address_293,nan,nan,nan,1,1,2021-01-14,1,39,1,1,sequence_967,0.0,1,58.0,1,,0,930.0,930.0,False,False,False,False,7.0,0,0,0,0
+968,968.0,968,address_138,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-09,0,9,1,1,sequence_968,28.0,1,30.0,1,38.0,1,434.0,434.0,False,False,False,False,5.0,0,0,0,0
+969,969.0,969,address_225,nan,nan,nan,1,1,2021-01-03,0,61,1,1,sequence_969,43.0,1,13.0,1,,0,636.0,636.0,False,False,False,False,2.0,0,0,0,0
+970,970.0,970,address_321,nan,nan,nan,1,1,2021-01-22,0,57,1,1,sequence_970,27.0,1,51.0,1,6.0,1,118.0,118.0,False,False,False,False,7.0,0,0,0,0
+971,971.0,971,address_279,nan,nan,nan,1,1,2021-01-14,0,22,1,1,sequence_971,13.0,1,28.0,1,17.0,1,723.0,723.0,False,False,False,False,6.0,0,0,0,0
+972,972.0,972,address_40,nan,nan,nan,1,1,2021-01-28,0,51,1,1,sequence_972,23.0,1,9.0,1,,0,485.0,485.0,False,False,False,False,8.0,0,0,0,0
+973,973.0,973,address_10,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-19,1,31,1,1,sequence_973,13.0,1,8.0,1,55.0,1,319.0,319.0,True,False,False,False,11.0,0,0,0,0
+974,974.0,974,address_2,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-05,1,55,1,1,sequence_974,,0,26.0,1,,0,672.0,672.0,False,False,False,False,4.0,0,0,0,0
+975,975.0,975,address_231,school_A,Grundskole,nan,1,1,2021-01-31,0,59,1,1,sequence_975,14.0,1,51.0,1,,0,749.0,749.0,False,False,True,False,11.0,0,0,0,0
+976,976.0,976,address_45,nan,nan,nan,1,1,2021-01-23,0,33,1,1,sequence_976,,0,58.0,1,,0,363.0,363.0,True,False,False,False,10.0,0,0,0,0
+977,977.0,977,address_270,nan,nan,workplace_C,1,1,2021-01-24,2,68,1,1,sequence_977,,0,22.0,1,,0,282.0,282.0,False,True,False,False,9.0,0,0,1,0
+978,978.0,978,address_297,nan,nan,nan,1,1,2021-01-02,1,55,1,1,sequence_978,,0,,0,,0,125.0,125.0,False,False,False,False,1.0,0,0,0,1
+979,979.0,979,address_206,nan,nan,nan,1,1,2021-01-23,1,20,1,1,sequence_979,7.0,1,31.0,1,23.0,1,24.0,24.0,False,False,False,True,1.0,0,1,0,0
+980,980.0,980,address_241,nan,nan,nan,1,1,2021-01-21,0,2,1,1,sequence_980,29.0,1,0.0,1,,0,871.0,871.0,False,False,False,False,5.0,0,0,0,0
+981,981.0,981,address_271,nan,nan,nan,1,1,2021-01-01,2,74,1,1,sequence_981,,0,,0,,0,,,,,,,,0,0,0,0
+982,982.0,982,address_136,nan,nan,nan,1,1,2021-01-03,0,59,1,1,sequence_982,,0,3.0,1,,0,417.0,417.0,False,False,False,False,2.0,0,0,0,0
+983,983.0,983,address_236,school_B,Gymnasiale uddannelse,nan,1,1,2021-01-01,3,40,1,1,sequence_983,14.0,1,33.0,1,17.0,1,,,,,,,,0,0,0,0
+984,984.0,984,address_80,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-28,0,39,1,1,sequence_984,49.0,1,4.0,1,0.0,1,264.0,264.0,True,False,False,False,7.0,0,0,0,0
+985,985.0,985,address_199,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-23,0,35,1,1,sequence_985,32.0,1,41.0,1,6.0,1,854.0,854.0,False,False,False,False,6.0,0,0,0,0
+986,986.0,986,address_189,nan,nan,workplace_B,1,1,2021-01-01,2,71,1,1,sequence_986,43.0,1,33.0,1,46.0,1,,,,,,,,0,0,0,0
+987,987.0,987,address_178,school_C,Gymnasiale uddannelse,nan,1,1,2021-01-26,0,31,1,1,sequence_987,,0,48.0,1,,0,373.0,373.0,False,False,False,False,6.0,0,0,0,0
+988,988.0,988,address_155,nan,nan,nan,1,1,2021-01-22,0,34,1,1,sequence_988,,0,33.0,1,,0,835.0,835.0,False,False,False,False,4.0,0,0,0,0
+989,989.0,989,address_267,nan,nan,nan,1,1,2021-01-29,0,70,1,1,sequence_989,,0,,0,,0,309.0,309.0,False,False,False,False,5.0,0,0,0,0
+990,990.0,990,address_93,nan,nan,workplace_B,1,1,2021-01-05,1,49,1,1,sequence_990,38.0,1,12.0,1,50.0,1,39.0,39.0,False,True,False,False,1.0,0,0,1,0
+991,991.0,991,address_84,nan,nan,nan,1,1,2021-01-29,0,62,1,1,sequence_991,59.0,1,45.0,1,,0,295.0,295.0,False,False,False,False,10.0,0,0,0,0
+992,992.0,992,address_155,nan,nan,nan,1,1,2021-01-24,0,49,1,1,sequence_992,9.0,1,54.0,1,44.0,1,475.0,475.0,False,False,False,True,1.0,0,0,0,0
+993,993.0,993,address_258,nan,nan,nan,1,1,2021-01-06,0,16,1,1,sequence_993,29.0,1,48.0,1,29.0,1,805.0,805.0,False,False,False,False,5.0,0,0,0,0
+994,994.0,994,address_233,nan,nan,nan,1,1,2021-01-09,1,6,1,1,sequence_994,,0,,0,,0,314.0,314.0,False,False,False,False,8.0,0,0,0,0
+995,995.0,995,address_104,nan,nan,workplace_C,1,1,2021-01-18,1,60,1,1,sequence_995,,0,47.0,1,,0,368.0,368.0,False,True,False,False,7.0,0,0,0,0
+996,996.0,996,address_64,nan,nan,nan,1,1,2021-01-08,2,48,1,1,sequence_996,,0,48.0,1,,0,730.0,730.0,False,False,False,False,5.0,0,0,0,1
+997,997.0,997,address_100,school_A,Grundskole,nan,1,1,2021-01-02,5,4,1,1,sequence_997,57.0,1,29.0,1,44.0,1,986.0,986.0,False,False,False,False,1.0,4,0,0,0
+998,998.0,998,address_142,nan,nan,nan,1,1,2021-01-14,1,8,1,1,sequence_998,56.0,1,16.0,1,,0,610.0,610.0,False,False,False,False,9.0,0,0,0,1
+999,999.0,999,address_308,school_A,Grundskole,nan,1,1,2021-01-05,1,79,1,1,sequence_999,,0,,0,,0,5.0,5.0,False,False,False,True,2.0,1,0,0,0
