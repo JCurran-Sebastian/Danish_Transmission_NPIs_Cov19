@@ -19,8 +19,8 @@ source('./partial_sequencing_adjustment.R')
 options(mc.cores=parallel::detectCores())
 
 # Zero-inflated negative binomial Stan model. ZI component accounts for
-# individuals with zero secondary infections for structural reasons (e.g.
-# very short follow-up) rather than low R. Fitted weekly to estimate
+# individuals with zero secondary infections for structural reasons
+# rather than low R. Fitted weekly to estimate
 # time-varying R and overdispersion k (Figure 4A,B).
 model_zi <- stan_model('./zero_inflated_neg_bin.stan')
 
@@ -94,8 +94,8 @@ rt_iar_file <- read_csv('../data/rt_iar.csv')
 
 # Section 1: R and k estimates from the ML tree ----------------------------------
 # Fit the ZINB model for all weeks pooled ('all') and for each ISO week
-# separately. Weekly fitting captures temporal variation driven by variant
-# succession, vaccination rollout and NPIs.
+# separately. Weekly fitting captures temporal variation driven by variants,
+# vaccination rollout and NPIs.
 k_results    <- as_tibble(NULL)
 for(stan_model in c(model_zi))
   for(isoweek_in in c('all',unique_weeks) )
@@ -138,9 +138,7 @@ data <- k_results %>% filter(random_id=='ML' & isoweek!='all') %>%
   pivot_wider(names_from = quantile,values_from = value) %>%
   left_join(node_isoweek_dates%>% mutate(isoweek=as.character(isoweek)),
             by=c('isoweek')) %>%
-  #left_join(npi_data,by=c('date_min'='Date')) %>%
   left_join(rt_iar_file,by=c('date_max'='date'))
-
 
 
 
@@ -317,7 +315,8 @@ plot_r
 
 # Section 3: NPI and risk-factor effects ----------------------------------------
 # Forest plots based on posterior summaries from the Zero-Inflated Beta-Binomial
-# (ZIBB) model fit in Python (numpyro/JAX, Section 4 of demo_pipeline.ipynb).
+# (ZIBB) and Zero-Inflated Negative-Binomial (ZINB) model fit in Python
+# (numpyro/JAX, Section 4 of demo_pipeline.ipynb).
 # The model regresses individual out-degrees on NPI stringency indices from the
 # Oxford Covid Government Response Tracker (C1, C2, C4, C6, C8, H6),
 # vaccination status, age group, SARS-CoV-2 variant, and Danish region (random
