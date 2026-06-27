@@ -36,8 +36,8 @@ Demo/
 Python 3.11 is recommended. Install the required packages with:
 
 ```bash
-pip install numpy pandas tqdm biopython regex hammingdist polars scipy \
-            networkx seaborn matplotlib joblib numpyro jax arviz
+pip install numpy pandas tqdm biopython regex hammingdist polars pyarrow scipy \
+            networkx seaborn matplotlib joblib numpyro jax arviz netCDF4
 ```
 
 > **Note:** `numpyro` and `jax` are required for the Negative Binomial model in Step 4.
