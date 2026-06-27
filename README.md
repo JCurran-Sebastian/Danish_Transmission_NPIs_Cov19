@@ -35,7 +35,6 @@ In addition, we have made use of the following libraries in R:
 - tidyverse
 - tidybayes
 - rstan
-- brms
 - patchwork
 - zoo
 - MASS
@@ -50,6 +49,8 @@ In /src/Demo/ we have provided a streamlined version of our code, as well as som
 All of the code to run the main analysis can be found in a single jupyter notebook, in the folder python within the Demo folder, called demo_pipeline.ipynb. The artificial data is already provided in the GitHub repo (in the data folder), but users can re-generate data (possibly with alternative parameter choices) using the notebook generate_demo_data.ipynb. 
 
 Additionally, we have provided some R code for producing plots of the reproduction number, overdispersion and NPI effects from the outputs of demo_pipeline.ipynb. It is optional to run these as well. 
+
+For full setup instructions, prerequisites, and a description of each pipeline step, see the [Demo README](src/Demo/README_Demo.md).
 
 ## Data availability
 
