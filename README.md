@@ -21,13 +21,19 @@ Analysis conducted using Python version 3.11.13 using the following packages:
 - regex v2.5.161
 - hammingdist v1.3.0
 - polars v1.33.1
+- pyarrow
 - geopandas v1.1.1
 - jupyter v1.1.1
 - matplotlib v3.10.6
 - scipy v1.16.2
 - seaborn v0.13.2
 - networkx v3.5
- 
+- joblib
+- arviz
+- jax
+- numpyro
+- netCDF4
+
 Typical install time < 1 minute
 
 In addition, we have made use of the following libraries in R:
@@ -40,6 +46,11 @@ In addition, we have made use of the following libraries in R:
 - MASS
 - lme4
 - jtools
+- ggsci
+- mgcv
+- rmutil
+- ggtext
+- ggh4x
 
 
 ## Demo
