@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/1091631455.svg)](https://doi.org/10.5281/zenodo.23232505)
 ## Danish_Transmission_NPIs_Cov19
 Code repository for inferring transmission networks from Danish SARS-CoV-2 viral genome data and modelling the impact of NPIs in Denmark. See preprint [here](https://www.medrxiv.org/content/10.64898/2026.01.08.26343683v1)
 
