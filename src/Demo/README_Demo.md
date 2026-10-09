@@ -50,7 +50,7 @@ R 4.x is recommended. The following packages are required:
 
 ```r
 install.packages(c("tidyverse", "tidybayes", "rstan", "patchwork",
-                   "zoo", "MASS", "lme4", "jtools", "mgcv", "ggsci","ggtext","ggh4x"))
+                   "zoo", "MASS", "lme4", "jtools", "mgcv", "ggsci","ggtext","ggh4x", "rmutil"))
 ```
 
 ---
