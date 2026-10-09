@@ -11,6 +11,9 @@ library(zoo)
 library(MASS)
 library(lme4)
 library(jtools)
+library(ggh4x)
+library(rmutil)
+library(ggtext)
 
 
 source('./stan_utility_fns.R')
